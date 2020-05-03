@@ -11,3 +11,8 @@ for k,item in enumerate(results):
     print(k, results[k]["softmax"])
     
     
+text = "Can you please pass the [MASK] "
+options = ["pizza", "rice", "tofu", 'eggs', 'milk']
+results = happy_roberta.predict_mask(text, options=options, num_results=3)
+
+print(results)

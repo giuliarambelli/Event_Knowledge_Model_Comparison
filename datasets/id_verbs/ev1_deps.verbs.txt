@@ -1,80 +1,80 @@
-0 The cop is arresting the criminal .	3
-1 The criminal is arresting the cop .	3
-2 The babysitter is scolding the child .	3
-3 The child is scolding the babysitter .	3
-4 The doctor is using a stethoscope on the patient .	3
-5 The patient is using a stethoscope on the doctor .	3
-6 The fireman is rescuing the grandmother .	3
-7 The grandmother is rescuing the fireman .	3
-8 The dentist is treating the patient .	3
-9 The patient is treating the dentist .	3
-10 The ghost is frightening the girl .	3
-11 The girl is frightening the ghost .	3
-12 The mother is feeding the baby .	3
-13 The baby is feeding the mother .	3
-14 The artist is painting the businessman .	3
-15 The businessman is painting the artist .	3
-16 The groom is carrying the bride .	3
-17 The bride is carrying the groom .	3
-18 The jester is entertaining the king .	3
-19 The king is entertaining the jester .	3
-20 The lion is pouncing on the Safari guide .	3
-21 The Safari guide is pouncing on the lion .	4
-22 The photographer is taking a picture of the model .	3
-23 The model is taking a picture of the photographer .	3
-24 The pirate is kidnapping the princess .	3
-25 The princess is kidnapping the pirate .	3
-26 The priest is blessing the bride .	3
-27 The bride is blessing the priest .	3
-28 The shark is biting the snorkeler .	3
-29 The snorkeler is biting the shark .	3
-30 The professor is lecturing to the student .	3
-31 The student is lecturing to the professor .	3
-32 The vampire is biting the woman .	3
-33 The woman is biting the vampire .	3
-34 The waiter is serving the customer .	3
-35 The customer is serving the waiter .	3
-36 The lawyer is giving money to the beggar .	3
-37 The beggar is giving money to the lawyer .	3
-38 The chef is cooking for the lady .	3
-39 The lady is cooking for the chef .	3
-40 The ballerina is dancing for the grandpa .	3
-41 The grandpa is dancing for the ballerina .	3
-42 The journalist is interviewing the sportsstar .	3
-43 The sportsstar is interviewing the journalist .	3
-44 The judge is sentencing the criminal .	3
-45 The criminal is sentencing the judge .	3
-46 The father is pulling the child on the sled .	3
-47 The child is pulling the father on the sled .	3
-48 Santa is giving the girl a present .	2
-49 The girl is giving Santa a present .	3
-50 The peasant is bowing to the queen .	3
-51 The queen is bowing to the peasant .	3
-52 The lady is applauding the athlete .	3
-53 The athlete is applauding the lad .	3
-54 The father is tying the son's shoes .	3
-55 The son is tying the father's shoes .	3
-56 The thief is stealing the purse from the grandma .	3
-57 The grandma is stealing the purse from the thief .	3
-58 The cat is chasing the mouse .	3
-59 The mouse is chasing the cat .	3
-60 The visitor is pushing the patient .	3
-61 The patient is pushing the visitor .	3
-62 The relative is bringing flowers to the patient .	3
-63 The patient is bringing flowers to the relative .	3
-64 The boss is yelling at the worker .	3
-65 The worker is yelling at the boss .	3
-66 The dog is leading the blind person .	3
-67 The blind person is leading the dog .	4
-68 The bouncer is preventing the woman from entering .	3
-69 The woman is preventing the bouncer from entering .	3
-70 The dog is licking the girl on the face .	3
-71 The girl is licking the dog on the face .	3
-72 The man is proposing to the woman .	3
-73 The woman is proposing to the man .	3
-74 The tailor is measuring the princess .	3
-75 The princess is measuring the tailor .	3
-76 The lifeguard is saving the grandmother .	3
-77 The grandmother is saving the lifeguard .	3
-78 The chauffeur is opening the door for the lady .	3
-79 The lady is opening the door for the chauffeur .	3
+0	The cop is arresting the criminal .	3
+1	The criminal is arresting the cop .	3
+2	The babysitter is scolding the child .	3
+3	The child is scolding the babysitter .	3
+4	The doctor is using a stethoscope on the patient .	3
+5	The patient is using a stethoscope on the doctor .	3
+6	The fireman is rescuing the grandmother .	3
+7	The grandmother is rescuing the fireman .	3
+8	The dentist is treating the patient .	3
+9	The patient is treating the dentist .	3
+10	The ghost is frightening the girl .	3
+11	The girl is frightening the ghost .	3
+12	The mother is feeding the baby .	3
+13	The baby is feeding the mother .	3
+14	The artist is painting the businessman .	3
+15	The businessman is painting the artist .	3
+16	The groom is carrying the bride .	3
+17	The bride is carrying the groom .	3
+18	The jester is entertaining the king .	3
+19	The king is entertaining the jester .	3
+20	The lion is pouncing on the Safari guide .	3
+21	The Safari guide is pouncing on the lion .	4
+22	The photographer is taking a picture of the model .	3
+23	The model is taking a picture of the photographer .	3
+24	The pirate is kidnapping the princess .	3
+25	The princess is kidnapping the pirate .	3
+26	The priest is blessing the bride .	3
+27	The bride is blessing the priest .	3
+28	The shark is biting the snorkeler .	3
+29	The snorkeler is biting the shark .	3
+30	The professor is lecturing to the student .	3
+31	The student is lecturing to the professor .	3
+32	The vampire is biting the woman .	3
+33	The woman is biting the vampire .	3
+34	The waiter is serving the customer .	3
+35	The customer is serving the waiter .	3
+36	The lawyer is giving money to the beggar .	3
+37	The beggar is giving money to the lawyer .	3
+38	The chef is cooking for the lady .	3
+39	The lady is cooking for the chef .	3
+40	The ballerina is dancing for the grandpa .	3
+41	The grandpa is dancing for the ballerina .	3
+42	The journalist is interviewing the sportsstar .	3
+43	The sportsstar is interviewing the journalist .	3
+44	The judge is sentencing the criminal .	3
+45	The criminal is sentencing the judge .	3
+46	The father is pulling the child on the sled .	3
+47	The child is pulling the father on the sled .	3
+48	Santa is giving the girl a present .	2
+49	The girl is giving Santa a present .	3
+50	The peasant is bowing to the queen .	3
+51	The queen is bowing to the peasant .	3
+52	The lady is applauding the athlete .	3
+53	The athlete is applauding the lad .	3
+54	The father is tying the son's shoes .	3
+55	The son is tying the father's shoes .	3
+56	The thief is stealing the purse from the grandma .	3
+57	The grandma is stealing the purse from the thief .	3
+58	The cat is chasing the mouse .	3
+59	The mouse is chasing the cat .	3
+60	The visitor is pushing the patient .	3
+61	The patient is pushing the visitor .	3
+62	The relative is bringing flowers to the patient .	3
+63	The patient is bringing flowers to the relative .	3
+64	The boss is yelling at the worker .	3
+65	The worker is yelling at the boss .	3
+66	The dog is leading the blind person .	3
+67	The blind person is leading the dog .	4
+68	The bouncer is preventing the woman from entering .	3
+69	The woman is preventing the bouncer from entering .	3
+70	The dog is licking the girl on the face .	3
+71	The girl is licking the dog on the face .	3
+72	The man is proposing to the woman .	3
+73	The woman is proposing to the man .	3
+74	The tailor is measuring the princess .	3
+75	The princess is measuring the tailor .	3
+76	The lifeguard is saving the grandmother .	3
+77	The grandmother is saving the lifeguard .	3
+78	The chauffeur is opening the door for the lady .	3
+79	The lady is opening the door for the chauffeur .	3

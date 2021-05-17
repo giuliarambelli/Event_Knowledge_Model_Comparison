@@ -1,0 +1,2176 @@
+0 The raider caught the illness .	2
+1 The illness caught the raider .	2
+2 The illness was caught by the raider .	3
+3 The raider was caught by the illness .	3
+4 The marauder contracted the disease .	2
+5 The disease contracted the marauder .	2
+6 The disease was contracted by the marauder .	3
+7 The marauder was contracted by the disease .	3
+8 The repairman fixed the tap .	2
+9 The tap fixed the repairman .	2
+10 The tap was fixed by the repairman .	3
+11 The repairman was fixed by the tap .	3
+12 The handyman repaired the faucet .	2
+13 The faucet repaired the handyman .	2
+14 The faucet was repaired by the handyman .	3
+15 The handyman was repaired by the faucet .	3
+16 The convict dreaded the prison .	2
+17 The prison dreaded the convict .	2
+18 The prison was dreaded by the convict .	3
+19 The convict was dreaded by the prison .	3
+20 The criminal feared the jail .	2
+21 The jail feared the criminal .	2
+22 The jail was feared by the criminal .	3
+23 The criminal was feared by the jail .	3
+24 The dietician loathed the jam .	2
+25 The jam loathed the dietician .	2
+26 The jam was loathed by the dietician .	3
+27 The dietician was loathed by the jam .	3
+28 The nutritionist detested the marmalade .	2
+29 The marmalade detested the nutritionist .	2
+30 The marmalade was detested by the nutritionist .	3
+31 The nutritionist was detested by the marmalade .	3
+32 The prostitute squandered the cash .	2
+33 The cash squandered the prostitute .	2
+34 The cash was squandered by the prostitute .	3
+35 The prostitute was squandered by the cash .	3
+36 The girl wasted the money .	2
+37 The money wasted the girl .	2
+38 The money was wasted by the girl .	3
+39 The girl was wasted by the money .	3
+40 The author finished the novel .	2
+41 The novel finished the author .	2
+42 The novel was finished by the author .	3
+43 The author was finished by the novel .	3
+44 The writer completed the book .	2
+45 The book completed the writer .	2
+46 The book was completed by the writer .	3
+47 The writer was completed by the book .	3
+48 The adventurer requested the beverage .	2
+49 The beverage requested the adventurer .	2
+50 The beverage was requested by the adventurer .	3
+51 The adventurer was requested by the beverage .	3
+52 The captain promised the triumph .	2
+53 The triumph promised the captain .	2
+54 The triumph was promised by the captain .	3
+55 The captain was promised by the triumph .	3
+56 The skipper guaranteed the victory .	2
+57 The victory guaranteed the skipper .	2
+58 The victory was guaranteed by the skipper .	3
+59 The skipper was guaranteed by the victory .	3
+60 The undertaker prepared the funeral .	2
+61 The funeral prepared the undertaker .	2
+62 The funeral was prepared by the undertaker .	3
+63 The undertaker was prepared by the funeral .	3
+64 The mortician arranged the burial .	2
+65 The burial arranged the mortician .	2
+66 The burial was arranged by the mortician .	3
+67 The mortician was arranged by the burial .	3
+68 The accountant made the chart .	2
+69 The chart made the accountant .	2
+70 The chart was made by the accountant .	3
+71 The accountant was made by the chart .	3
+72 The bookkeeper created the graph .	2
+73 The graph created the bookkeeper .	2
+74 The graph was created by the bookkeeper .	3
+75 The bookkeeper was created by the graph .	3
+76 The supervisor supplied the liquor .	2
+77 The liquor supplied the supervisor .	2
+78 The liquor was supplied by the supervisor .	3
+79 The supervisor was supplied by the liquor .	3
+80 The overseer provided the alcohol .	2
+81 The alcohol provided the overseer .	2
+82 The alcohol was provided by the overseer .	3
+83 The overseer was provided by the alcohol .	3
+84 The builder washed the pants .	2
+85 The pants washed the builder .	2
+86 The pants were washed by the builder .	3
+87 The builder was washed by the pants .	3
+88 The contractor laundered the trousers .	2
+89 The trousers laundered the contractor .	2
+90 The trousers were laundered by the contractor .	3
+91 The contractor was laundered by the trousers .	3
+92 The troublemaker crashed the car .	2
+93 The car crashed the troublemaker .	2
+94 The car was crashed by the troublemaker .	3
+95 The troublemaker was crashed by the car .	3
+96 The hooligan wrecked the vehicle .	2
+97 The vehicle wrecked the hooligan .	2
+98 The vehicle was wrecked by the hooligan .	3
+99 The hooligan was wrecked by the vehicle .	3
+100 The convalescent took the pill .	2
+101 The pill took the convalescent .	2
+102 The pill was taken by the convalescent .	3
+103 The convalescent was taken by the pill .	3
+104 The patient swallowed the medicine .	2
+105 The medicine swallowed the patient .	2
+106 The medicine was swallowed by the patient .	3
+107 The patient was swallowed by the medicine .	3
+108 The secretary organized the desk .	2
+109 The desk organized the secretary .	2
+110 The desk was organized by the secretary .	3
+111 The secretary was organized by the desk .	3
+112 The receptionist tidied the table .	2
+113 The table tidied the receptionist .	2
+114 The table was tidied by the receptionist .	3
+115 The receptionist was tidied by the table .	3
+116 The carnivore ate the steak .	2
+117 The steak ate the carnivore .	2
+118 The steak was eaten by the carnivore .	3
+119 The carnivore was eaten by the steak .	3
+120 The meat-eater devoured the filet .	2
+121 The filet devoured the meat-eater .	2
+122 The filet was devoured by the meat-eater .	3
+123 The meat-eater was devoured by the filet .	3
+124 The pilot steered the airplane .	2
+125 The airplane steered the pilot .	2
+126 The airplane was steered by the pilot .	3
+127 The pilot was steered by the airplane .	3
+128 The aviator maneuvered the jet .	2
+129 The jet maneuvered the aviator .	2
+130 The jet was maneuvered by the aviator .	3
+131 The aviator was maneuvered by the jet .	3
+132 The traveler lost the souvenir .	2
+133 The souvenir lost the traveler .	2
+134 The souvenir was lost by the traveler .	3
+135 The traveler was lost by the souvenir .	3
+136 The sightseer misplaced the memento .	2
+137 The memento misplaced the sightseer .	2
+138 The memento was misplaced by the sightseer .	3
+139 The sightseer was misplaced by the memento .	3
+140 The chef sauteed the squid .	2
+141 The squid sauteed the chef .	2
+142 The squid was sauteed by the chef .	3
+143 The chef was sauteed by the squid .	3
+144 The cook grilled the octopus .	2
+145 The octopus grilled the cook .	2
+146 The octopus was grilled by the cook .	3
+147 The cook was grilled by the octopus .	3
+148 The reporter abandoned the story .	2
+149 The story abandoned the reporter .	2
+150 The story was abandoned by the reporter .	3
+151 The reporter was abandoned by the story .	3
+152 The journalist ditched the article .	2
+153 The article ditched the journalist .	2
+154 The article was ditched by the journalist .	3
+155 The journalist was ditched by the article .	3
+156 The milliner adorned the fedora .	2
+157 The fedora adorned the milliner .	2
+158 The fedora was adorned by the milliner .	3
+159 The milliner was adorned by the fedora .	3
+160 The hatter decorated the bowler .	2
+161 The bowler decorated the hatter .	2
+162 The bowler was decorated by the hatter .	3
+163 The hatter was decorated by the bowler .	3
+164 The scientist discovered the cure .	2
+165 The cure discovered the scientist .	2
+166 The cure was discovered by the scientist .	3
+167 The scientist was discovered by the cure .	3
+168 The researcher found the remedy .	2
+169 The remedy found the researcher .	2
+170 The remedy was found by the researcher .	3
+171 The researcher was found by the remedy .	3
+172 The serviceman hoisted the flag .	2
+173 The flag hoisted the serviceman .	2
+174 The flag was hoisted by the serviceman .	3
+175 The serviceman was hoisted by the flag .	3
+176 The soldier raised the banner .	2
+177 The banner raised the soldier .	2
+178 The banner was raised by the soldier .	3
+179 The soldier was raised by the banner .	3
+180 The lady cooked the supper .	2
+181 The supper cooked the lady .	2
+182 The supper was cooked by the lady .	3
+183 The lady was cooked by the supper .	3
+184 The woman prepared the dinner .	2
+185 The dinner prepared the woman .	2
+186 The dinner was prepared by the woman .	3
+187 The woman was prepared by the dinner .	3
+188 The agent failed the mission .	2
+189 The mission failed the agent .	2
+190 The mission was failed by the agent .	3
+191 The agent was failed by the mission .	3
+192 The operative blew the assignment .	2
+193 The assignment blew the operative .	2
+194 The assignment was blown by the operative .	3
+195 The operative was blown by the assignment .	3
+196 The teacher bought the laptop .	2
+197 The laptop bought the teacher .	2
+198 The laptop was bought by the teacher .	3
+199 The teacher was bought by the laptop .	3
+200 The instructor purchased the computer .	2
+201 The computer purchased the instructor .	2
+202 The computer was purchased by the instructor .	3
+203 The instructor was purchased by the computer .	3
+204 The anchorman garbled the expression .	2
+205 The expression garbled the anchorman .	2
+206 The expression was garbled by the anchorman .	3
+207 The anchorman was garbled by the expression .	3
+208 The announcer mispronounced the word .	2
+209 The word mispronounced the announcer .	2
+210 The word was mispronounced by the announcer .	3
+211 The announcer was mispronounced by the word .	3
+212 The hoarder hid the stash .	2
+213 The stash hid the hoarder .	2
+214 The stash was hidden by the hoarder .	3
+215 The hoarder was hidden by the stash .	3
+216 The packrat concealed the stockpile .	2
+217 The stockpile concealed the packrat .	2
+218 The stockpile was concealed by the packrat .	3
+219 The packrat was concealed by the stockpile .	3
+220 The financier sponsored the project .	2
+221 The project sponsored the financier .	2
+222 The project was sponsored by the financier .	3
+223 The financier was sponsored by the project .	3
+224 The banker funded the program .	2
+225 The program funded the banker .	2
+226 The program was funded by the banker .	3
+227 The banker was funded by the program .	3
+228 The maid lifted the cushion .	2
+229 The cushion lifted the maid .	2
+230 The cushion was lifted by the maid .	3
+231 The maid was lifted by the cushion .	3
+232 The tourist exited the bus .	2
+233 The bus exited the tourist .	2
+234 The bus was exited by the tourist .	3
+235 The tourist was exited by the bus .	3
+236 The vacationer left the shuttle .	2
+237 The shuttle left the vacationer .	2
+238 The shuttle was left by the vacationer .	3
+239 The vacationer was left by the shuttle .	3
+240 The mentor revised the manuscript .	2
+241 The manuscript revised the mentor .	2
+242 The manuscript was revised by the mentor .	3
+243 The mentor was revised by the manuscript .	3
+244 The advisor edited the paper .	2
+245 The paper edited the advisor .	2
+246 The paper was edited by the advisor .	3
+247 The advisor was edited by the paper .	3
+248 The dietitian loathed the jam .	2
+249 The jam loathed the dietitian .	2
+250 The jam was loathed by the dietitian .	3
+251 The dietitian was loathed by the jam .	3
+252 The doctor closed the school .	2
+253 The school closed the doctor .	2
+254 The school was closed by the doctor .	3
+255 The doctor was closed by the school .	3
+256 The campaigner biased the ballot .	2
+257 The ballot biased the campaigner .	2
+258 The ballot was biased by the campaigner .	3
+259 The campaigner was biased by the ballot .	3
+260 The activist prejudiced the vote .	2
+261 The vote prejudiced the activist .	2
+262 The vote was prejudiced by the activist .	3
+263 The activist was prejudiced by the vote .	3
+264 The designer suggested the drapes .	2
+265 The drapes suggested the designer .	2
+266 The drapes was suggested by the designer .	3
+267 The designer was suggested by the drapes .	3
+268 The decorator recommended the curtains .	2
+269 The curtains recommended the decorator .	2
+270 The curtains was recommended by the decorator .	3
+271 The decorator was recommended by the curtains .	3
+272 The congressman delivered the speech .	2
+273 The speech delivered the congressman .	2
+274 The speech was delivered by the congressman .	3
+275 The congressman was delivered by the speech .	3
+276 The representative gave the address .	2
+277 The address gave the representative .	2
+278 The address was given by the representative .	3
+279 The representative was given by the address .	3
+280 The servant wiped the sink .	2
+281 The sink wiped the servant .	2
+282 The sink was wiped by the servant .	3
+283 The servant was wiped by the sink .	3
+284 The domestic cleaned the basin .	2
+285 The basin cleaned the domestic .	2
+286 The basin was cleaned by the domestic .	3
+287 The domestic was cleaned by the basin .	3
+288 The comedian confirmed the itinerary .	2
+289 The itinerary confirmed the comedian .	2
+290 The itinerary was confirmed by the comedian .	3
+291 The comedian was confirmed by the itinerary .	3
+292 The humorist verified the schedule .	2
+293 The schedule verified the humorist .	2
+294 The schedule was verified by the humorist .	3
+295 The humorist was verified by the schedule .	3
+296 The friend donned the pullover .	2
+297 The pullover donned the friend .	2
+298 The pullover was donned by the friend .	3
+299 The friend was donned by the pullover .	3
+300 The townsperson farmed the grain .	2
+301 The grain farmed the townsperson .	2
+302 The grain was farmed by the townsperson .	3
+303 The townsperson was farmed by the grain .	3
+304 The villager cultivated the crop .	2
+305 The crop cultivated the villager .	2
+306 The crop was cultivated by the villager .	3
+307 The villager was cultivated by the crop .	3
+308 The man drank the soda .	2
+309 The soda drank the man .	2
+310 The soda was drunk by the man .	3
+311 The man was drunk by the soda .	3
+312 The logger felled the tree .	2
+313 The tree felled the logger .	2
+314 The tree was felled by the logger .	3
+315 The logger was felled by the tree .	3
+316 The woodworker skimmed the brochure .	2
+317 The brochure skimmed the woodworker .	2
+318 The brochure was skimmed by the woodworker .	3
+319 The woodworker was skimmed by the brochure .	3
+320 The guide reached the target .	2
+321 The target reached the guide .	2
+322 The target was reached by the guide .	3
+323 The guide was reached by the target .	3
+324 The mortician arraged the burial .	2
+325 The burial arraged the mortician .	2
+326 The burial was arraged by the mortician .	3
+327 The mortician was arraged by the burial .	3
+328 The tycoon ran the company .	2
+329 The company ran the tycoon .	2
+330 The company was run by the tycoon .	3
+331 The tycoon was run by the company .	3
+332 The mogul governed the corporation .	2
+333 The corporation governed the mogul .	2
+334 The corporation was governed by the mogul .	3
+335 The mogul was governed by the corporation .	3
+336 The stewardess pulled the suitcase .	2
+337 The suitcase pulled the stewardess .	2
+338 The suitcase was pulled by the stewardess .	3
+339 The stewardess was pulled by the suitcase .	3
+340 The flight-attendant dragged the luggage .	2
+341 The luggage dragged the flight-attendant .	2
+342 The luggage was dragged by the flight-attendant .	3
+343 The flight-attendant was dragged by the luggage .	3
+344 The sheriff inspected the estate .	2
+345 The estate inspected the sheriff .	2
+346 The estate was inspected by the sheriff .	3
+347 The sheriff was inspected by the estate .	3
+348 The constable examined the property .	2
+349 The property examined the constable .	2
+350 The property was examined by the constable .	3
+351 The constable was examined by the property .	3
+352 The celebrity signed the photograph .	2
+353 The photograph signed the celebrity .	2
+354 The photograph was signed by the celebrity .	3
+355 The celebrity was signed by the photograph .	3
+356 The star autographed the picture .	2
+357 The picture autographed the star .	2
+358 The picture was autographed by the star .	3
+359 The star was autographed by the picture .	3
+360 The nanny tutored the boy .	2
+361 The boy tutored the nanny .	2
+362 The boy was tutored by the nanny .	3
+363 The nanny was tutored by the boy .	3
+364 The governess instructed the lad .	2
+365 The lad instructed the governess .	2
+366 The lad was instructed by the governess .	3
+367 The governess was instructed by the lad .	3
+368 The blackmailer threatened the senator .	2
+369 The senator threatened the blackmailer .	2
+370 The senator was threatened by the blackmailer .	3
+371 The blackmailer was threatened by the senator .	3
+372 The extortionist menaced the legislator .	2
+373 The legislator menaced the extortionist .	2
+374 The legislator was menaced by the extortionist .	3
+375 The extortionist was menaced by the legislator .	3
+376 The artist portrayed the philosopher .	2
+377 The philosopher portrayed the artist .	2
+378 The philosopher was portrayed by the artist .	3
+379 The artist was portrayed by the philosopher .	3
+380 The painter depicted the thinker .	2
+381 The thinker depicted the painter .	2
+382 The thinker was depicted by the painter .	3
+383 The painter was depicted by the thinker .	3
+384 The mechanic berated the intern .	2
+385 The intern berated the mechanic .	2
+386 The intern was berated by the mechanic .	3
+387 The mechanic was berated by the intern .	3
+388 The technician rebuked the aide .	2
+389 The aide rebuked the technician .	2
+390 The aide was rebuked by the technician .	3
+391 The technician was rebuked by the aide .	3
+392 The fairy enchanted the troll .	2
+393 The troll enchanted the fairy .	2
+394 The troll was enchanted by the fairy .	3
+395 The fairy was enchanted by the troll .	3
+396 The pixie mesmerized the ogre .	2
+397 The ogre mesmerized the pixie .	2
+398 The ogre was mesmerized by the pixie .	3
+399 The pixie was mesmerized by the ogre .	3
+400 The orderly assisted the dentist .	2
+401 The dentist assisted the orderly .	2
+402 The dentist was assisted by the orderly .	3
+403 The orderly was assisted by the dentist .	3
+404 The nurse helped the orthodontist .	2
+405 The orthodontist helped the nurse .	2
+406 The orthodontist was helped by the nurse .	3
+407 The nurse was helped by the orthodontist .	3
+408 The owner evicted the tenant .	2
+409 The tenant evicted the owner .	2
+410 The tenant was evicted by the owner .	3
+411 The owner was evicted by the tenant .	3
+412 The critic attacked the conservative .	2
+413 The conservative attacked the critic .	2
+414 The conservative was attacked by the critic .	3
+415 The critic was attacked by the conservative .	3
+416 The reviewer criticized the right-winger .	2
+417 The right-winger criticized the reviewer .	2
+418 The right-winger was criticized by the reviewer .	3
+419 The reviewer was criticized by the right-winger .	3
+420 The admirer badgered the director .	2
+421 The director badgered the admirer .	2
+422 The director was badgered by the admirer .	3
+423 The admirer was badgered by the director .	3
+424 The fan pestered the filmmaker .	2
+425 The filmmaker pestered the fan .	2
+426 The filmmaker was pestered by the fan .	3
+427 The fan was pestered by the filmmaker .	3
+428 The paramedic revived the youth .	2
+429 The youth revived the paramedic .	2
+430 The youth was revived by the paramedic .	3
+431 The paramedic was revived by the youth .	3
+432 The EMT resuscitated the youngster .	2
+433 The youngster resuscitated the EMT .	2
+434 The youngster was resuscitated by the EMT .	3
+435 The EMT was resuscitated by the youngster .	3
+436 The prankster duped the marketer .	2
+437 The marketer duped the prankster .	2
+438 The marketer was duped by the prankster .	3
+439 The prankster was duped by the marketer .	3
+440 The joker tricked the distributor .	2
+441 The distributor tricked the joker .	2
+442 The distributor was tricked by the joker .	3
+443 The joker was tricked by the distributor .	3
+444 The playboy courted the damsel .	2
+445 The damsel courted the playboy .	2
+446 The damsel was courted by the playboy .	3
+447 The playboy was courted by the damsel .	3
+448 The womanizer wooed the maiden .	2
+449 The maiden wooed the womanizer .	2
+450 The maiden was wooed by the womanizer .	3
+451 The womanizer was wooed by the maiden .	3
+452 The nomad cherished the clergyman .	2
+453 The clergyman cherished the nomad .	2
+454 The clergyman was cherished by the nomad .	3
+455 The nomad was cherished by the clergyman .	3
+456 The vagabond revered the priest .	2
+457 The priest revered the vagabond .	2
+458 The priest was revered by the vagabond .	3
+459 The vagabond was revered by the priest .	3
+460 The assassin shot the statesman .	2
+461 The statesman shot the assassin .	2
+462 The statesman was shot by the assassin .	3
+463 The assassin was shot by the statesman .	3
+464 The hitman killed the politician .	2
+465 The politician killed the hitman .	2
+466 The politician was killed by the hitman .	3
+467 The hitman was killed by the politician .	3
+468 The clerk charged the elderly .	2
+469 The elderly charged the clerk .	2
+470 The elderly was charged by the clerk .	3
+471 The clerk was charged by the elderly .	3
+472 The cashier billed the citizen .	2
+473 The citizen billed the cashier .	2
+474 The citizen was billed by the cashier .	3
+475 The cashier was billed by the citizen .	3
+476 The mediator rescued the hostage .	2
+477 The hostage rescued the mediator .	2
+478 The hostage was rescued by the mediator .	3
+479 The mediator was rescued by the hostage .	3
+480 The negotiator saved the captive .	2
+481 The captive saved the negotiator .	2
+482 The captive was saved by the negotiator .	3
+483 The negotiator was saved by the captive .	3
+484 The detective found the assailant .	2
+485 The assailant found the detective .	2
+486 The assailant was found by the detective .	3
+487 The detective was found by the assailant .	3
+488 The sleuth located the attacker .	2
+489 The attacker located the sleuth .	2
+490 The attacker was located by the sleuth .	3
+491 The sleuth was located by the attacker .	3
+492 The artisan trained the apprentice .	2
+493 The apprentice trained the artisan .	2
+494 The apprentice was trained by the artisan .	3
+495 The artisan was trained by the apprentice .	3
+496 The craftsman taught the trainee .	2
+497 The trainee taught the craftsman .	2
+498 The trainee was taught by the craftsman .	3
+499 The craftsman was taught by the trainee .	3
+500 The biker defied the trainer .	2
+501 The trainer defied the biker .	2
+502 The trainer was defied by the biker .	3
+503 The biker was defied by the trainer .	3
+504 The cyclist disobeyed the coach .	2
+505 The coach disobeyed the cyclist .	2
+506 The coach was disobeyed by the cyclist .	3
+507 The cyclist was disobeyed by the coach .	3
+508 The speaker engrossed the audience .	2
+509 The audience engrossed the speaker .	2
+510 The audience was engrossed by the speaker .	3
+511 The speaker was engrossed by the audience .	3
+512 The orator captivated the spectators .	2
+513 The spectators captivated the orator .	2
+514 The spectators were captivated by the orator .	3
+515 The orator was captivated by the spectators .	3
+516 The genius shocked the cousin .	2
+517 The cousin shocked the genius .	2
+518 The cousin was shocked by the genius .	3
+519 The genius was shocked by the cousin .	3
+520 The prodigy surprised the relative .	2
+521 The relative surprised the prodigy .	2
+522 The relative was surprised by the prodigy .	3
+523 The prodigy was surprised by the relative .	3
+524 The smuggler bribed the bureaucrat .	2
+525 The bureaucrat bribed the smuggler .	2
+526 The bureaucrat was bribed by the smuggler .	3
+527 The smuggler was bribed by the bureaucrat .	3
+528 The amateur irked the maesto .	2
+529 The maesto irked the amateur .	2
+530 The maesto was irked by the amateur .	3
+531 The amateur was irked by the maesto .	3
+532 The novice irritated the virtuoso .	2
+533 The virtuoso irritated the novice .	2
+534 The virtuoso was irritated by the novice .	3
+535 The novice was irritated by the virtuoso .	3
+536 The lawyer questioned the witness .	2
+537 The witness questioned the lawyer .	2
+538 The witness was questioned by the lawyer .	3
+539 The lawyer was questioned by the witness .	3
+540 The attorney interrogated the bystander .	2
+541 The bystander interrogated the attorney .	2
+542 The bystander was interrogated by the attorney .	3
+543 The attorney was interrogated by the bystander .	3
+544 The singer disappointed the enthusiast .	2
+545 The enthusiast disappointed the singer .	2
+546 The enthusiast was disappointed by the singer .	3
+547 The singer was disappointed by the enthusiast .	3
+548 The vocalist disillusioned the connoisseur .	2
+549 The connoisseur disillusioned the vocalist .	2
+550 The connoisseur was disillusioned by the vocalist .	3
+551 The vocalist was disillusioned by the connoisseur .	3
+552 The chauffeur drove the diplomat .	2
+553 The diplomat drove the chauffeur .	2
+554 The diplomat was driven by the chauffeur .	3
+555 The chauffeur was driven by the diplomat .	3
+556 The driver transported the ambassador .	2
+557 The ambassador transported the driver .	2
+558 The ambassador was transported by the driver .	3
+559 The driver was transported by the ambassador .	3
+560 The guard apprehended the prisoner .	2
+561 The prisoner apprehended the guard .	2
+562 The prisoner was apprehended by the guard .	3
+563 The guard was apprehended by the prisoner .	3
+564 The warden caught the inmate .	2
+565 The inmate caught the warden .	2
+566 The inmate was caught by the warden .	3
+567 The warden was caught by the inmate .	3
+568 The tailor costumed the dancer .	2
+569 The dancer costumed the tailor .	2
+570 The dancer was costumed by the tailor .	3
+571 The tailor was costumed by the dancer .	3
+572 The dressmaker attired the ballerina .	2
+573 The ballerina attired the dressmaker .	2
+574 The ballerina was attired by the dressmaker .	3
+575 The dressmaker was attired by the ballerina .	3
+576 The principal scolded the child .	2
+577 The child scolded the principal .	2
+578 The child was scolded by the principal .	3
+579 The principal was scolded by the child .	3
+580 The headmaster reprimanded the kid .	2
+581 The kid reprimanded the headmaster .	2
+582 The kid was reprimanded by the headmaster .	3
+583 The headmaster was reprimanded by the kid .	3
+584 The lord named the heir .	2
+585 The heir named the lord .	2
+586 The heir was named by the lord .	3
+587 The lord was named by the heir .	3
+588 The baron chose the successor .	2
+589 The successor chose the baron .	2
+590 The successor was chosen by the baron .	3
+591 The baron was chosen by the successor .	3
+592 The cop restrained the rioter .	2
+593 The rioter restrained the cop .	2
+594 The rioter was restrained by the cop .	3
+595 The cop was restrained by the rioter .	3
+596 The policeman subdued the rabble-rouser .	2
+597 The rabble-rouser subdued the policeman .	2
+598 The rabble-rouser was subdued by the policeman .	3
+599 The policeman was subdued by the rabble-rouser .	3
+600 The dad coddled the baby .	2
+601 The baby coddled the dad .	2
+602 The baby was coddled by the dad .	3
+603 The dad was coddled by the baby .	3
+604 The father pampered the infant .	2
+605 The infant pampered the father .	2
+606 The infant was pampered by the father .	3
+607 The father was pampered by the infant .	3
+608 The king exiled the rebel .	2
+609 The rebel exiled the king .	2
+610 The rebel was exiled by the king .	3
+611 The king was exiled by the rebel .	3
+612 The monarch banished the insurgent .	2
+613 The insurgent banished the monarch .	2
+614 The insurgent was banished by the monarch .	3
+615 The monarch was banished by the insurgent .	3
+616 The thief robbed the manufacturer .	2
+617 The manufacturer robbed the thief .	2
+618 The manufacturer was robbed by the thief .	3
+619 The thief was robbed by the manufacturer .	3
+620 The robber burgled the industrialist .	2
+621 The industrialist burgled the robber .	2
+622 The industrialist was burgled by the robber .	3
+623 The robber was burgled by the industrialist .	3
+624 The pessimist discouraged the contestant .	2
+625 The contestant discouraged the pessimist .	2
+626 The contestant was discouraged by the pessimist .	3
+627 The pessimist was discouraged by the contestant .	3
+628 The cynic dissuaded the participant .	2
+629 The participant dissuaded the cynic .	2
+630 The participant was dissuaded by the cynic .	3
+631 The cynic was dissuaded by the participant .	3
+632 The loudmouth tormented the loner .	2
+633 The loner tormented the loudmouth .	2
+634 The loner was tormented by the loudmouth .	3
+635 The loudmouth was tormented by the loner .	3
+636 The windbag taunted the recluse .	2
+637 The recluse taunted the windbag .	2
+638 The recluse was taunted by the windbag .	3
+639 The windbag was taunted by the recluse .	3
+640 The imitator fooled the investigator .	2
+641 The investigator fooled the imitator .	2
+642 The investigator was fooled by the imitator .	3
+643 The imitator was fooled by the investigator .	3
+644 The impersonator conned the inspector .	2
+645 The inspector conned the impersonator .	2
+646 The inspector was conned by the impersonator .	3
+647 The impersonator was conned by the inspector .	3
+648 The boss fired the worker .	2
+649 The worker fired the boss .	2
+650 The worker was fired by the boss .	3
+651 The boss was fired by the worker .	3
+652 The pyromaniac unnerved the shopkeeper .	2
+653 The shopkeeper unnerved the pyromaniac .	2
+654 The shopkeeper was unnerved by the pyromaniac .	3
+655 The pyromaniac was unnerved by the shopkeeper .	3
+656 The arsonist alarmed the vendor .	2
+657 The vendor alarmed the arsonist .	2
+658 The vendor was alarmed by the arsonist .	3
+659 The arsonist was alarmed by the vendor .	3
+660 The professional supported the beginner .	2
+661 The beginner supported the professional .	2
+662 The beginner was supported by the professional .	3
+663 The professional was supported by the beginner .	3
+664 The master encouraged the rookie .	2
+665 The rookie encouraged the master .	2
+666 The rookie was encouraged by the master .	3
+667 The master was encouraged by the rookie .	3
+668 The magician hypnotized the crowd .	2
+669 The crowd hypnotized the magician .	2
+670 The crowd was hypnotized by the magician .	3
+671 The magician was hypnotized by the crowd .	3
+672 The illusionist entranced the viewers .	2
+673 The viewers entranced the illusionist .	2
+674 The viewers was entranced by the illusionist .	3
+675 The illusionist was entranced by the viewers .	3
+676 The businessman employed the expert .	2
+677 The expert employed the businessman .	2
+678 The expert was employed by the businessman .	3
+679 The businessman was employed by the expert .	3
+680 The entrepreneur hired the specialist .	2
+681 The specialist hired the entrepreneur .	2
+682 The specialist was hired by the entrepreneur .	3
+683 The entrepreneur was hired by the specialist .	3
+684 The terrorist petrified the lady .	2
+685 The lady petrified the terrorist .	2
+686 The lady was petrified by the terrorist .	3
+687 The terrorist was petrified by the lady .	3
+688 The hijacker terrified the president's .	2
+689 The president's terrified the hijacker .	2
+690 The president's was terrified by the hijacker .	3
+691 The hijacker was terrified by the president's .	3
+692 The judge praised the medalist .	2
+693 The medalist praised the judge .	2
+694 The medalist was praised by the judge .	3
+695 The judge was praised by the medalist .	3
+696 The panelist congratulated the winner .	2
+697 The winner congratulated the panelist .	2
+698 The winner was congratulated by the panelist .	3
+699 The panelist was congratulated by the winner .	3
+700 The liar emulated the victor .	2
+701 The victor emulated the liar .	2
+702 The victor was emulated by the liar .	3
+703 The liar was emulated by the victor .	3
+704 The deceiver imitated the conqueror .	2
+705 The conqueror imitated the deceiver .	2
+706 The conqueror was imitated by the deceiver .	3
+707 The deceiver was imitated by the conqueror .	3
+708 The environmentalist cautioned the tobacconist .	2
+709 The tobacconist cautioned the environmentalist .	2
+710 The tobacconist was cautioned by the environmentalist .	3
+711 The environmentalist was cautioned by the tobacconist .	3
+712 The ecologist warned the cigar-maker .	2
+713 The cigar-maker warned the ecologist .	2
+714 The cigar-maker was warned by the ecologist .	3
+715 The ecologist was warned by the cigar-maker .	3
+716 The peasant idolized the ancestors .	2
+717 The ancestors idolized the peasant .	2
+718 The ancestors was idolized by the peasant .	3
+719 The peasant was idolized by the ancestors .	3
+720 The serf worshipped the forefathers .	2
+721 The forefathers worshipped the serf .	2
+722 The forefathers was worshipped by the serf .	3
+723 The serf was worshipped by the forefathers .	3
+724 The alcoholic hassled the guest .	2
+725 The guest hassled the alcoholic .	2
+726 The guest was hassled by the alcoholic .	3
+727 The alcoholic was hassled by the guest .	3
+728 The drunk bothered the visitor .	2
+729 The visitor bothered the drunk .	2
+730 The visitor was bothered by the drunk .	3
+731 The drunk was bothered by the visitor .	3
+732 The commentator vexed the athlete .	2
+733 The athlete vexed the commentator .	2
+734 The athlete was vexed by the commentator .	3
+735 The commentator was vexed by the athlete .	3
+736 The sportscaster peeved the jock .	2
+737 The jock peeved the sportscaster .	2
+738 The jock was peeved by the sportscaster .	3
+739 The sportscaster was peeved by the jock .	3
+740 The preacher hugged the churchgoer .	2
+741 The churchgoer hugged the preacher .	2
+742 The churchgoer was hugged by the preacher .	3
+743 The preacher was hugged by the churchgoer .	3
+744 The pastor embraced the parishioner .	2
+745 The parishioner embraced the pastor .	2
+746 The parishioner was embraced by the pastor .	3
+747 The pastor was embraced by the parishioner .	3
+748 The maniac mocked the clown .	2
+749 The clown mocked the maniac .	2
+750 The clown was mocked by the maniac .	3
+751 The maniac was mocked by the clown .	3
+752 The lunatic ridiculed the jester .	2
+753 The jester ridiculed the lunatic .	2
+754 The jester was ridiculed by the lunatic .	3
+755 The lunatic was ridiculed by the jester .	3
+756 The archivist contacted the inventor .	2
+757 The inventor contacted the archivist .	2
+758 The inventor was contacted by the archivist .	3
+759 The archivist was contacted by the inventor .	3
+760 The historian approached the innovator .	2
+761 The innovator approached the historian .	2
+762 The innovator was approached by the historian .	3
+763 The historian was approached by the innovator .	3
+764 The janitor called the landscaper .	2
+765 The landscaper called the janitor .	2
+766 The landscaper was called by the janitor .	3
+767 The janitor was called by the landscaper .	3
+768 The custodian phoned the gardener .	2
+769 The gardener phoned the custodian .	2
+770 The gardener was phoned by the custodian .	3
+771 The custodian was phoned by the gardener .	3
+772 The drummer annoyed the weatherman .	2
+773 The weatherman annoyed the drummer .	2
+774 The weatherman was annoyed by the drummer .	3
+775 The drummer was annoyed by the weatherman .	3
+776 The percussionist displeased the meteorologist .	2
+777 The meteorologist displeased the percussionist .	2
+778 The meteorologist was displeased by the percussionist .	3
+779 The percussionist was displeased by the meteorologist .	3
+780 The go-between belittled the defendant .	2
+781 The defendant belittled the go-between .	2
+782 The defendant was belittled by the go-between .	3
+783 The go-between was belittled by the defendant .	3
+784 The intermediary deprecated the felon .	2
+785 The felon deprecated the intermediary .	2
+786 The felon was deprecated by the intermediary .	3
+787 The intermediary was deprecated by the felon .	3
+788 The valet entertained the envoy .	2
+789 The envoy entertained the valet .	2
+790 The envoy was entertained by the valet .	3
+791 The valet was entertained by the envoy .	3
+792 The manservant amused the emissary .	2
+793 The emissary amused the manservant .	2
+794 The emissary was amused by the manservant .	3
+795 The manservant was amused by the emissary .	3
+796 The acrobat pushed the stranger .	2
+797 The stranger pushed the acrobat .	2
+798 The stranger was pushed by the acrobat .	3
+799 The acrobat was pushed by the stranger .	3
+800 The gymnast shoved the outsider .	2
+801 The outsider shoved the gymnast .	2
+802 The outsider was shoved by the gymnast .	3
+803 The gymnast was shoved by the outsider .	3
+804 The benefactor calmed the architect .	2
+805 The architect calmed the benefactor .	2
+806 The architect was calmed by the benefactor .	3
+807 The benefactor was calmed by the architect .	3
+808 The patron soothed the draftsman .	2
+809 The draftsman soothed the patron .	2
+810 The draftsman was soothed by the patron .	3
+811 The patron was soothed by the draftsman .	3
+812 The therapist lauded the hairdresser .	2
+813 The hairdresser lauded the therapist .	2
+814 The hairdresser was lauded by the therapist .	3
+815 The therapist was lauded by the hairdresser .	3
+816 The psychologist extolled the hairstylist .	2
+817 The hairstylist extolled the psychologist .	2
+818 The hairstylist was extolled by the psychologist .	3
+819 The psychologist was extolled by the hairstylist .	3
+820 The nobleman married the baroness .	2
+821 The baroness married the nobleman .	2
+822 The baroness was married by the nobleman .	3
+823 The nobleman was married by the baroness .	3
+824 The aristocrat wed the countess .	2
+825 The countess wed the aristocrat .	2
+826 The countess was wed by the aristocrat .	3
+827 The aristocrat was wed by the countess .	3
+828 The actuary assuaged the creditor .	2
+829 The creditor assuaged the actuary .	2
+830 The creditor was assuaged by the actuary .	3
+831 The actuary was assuaged by the creditor .	3
+832 The analyst relieved the investor .	2
+833 The investor relieved the analyst .	2
+834 The investor was relieved by the analyst .	3
+835 The analyst was relieved by the investor .	3
+836 The sailor frightened the psychic .	2
+837 The psychic frightened the sailor .	2
+838 The psychic was frightened by the sailor .	3
+839 The sailor was frightened by the psychic .	3
+840 The mariner scared the fortune-teller .	2
+841 The fortune-teller scared the mariner .	2
+842 The fortune-teller was scared by the mariner .	3
+843 The mariner was scared by the fortune-teller .	3
+844 The assistant flattered the auditor .	2
+845 The auditor flattered the assistant .	2
+846 The auditor was flattered by the assistant .	3
+847 The assistant was flattered by the auditor .	3
+848 The helper complimented the appraiser .	2
+849 The appraiser complimented the helper .	2
+850 The appraiser was complimented by the helper .	3
+851 The helper was complimented by the appraiser .	3
+852 The immigrant believed the trooper .	2
+853 The trooper believed the immigrant .	2
+854 The trooper was believed by the immigrant .	3
+855 The immigrant was believed by the trooper .	3
+856 The foreigner trusted the patrolman .	2
+857 The patrolman trusted the foreigner .	2
+858 The patrolman was trusted by the foreigner .	3
+859 The foreigner was trusted by the patrolman .	3
+860 The mapmaker affronted the farmer .	2
+861 The farmer affronted the mapmaker .	2
+862 The farmer was affronted by the mapmaker .	3
+863 The mapmaker was affronted by the farmer .	3
+864 The cartographer insulted the rancher .	2
+865 The rancher insulted the cartographer .	2
+866 The rancher was insulted by the cartographer .	3
+867 The cartographer was insulted by the rancher .	3
+868 The poet awed the entertainer .	2
+869 The entertainer awed the poet .	2
+870 The entertainer was awed by the poet .	3
+871 The poet was awed by the entertainer .	3
+872 The lyricist dazzled the performer .	2
+873 The performer dazzled the lyricist .	2
+874 The performer was dazzled by the lyricist .	3
+875 The lyricist was dazzled by the performer .	3
+876 The peddler tested the manager .	2
+877 The manager tested the peddler .	2
+878 The manager was tested by the peddler .	3
+879 The peddler was tested by the manager .	3
+880 The salesman challenged the executive .	2
+881 The executive challenged the salesman .	2
+882 The executive was challenged by the salesman .	3
+883 The salesman was challenged by the executive .	3
+884 The musician admired the diva .	2
+885 The diva admired the musician .	2
+886 The diva was admired by the musician .	3
+887 The musician was admired by the diva .	3
+888 The instrumentalist adored the prima_donna .	2
+889 The prima_donna adored the instrumentalist .	2
+890 The prima_donna was adored by the instrumentalist .	3
+891 The instrumentalist was adored by the prima_donna .	3
+892 The general welcomed the hero .	2
+893 The hero welcomed the general .	2
+894 The hero was welcomed by the general .	3
+895 The general was welcomed by the hero .	3
+896 The commander greeted the champion .	2
+897 The champion greeted the commander .	2
+898 The champion was greeted by the commander .	3
+899 The commander was greeted by the champion .	3
+900 The cobbler disdained the stonecutter .	2
+901 The stonecutter disdained the cobbler .	2
+902 The stonecutter was disdained by the cobbler .	3
+903 The cobbler was disdained by the stonecutter .	3
+904 The shoemaker scorned the mason .	2
+905 The mason scorned the shoemaker .	2
+906 The mason was scorned by the shoemaker .	3
+907 The shoemaker was scorned by the mason .	3
+908 The postman noticed the chaplain .	2
+909 The chaplain noticed the postman .	2
+910 The chaplain was noticed by the postman .	3
+911 The postman was noticed by the chaplain .	3
+912 The mailman saw the minister .	2
+913 The minister saw the mailman .	2
+914 The minister was seen by the mailman .	3
+915 The mailman was seen by the minister .	3
+916 The composer begrudged the playwright .	2
+917 The playwright begrudged the composer .	2
+918 The playwright was begrudged by the composer .	3
+919 The composer was begrudged by the playwright .	3
+920 The songwriter envied the dramatist .	2
+921 The dramatist envied the songwriter .	2
+922 The dramatist was envied by the songwriter .	3
+923 The songwriter was envied by the dramatist .	3
+924 The dictator angered the residents .	2
+925 The residents angered the dictator .	2
+926 The residents was angered by the dictator .	3
+927 The dictator was angered by the residents .	3
+928 The despot enraged the townspeople .	2
+929 The townspeople enraged the despot .	2
+930 The townspeople was enraged by the despot .	3
+931 The despot was enraged by the townspeople .	3
+932 The missionary baffled the oracle .	2
+933 The oracle baffled the missionary .	2
+934 The oracle was baffled by the missionary .	3
+935 The missionary was baffled by the oracle .	3
+936 The evangelist mystified the soothsayer .	2
+937 The soothsayer mystified the evangelist .	2
+938 The soothsayer was mystified by the evangelist .	3
+939 The evangelist was mystified by the soothsayer .	3
+940 The trespasser choked the fighter .	2
+941 The fighter choked the trespasser .	2
+942 The fighter was choked by the trespasser .	3
+943 The trespasser was choked by the fighter .	3
+944 The encroacher strangled the warrior .	2
+945 The warrior strangled the encroacher .	2
+946 The warrior was strangled by the encroacher .	3
+947 The encroacher was strangled by the warrior .	3
+948 The broker introduced the donor .	2
+949 The donor introduced the broker .	2
+950 The donor was introduced by the broker .	3
+951 The broker was introduced by the donor .	3
+952 The dealer presented the sponsor .	2
+953 The sponsor presented the dealer .	2
+954 The sponsor was presented by the dealer .	3
+955 The dealer was presented by the sponsor .	3
+956 The shrink commended the dean .	2
+957 The dean commended the shrink .	2
+958 The dean was commended by the shrink .	3
+959 The shrink was commended by the dean .	3
+960 The psychiatrist applauded the provost .	2
+961 The provost applauded the psychiatrist .	2
+962 The provost was applauded by the psychiatrist .	3
+963 The psychiatrist was applauded by the provost .	3
+964 The refugee provoked the homeless .	2
+965 The homeless provoked the refugee .	2
+966 The homeless was provoked by the refugee .	3
+967 The refugee was provoked by the homeless .	3
+968 The asylum goaded the vagrant .	2
+969 The vagrant goaded the asylum .	2
+970 The vagrant was goaded by the asylum .	3
+971 The asylum was goaded by the vagrant .	3
+972 The interpreter swindled the messenger .	2
+973 The messenger swindled the interpreter .	2
+974 The messenger was swindled by the interpreter .	3
+975 The interpreter was swindled by the messenger .	3
+976 The translator deceived the courier .	2
+977 The courier deceived the translator .	2
+978 The courier was deceived by the translator .	3
+979 The translator was deceived by the courier .	3
+980 The gangster hated the governor .	2
+981 The governor hated the gangster .	2
+982 The governor was hated by the gangster .	3
+983 The gangster was hated by the governor .	3
+984 The hoodlum abhorred the chancellor .	2
+985 The chancellor abhorred the hoodlum .	2
+986 The chancellor was abhorred by the hoodlum .	3
+987 The hoodlum was abhorred by the chancellor .	3
+988 The planner convinced the customer .	2
+989 The customer convinced the planner .	2
+990 The customer was convinced by the planner .	3
+991 The planner was convinced by the customer .	3
+992 The organizer persuaded the buyer .	2
+993 The buyer persuaded the organizer .	2
+994 The buyer was persuaded by the organizer .	3
+995 The organizer was persuaded by the buyer .	3
+996 The wizard protected the gnome .	2
+997 The gnome protected the wizard .	2
+998 The gnome was protected by the wizard .	3
+999 The wizard was protected by the gnome .	3
+1000 The sorcerer defended the dwarf .	2
+1001 The dwarf defended the sorcerer .	2
+1002 The dwarf was defended by the sorcerer .	3
+1003 The sorcerer was defended by the dwarf .	3
+1004 The student befuddled the professor .	2
+1005 The professor befuddled the student .	2
+1006 The professor was befuddled by the student .	3
+1007 The student was befuddled by the professor .	3
+1008 The scholar confused the lecturer .	2
+1009 The lecturer confused the scholar .	2
+1010 The lecturer was confused by the scholar .	3
+1011 The scholar was confused by the lecturer .	3
+1012 The invader spotted the sentry .	2
+1013 The sentry spotted the invader .	2
+1014 The sentry was spotted by the invader .	3
+1015 The invader was spotted by the sentry .	3
+1016 The intruder sighted the watchman .	2
+1017 The watchman sighted the intruder .	2
+1018 The watchman was sighted by the intruder .	3
+1019 The intruder was sighted by the watchman .	3
+1020 The supplier reimbursed the merchant .	2
+1021 The merchant reimbursed the supplier .	2
+1022 The merchant was reimbursed by the supplier .	3
+1023 The supplier was reimbursed by the merchant .	3
+1024 The wholesaler compensated the trader .	2
+1025 The trader compensated the wholesaler .	2
+1026 The trader was compensated by the wholesaler .	3
+1027 The wholesaler was compensated by the trader .	3
+1028 The accuser confronted the vandal .	2
+1029 The vandal confronted the accuser .	2
+1030 The vandal was confronted by the accuser .	3
+1031 The accuser was confronted by the vandal .	3
+1032 The plaintiff accosted the thug .	2
+1033 The thug accosted the plaintiff .	2
+1034 The thug was accosted by the plaintiff .	3
+1035 The plaintiff was accosted by the thug .	3
+1036 The trickster bemused the idiot .	2
+1037 The idiot bemused the trickster .	2
+1038 The idiot was bemused by the trickster .	3
+1039 The trickster was bemused by the idiot .	3
+1040 The swindler puzzled the fool .	2
+1041 The fool puzzled the swindler .	2
+1042 The fool was puzzled by the swindler .	3
+1043 The swindler was puzzled by the fool .	3
+1044 The protestor quoted the leader .	2
+1045 The leader quoted the protestor .	2
+1046 The leader was quoted by the protestor .	3
+1047 The protestor was quoted by the leader .	3
+1048 The striker cited the chief .	2
+1049 The chief cited the striker .	2
+1050 The chief was cited by the striker .	3
+1051 The striker was cited by the chief .	3
+1052 The worker repulsed the taxi-driver .	2
+1053 The taxi-driver repulsed the worker .	2
+1054 The taxi-driver was repulsed by the worker .	3
+1055 The worker was repulsed by the taxi-driver .	3
+1056 The carrier disgusted the cabbie .	2
+1057 The cabbie disgusted the carrier .	2
+1058 The cabbie was disgusted by the carrier .	3
+1059 The carrier was disgusted by the cabbie .	3
+1060 The competitor agitated the rival .	2
+1061 The rival agitated the competitor .	2
+1062 The rival was agitated by the competitor .	3
+1063 The competitor was agitated by the rival .	3
+1064 The contender flustered the opponent .	2
+1065 The opponent flustered the contender .	2
+1066 The opponent was flustered by the contender .	3
+1067 The contender was flustered by the opponent .	3
+1068 The officer alerted the authorities .	2
+1069 The authorities alerted the officer .	2
+1070 The authorities were alerted by the officer .	3
+1071 The officer was alerted by the authorities .	3
+1072 The deputy notified the higher-ups .	2
+1073 The higher-ups notified the deputy .	2
+1074 The higher-ups were notified by the deputy .	3
+1075 The deputy was notified by the higher-ups .	3
+1076 The culprit betrayed the hunter .	2
+1077 The hunter betrayed the culprit .	2
+1078 The hunter was betrayed by the culprit .	3
+1079 The culprit was betrayed by the hunter .	3
+1080 The botanist respected the partner .	2
+1081 The partner respected the botanist .	2
+1082 The partner was respected by the botanist .	3
+1083 The botanist was respected by the partner .	3
+1084 The flora esteemed the collaborator .	2
+1085 The collaborator esteemed the flora .	2
+1086 The collaborator was esteemed by the flora .	3
+1087 The flora was esteemed by the collaborator .	3
+1088 The pacifist placated the zealot .	2
+1089 The zealot placated the pacifist .	2
+1090 The zealot was placated by the pacifist .	3
+1091 The pacifist was placated by the zealot .	3
+1092 The peace-lover mollified the fanatic .	2
+1093 The fanatic mollified the peace-lover .	2
+1094 The fanatic was mollified by the peace-lover .	3
+1095 The peace-lover was mollified by the fanatic .	3
+1096 The scoundrel beat the protagonist .	2
+1097 The protagonist beat the scoundrel .	2
+1098 The protagonist was beaten by the scoundrel .	3
+1099 The scoundrel was beaten by the protagonist .	3
+1100 The rogue defeated the character .	2
+1101 The character defeated the rogue .	2
+1102 The character was defeated by the rogue .	3
+1103 The rogue was defeated by the character .	3
+1104 The sociologist accepted the offer .	2
+1105 The offer accepted the sociologist .	2
+1106 The offer was accepted by the sociologist .	3
+1107 The sociologist was accepted by the offer .	3
+1108 The boyfriend basted the turkey .	2
+1109 The turkey basted the boyfriend .	2
+1110 The turkey was basted by the boyfriend .	3
+1111 The boyfriend was basted by the turkey .	3
+1112 The caseworker posed the question .	2
+1113 The question posed the caseworker .	2
+1114 The question was posed by the caseworker .	3
+1115 The caseworker was posed by the question .	3
+1116 The ditchdigger bent the wire .	2
+1117 The wire bent the ditchdigger .	2
+1118 The wire was bent by the ditchdigger .	3
+1119 The ditchdigger was bent by the wire .	3
+1120 The box-office sold the tickets .	2
+1121 The tickets sold the box-office .	2
+1122 The tickets was sold by the box-office .	3
+1123 The box-office was sold by the tickets .	3
+1124 The uncle hung the ornament .	2
+1125 The ornament hung the uncle .	2
+1126 The ornament was hung by the uncle .	3
+1127 The uncle was hung by the ornament .	3
+1128 The attendant pressed the button .	2
+1129 The button pressed the attendant .	2
+1130 The button was pressed by the attendant .	3
+1131 The attendant was pressed by the button .	3
+1132 The bum stole the necklace .	2
+1133 The necklace stole the bum .	2
+1134 The necklace was stolen by the bum .	3
+1135 The bum was stolen by the necklace .	3
+1136 The potter molded the clay .	2
+1137 The clay molded the potter .	2
+1138 The clay was molded by the potter .	3
+1139 The potter was molded by the clay .	3
+1140 The guarantor initialed the form .	2
+1141 The form initialed the guarantor .	2
+1142 The form was initialed by the guarantor .	3
+1143 The guarantor was initialed by the form .	3
+1144 The couch-potato forgot the umbrella .	2
+1145 The umbrella forgot the couch-potato .	2
+1146 The umbrella was forgotten by the couch-potato .	3
+1147 The couch-potato was forgotten by the umbrella .	3
+1148 The groupie attended the concert .	2
+1149 The concert attended the groupie .	2
+1150 The concert was attended by the groupie .	3
+1151 The groupie was attended by the concert .	3
+1152 The hacker memorized the password .	2
+1153 The password memorized the hacker .	2
+1154 The password was memorized by the hacker .	3
+1155 The hacker was memorized by the password .	3
+1156 The marine packed the bag .	2
+1157 The bag packed the marine .	2
+1158 The bag was packed by the marine .	3
+1159 The marine was packed by the bag .	3
+1160 The counselor emphasized the rules .	2
+1161 The rules emphasized the counselor .	2
+1162 The rules was emphasized by the counselor .	3
+1163 The counselor was emphasized by the rules .	3
+1164 The seamstress ironed the shirt .	2
+1165 The shirt ironed the seamstress .	2
+1166 The shirt was ironed by the seamstress .	3
+1167 The seamstress was ironed by the shirt .	3
+1168 The confectioner sprinkled the sugar .	2
+1169 The sugar sprinkled the confectioner .	2
+1170 The sugar was sprinkled by the confectioner .	3
+1171 The confectioner was sprinkled by the sugar .	3
+1172 The voter sealed the envelope .	2
+1173 The envelope sealed the voter .	2
+1174 The envelope was sealed by the voter .	3
+1175 The voter was sealed by the envelope .	3
+1176 The fisherman emptied the trashcan .	2
+1177 The trashcan emptied the fisherman .	2
+1178 The trashcan was emptied by the fisherman .	3
+1179 The fisherman was emptied by the trashcan .	3
+1180 The cellist received the prize .	2
+1181 The prize received the cellist .	2
+1182 The prize was received by the cellist .	3
+1183 The cellist was received by the prize .	3
+1184 The cheapskate rated the service .	2
+1185 The service rated the cheapskate .	2
+1186 The service was rated by the cheapskate .	3
+1187 The cheapskate was rated by the service .	3
+1188 The schoolgirl borrowed the key .	2
+1189 The key borrowed the schoolgirl .	2
+1190 The key was borrowed by the schoolgirl .	3
+1191 The schoolgirl was borrowed by the key .	3
+1192 The bookworm recited the poem .	2
+1193 The poem recited the bookworm .	2
+1194 The poem was recited by the bookworm .	3
+1195 The bookworm was recited by the poem .	3
+1196 The diver recharged the battery .	2
+1197 The battery recharged the diver .	2
+1198 The battery was recharged by the diver .	3
+1199 The diver was recharged by the battery .	3
+1200 The poker won the game .	2
+1201 The game won the poker .	2
+1202 The game was won by the poker .	3
+1203 The poker was won by the game .	3
+1204 The copycat redecorated the apartment .	2
+1205 The apartment redecorated the copycat .	2
+1206 The apartment was redecorated by the copycat .	3
+1207 The copycat was redecorated by the apartment .	3
+1208 The winemaker uncorked the bottle .	2
+1209 The bottle uncorked the winemaker .	2
+1210 The bottle was uncorked by the winemaker .	3
+1211 The winemaker was uncorked by the bottle .	3
+1212 The laundress folded the clothes .	2
+1213 The clothes folded the laundress .	2
+1214 The clothes were folded by the laundress .	3
+1215 The laundress was folded by the clothes .	3
+1216 The travel-agent photocopied the passport .	2
+1217 The passport photocopied the travel-agent .	2
+1218 The passport was photocopied by the travel-agent .	3
+1219 The travel-agent was photocopied by the passport .	3
+1220 The exterminator filed the complaint .	2
+1221 The complaint filed the exterminator .	2
+1222 The complaint was filed by the exterminator .	3
+1223 The exterminator was filed by the complaint .	3
+1224 The minuteman loaded the gun .	2
+1225 The gun loaded the minuteman .	2
+1226 The gun was loaded by the minuteman .	3
+1227 The minuteman was loaded by the gun .	3
+1228 The bookseller calculated the profit .	2
+1229 The profit calculated the bookseller .	2
+1230 The profit was calculated by the bookseller .	3
+1231 The bookseller was calculated by the profit .	3
+1232 The count inherited the painting .	2
+1233 The painting inherited the count .	2
+1234 The painting was inherited by the count .	3
+1235 The count was inherited by the painting .	3
+1236 The groundskeeper changed the lightbulb .	2
+1237 The lightbulb changed the groundskeeper .	2
+1238 The lightbulb was changed by the groundskeeper .	3
+1239 The groundskeeper was changed by the lightbulb .	3
+1240 The marcher sang the anthem .	2
+1241 The anthem sang the marcher .	2
+1242 The anthem was sung by the marcher .	3
+1243 The marcher was sung by the anthem .	3
+1244 The deckhand unlocked the door .	2
+1245 The door unlocked the deckhand .	2
+1246 The door was unlocked by the deckhand .	3
+1247 The deckhand was unlocked by the door .	3
+1248 The supremacist established the fund .	2
+1249 The fund established the supremacist .	2
+1250 The fund was established by the supremacist .	3
+1251 The supremacist was established by the fund .	3
+1252 The housesitter watered the plant .	2
+1253 The plant watered the housesitter .	2
+1254 The plant was watered by the housesitter .	3
+1255 The housesitter was watered by the plant .	3
+1256 The interviewee wrinkled the suit .	2
+1257 The suit wrinkled the interviewee .	2
+1258 The suit was wrinkled by the interviewee .	3
+1259 The interviewee was wrinkled by the suit .	3
+1260 The cryptographer sent the letter .	2
+1261 The letter sent the cryptographer .	2
+1262 The letter was sent by the cryptographer .	3
+1263 The cryptographer was sent by the letter .	3
+1264 The bellboy erased the message .	2
+1265 The message erased the bellboy .	2
+1266 The message was erased by the bellboy .	3
+1267 The bellboy was erased by the message .	3
+1268 The forger shipped the package .	2
+1269 The package shipped the forger .	2
+1270 The package was shipped by the forger .	3
+1271 The forger was shipped by the package .	3
+1272 The crackhead smoked the pipe .	2
+1273 The pipe smoked the crackhead .	2
+1274 The pipe was smoked by the crackhead .	3
+1275 The crackhead was smoked by the pipe .	3
+1276 The manicurist rescheduled the appointment .	2
+1277 The appointment rescheduled the manicurist .	2
+1278 The appointment was rescheduled by the manicurist .	3
+1279 The manicurist was rescheduled by the appointment .	3
+1280 The charlatan burned the contract .	2
+1281 The contract burned the charlatan .	2
+1282 The contract was burnt by the charlatan .	3
+1283 The charlatan was burnt by the contract .	3
+1284 The tanner placed the order .	2
+1285 The order placed the tanner .	2
+1286 The order was placed by the tanner .	3
+1287 The tanner was placed by the order .	3
+1288 The archaeologist canceled the trip .	2
+1289 The trip canceled the archaeologist .	2
+1290 The trip was canceled by the archaeologist .	3
+1291 The archaeologist was canceled by the trip .	3
+1292 The Frenchman sliced the baguette .	2
+1293 The baguette sliced the Frenchman .	2
+1294 The baguette was sliced by the Frenchman .	3
+1295 The Frenchman was sliced by the baguette .	3
+1296 The producer cast the actress .	2
+1297 The actress cast the producer .	2
+1298 The actress was cast by the producer .	3
+1299 The producer was cast by the actress .	3
+1300 The twins punished the babysitter .	2
+1301 The babysitter punished the twins .	2
+1302 The babysitter was punished by the twins .	3
+1303 The twins was punished by the babysitter .	3
+1304 The exorcist vanquished the spirit .	2
+1305 The spirit vanquished the exorcist .	2
+1306 The spirit was vanquished by the exorcist .	3
+1307 The exorcist was vanquished by the spirit .	3
+1308 The barber shaved the man .	2
+1309 The man shaved the barber .	2
+1310 The man was shaved by the barber .	3
+1311 The barber was shaved by the man .	3
+1312 The pararazzi stalked the popstar .	2
+1313 The popstar stalked the pararazzi .	2
+1314 The popstar was stalked by the pararazzi .	3
+1315 The pararazzi was stalked by the popstar .	3
+1316 The brunette tipped the busboy .	2
+1317 The busboy tipped the brunette .	2
+1318 The busboy was tipped by the brunette .	3
+1319 The brunette was tipped by the busboy .	3
+1320 The roommate adopted the newborn .	2
+1321 The newborn adopted the roommate .	2
+1322 The newborn was adopted by the roommate .	3
+1323 The roommate was adopted by the newborn .	3
+1324 The cartoonist sketched the unicyclist .	2
+1325 The unicyclist sketched the cartoonist .	2
+1326 The unicyclist was sketched by the cartoonist .	3
+1327 The cartoonist was sketched by the unicyclist .	3
+1328 The streetwalker undercharged the seaman .	2
+1329 The seaman undercharged the streetwalker .	2
+1330 The seaman was undercharged by the streetwalker .	3
+1331 The streetwalker was undercharged by the seaman .	3
+1332 The urologist treated the widower .	2
+1333 The widower treated the urologist .	2
+1334 The widower was treated by the urologist .	3
+1335 The urologist was treated by the widower .	3
+1336 The jury acquitted the economist .	2
+1337 The economist acquitted the jury .	2
+1338 The economist was acquitted by the jury .	3
+1339 The jury was acquitted by the economist .	3
+1340 The freshman dodged the bully .	2
+1341 The bully dodged the freshman .	2
+1342 The bully was dodged by the freshman .	3
+1343 The freshman was dodged by the bully .	3
+1344 The nun reproached the hedonist .	2
+1345 The hedonist reproached the nun .	2
+1346 The hedonist was reproached by the nun .	3
+1347 The nun was reproached by the hedonist .	3
+1348 The librarian admonished the plagiarist .	2
+1349 The plagiarist admonished the librarian .	2
+1350 The plagiarist was admonished by the librarian .	3
+1351 The librarian was admonished by the plagiarist .	3
+1352 The colonel supervised the cadet .	2
+1353 The cadet supervised the colonel .	2
+1354 The cadet was supervised by the colonel .	3
+1355 The colonel was supervised by the cadet .	3
+1356 The abolitionist hid the slave .	2
+1357 The slave hid the abolitionist .	2
+1358 The slave was hidden by the abolitionist .	3
+1359 The abolitionist was hidden by the slave .	3
+1360 The trainer weighed the Olympian .	2
+1361 The Olympian weighed the trainer .	2
+1362 The Olympian was weighed by the trainer .	3
+1363 The trainer was weighed by the Olympian .	3
+1364 The zookeeper fed the giraffe .	2
+1365 The giraffe fed the zookeeper .	2
+1366 The giraffe was fed by the zookeeper .	3
+1367 The zookeeper was fed by the giraffe .	3
+1368 The masseuse relaxed the linebacker .	2
+1369 The linebacker relaxed the masseuse .	2
+1370 The linebacker was relaxed by the masseuse .	3
+1371 The masseuse was relaxed by the linebacker .	3
+1372 The page obeyed the noble .	2
+1373 The noble obeyed the page .	2
+1374 The noble was obeyed by the page .	3
+1375 The page was obeyed by the noble .	3
+1376 The lion chased the tour-guide .	2
+1377 The tour-guide chased the lion .	2
+1378 The tour-guide was chased by the lion .	3
+1379 The lion was chased by the tour-guide .	3
+1380 The caretaker quieted the orphan .	2
+1381 The orphan quieted the caretaker .	2
+1382 The orphan was quieted by the caretaker .	3
+1383 The caretaker was quieted by the orphan .	3
+1384 The tennis thanked the chiropractor .	2
+1385 The chiropractor thanked the tennis .	2
+1386 The chiropractor was thanked by the tennis .	3
+1387 The tennis was thanked by the chiropractor .	3
+1388 The experimenter recruited the subject .	2
+1389 The subject recruited the experimenter .	2
+1390 The subject was recruited by the experimenter .	3
+1391 The experimenter was recruited by the subject .	3
+1392 The mother disciplined the toddler .	2
+1393 The toddler disciplined the mother .	2
+1394 The toddler was disciplined by the mother .	3
+1395 The mother was disciplined by the toddler .	3
+1396 The assistant expelled the sociopath .	2
+1397 The sociopath expelled the assistant .	2
+1398 The sociopath was expelled by the assistant .	3
+1399 The assistant was expelled by the sociopath .	3
+1400 The channeler sensed the ghost .	2
+1401 The ghost sensed the channeler .	2
+1402 The ghost was sensed by the channeler .	3
+1403 The channeler was sensed by the ghost .	3
+1404 The union ousted the whistle-blower .	2
+1405 The whistle-blower ousted the union .	2
+1406 The whistle-blower was ousted by the union .	3
+1407 The union was ousted by the whistle-blower .	3
+1408 The truck honked at the pedestrian .	2
+1409 The pedestrian honked at the truck .	2
+1410 The pedestrian was honked at by the truck .	3
+1411 The truck was honked at by the pedestrian .	3
+1412 The huntsman trapped the deer .	2
+1413 The deer trapped the huntsman .	2
+1414 The deer was trapped by the huntsman .	3
+1415 The huntsman was trapped by the deer .	3
+1416 The cardiologist discredited the quack .	2
+1417 The quack discredited the cardiologist .	2
+1418 The quack was discredited by the cardiologist .	3
+1419 The cardiologist was discredited by the quack .	3
+1420 The bailiff released the ruffian .	2
+1421 The ruffian released the bailiff .	2
+1422 The ruffian was released by the bailiff .	3
+1423 The bailiff was released by the ruffian .	3
+1424 The shark mauled the snorkeler .	2
+1425 The snorkeler mauled the shark .	2
+1426 The snorkeler was mauled by the shark .	3
+1427 The shark was mauled by the snorkeler .	3
+1428 The president pardoned the traitor .	2
+1429 The traitor pardoned the president .	2
+1430 The traitor was pardoned by the president .	3
+1431 The president was pardoned by the traitor .	3
+1432 The au_pair spanked the girl .	2
+1433 The girl spanked the au_pair .	2
+1434 The girl was spanked by the au_pair .	3
+1435 The au_pair was spanked by the girl .	3
+1436 The station promoted the newsagent .	2
+1437 The newsagent promoted the station .	2
+1438 The newsagent was promoted by the station .	3
+1439 The station was promoted by the newsagent .	3
+1440 The policewoman handcuffed the offender .	2
+1441 The offender handcuffed the policewoman .	2
+1442 The offender was handcuffed by the policewoman .	3
+1443 The policewoman was handcuffed by the offender .	3
+1444 The anthropologist studied the tribesman .	2
+1445 The tribesman studied the anthropologist .	2
+1446 The tribesman was studied by the anthropologist .	3
+1447 The anthropologist was studied by the tribesman .	3
+1448 The chief rewarded the firefighter .	2
+1449 The firefighter rewarded the chief .	2
+1450 The firefighter was rewarded by the chief .	3
+1451 The chief was rewarded by the firefighter .	3
+1452 The miscreant kidnapped the beneficiary .	2
+1453 The beneficiary kidnapped the miscreant .	2
+1454 The beneficiary was kidnapped by the miscreant .	3
+1455 The miscreant was kidnapped by the beneficiary .	3
+1456 The social comforted the abused .	2
+1457 The abused comforted the social .	2
+1458 The abused was comforted by the social .	3
+1459 The social was comforted by the abused .	3
+1460 The neuroscientist overwhelmed the lab .	2
+1461 The lab overwhelmed the neuroscientist .	2
+1462 The lab was overwhelmed by the neuroscientist .	3
+1463 The neuroscientist was overwhelmed by the lab .	3
+1464 The warmonger terrorized the gunsmith .	2
+1465 The gunsmith terrorized the warmonger .	2
+1466 The gunsmith was terrorized by the warmonger .	3
+1467 The warmonger was terrorized by the gunsmith .	3
+1468 The conductor tolerated the violinist .	2
+1469 The violinist tolerated the conductor .	2
+1470 The violinist was tolerated by the conductor .	3
+1471 The conductor was tolerated by the violinist .	3
+1472 The pitcher signaled the hitter .	2
+1473 The hitter signaled the pitcher .	2
+1474 The hitter was signaled by the pitcher .	3
+1475 The pitcher was signaled by the hitter .	3
+1476 The quarterback kissed the cheerleader .	2
+1477 The cheerleader kissed the quarterback .	2
+1478 The cheerleader was kissed by the quarterback .	3
+1479 The quarterback was kissed by the cheerleader .	3
+1480 The camper startled the bear .	2
+1481 The bear startled the camper .	2
+1482 The bear was startled by the camper .	3
+1483 The camper was startled by the bear .	3
+1484 The admiral accompanied the lieutenant .	2
+1485 The lieutenant accompanied the admiral .	2
+1486 The lieutenant was accompanied by the admiral .	3
+1487 The admiral was accompanied by the lieutenant .	3
+1488 The tenor loved the soprano .	2
+1489 The soprano loved the tenor .	2
+1490 The soprano was loved by the tenor .	3
+1491 The tenor was loved by the soprano .	3
+1492 The photographer paid the barrister .	2
+1493 The barrister paid the photographer .	2
+1494 The barrister was paid by the photographer .	3
+1495 The photographer was paid by the barrister .	3
+1496 The bachelor intrigued the blonde .	2
+1497 The blonde intrigued the bachelor .	2
+1498 The blonde was intrigued by the bachelor .	3
+1499 The bachelor was intrigued by the blonde .	3
+1500 The football pursued the socialite .	2
+1501 The socialite pursued the football .	2
+1502 The socialite was pursued by the football .	3
+1503 The football was pursued by the socialite .	3
+1504 The neurologist consulted the geneticist .	2
+1505 The geneticist consulted the neurologist .	2
+1506 The geneticist was consulted by the neurologist .	3
+1507 The neurologist was consulted by the geneticist .	3
+1508 The fashionista humiliated the mode .	2
+1509 The mode humiliated the fashionista .	2
+1510 The mode was humiliated by the fashionista .	3
+1511 The fashionista was humiliated by the mode .	3
+1512 The butcher accused the meatpacker .	2
+1513 The meatpacker accused the butcher .	2
+1514 The meatpacker was accused by the butcher .	3
+1515 The butcher was accused by the meatpacker .	3
+1516 The niece embarrassed the aunt .	2
+1517 The aunt embarrassed the niece .	2
+1518 The aunt was embarrassed by the niece .	3
+1519 The niece was embarrassed by the aunt .	3
+1520 The warlord hailed the mercenary .	2
+1521 The mercenary hailed the warlord .	2
+1522 The mercenary was hailed by the warlord .	3
+1523 The warlord was hailed by the mercenary .	3
+1524 The neighbor snubbed the newcomer .	2
+1525 The newcomer snubbed the neighbor .	2
+1526 The newcomer was snubbed by the neighbor .	3
+1527 The neighbor was snubbed by the newcomer .	3
+1528 The communist offended the capitalist .	2
+1529 The capitalist offended the communist .	2
+1530 The capitalist was offended by the communist .	3
+1531 The communist was offended by the capitalist .	3
+1532 The curator misinformed the sculptor .	2
+1533 The sculptor misinformed the curator .	2
+1534 The sculptor was misinformed by the curator .	3
+1535 The curator was misinformed by the sculptor .	3
+1536 The baker mentioned the miller .	2
+1537 The miller mentioned the baker .	2
+1538 The miller was mentioned by the baker .	3
+1539 The baker was mentioned by the miller .	3
+1540 The pollster shamed the statistician .	2
+1541 The statistician shamed the pollster .	2
+1542 The statistician was shamed by the pollster .	3
+1543 The pollster was shamed by the statistician .	3
+1544 The screenwriter emailed the actor .	2
+1545 The actor emailed the screenwriter .	2
+1546 The actor was emailed by the screenwriter .	3
+1547 The screenwriter was emailed by the actor .	3
+1548 The dermatologist contradicted the pathologist .	2
+1549 The pathologist contradicted the dermatologist .	2
+1550 The pathologist was contradicted by the dermatologist .	3
+1551 The dermatologist was contradicted by the pathologist .	3
+1552 The sharecropper misled the fieldworker .	2
+1553 The fieldworker misled the sharecropper .	2
+1554 The fieldworker was misled by the sharecropper .	3
+1555 The sharecropper was misled by the fieldworker .	3
+1556 The patriot saluted the veteran .	2
+1557 The veteran saluted the patriot .	2
+1558 The veteran was saluted by the patriot .	3
+1559 The patriot was saluted by the veteran .	3
+1560 The welder visited the milkman .	2
+1561 The milkman visited the welder .	2
+1562 The milkman was visited by the welder .	3
+1563 The welder was visited by the milkman .	3
+1564 The teenager mortified the parent .	2
+1565 The parent mortified the teenager .	2
+1566 The parent was mortified by the teenager .	3
+1567 The teenager was mortified by the parent .	3
+1568 The surfer impressed the swimmer .	2
+1569 The swimmer impressed the surfer .	2
+1570 The swimmer was impressed by the surfer .	3
+1571 The surfer was impressed by the swimmer .	3
+1572 The miser antagonized the landlady .	2
+1573 The landlady antagonized the miser .	2
+1574 The landlady was antagonized by the miser .	3
+1575 The miser was antagonized by the landlady .	3
+1576 The infantryman upset the loyalist .	2
+1577 The loyalist upset the infantryman .	2
+1578 The loyalist was upset by the infantryman .	3
+1579 The infantryman was upset by the loyalist .	3
+1580 The florist invoiced the grocer .	2
+1581 The grocer invoiced the florist .	2
+1582 The grocer was invoiced by the florist .	3
+1583 The florist was invoiced by the grocer .	3
+1584 The adjuster harassed the retailer .	2
+1585 The retailer harassed the adjuster .	2
+1586 The retailer was harassed by the adjuster .	3
+1587 The adjuster was harassed by the retailer .	3
+1588 The ex-wife punched the girlfriend .	2
+1589 The girlfriend punched the ex-wife .	2
+1590 The girlfriend was punched by the ex-wife .	3
+1591 The ex-wife was punched by the girlfriend .	3
+1592 The defender blamed the goalkeeper .	2
+1593 The goalkeeper blamed the defender .	2
+1594 The goalkeeper was blamed by the defender .	3
+1595 The defender was blamed by the goalkeeper .	3
+1596 The geologist reassured the excavator .	2
+1597 The excavator reassured the geologist .	2
+1598 The excavator was reassured by the geologist .	3
+1599 The geologist was reassured by the excavator .	3
+1600 The physicist nagged the mathematician .	2
+1601 The mathematician nagged the physicist .	2
+1602 The mathematician was nagged by the physicist .	3
+1603 The physicist was nagged by the mathematician .	3
+1604 The employee watched the embezzler .	2
+1605 The embezzler watched the employee .	2
+1606 The embezzler was watched by the employee .	3
+1607 The employee was watched by the embezzler .	3
+1608 The programmer distrusted the volunteer .	2
+1609 The volunteer distrusted the programmer .	2
+1610 The volunteer was distrusted by the programmer .	3
+1611 The programmer was distrusted by the volunteer .	3
+1612 The interviewer befriended the chairman .	2
+1613 The chairman befriended the interviewer .	2
+1614 The chairman was befriended by the interviewer .	3
+1615 The interviewer was befriended by the chairman .	3
+1616 The cinematographer favored the movie .	2
+1617 The movie favored the cinematographer .	2
+1618 The movie was favored by the cinematographer .	3
+1619 The cinematographer was favored by the movie .	3
+1620 The hockey aggravated the skater .	2
+1621 The skater aggravated the hockey .	2
+1622 The skater was aggravated by the hockey .	3
+1623 The hockey was aggravated by the skater .	3
+1624 The bricklayer outraged the crane .	2
+1625 The crane outraged the bricklayer .	2
+1626 The crane was outraged by the bricklayer .	3
+1627 The bricklayer was outraged by the crane .	3
+1628 The candidate approved the nominee .	2
+1629 The nominee approved the candidate .	2
+1630 The nominee was approved by the candidate .	3
+1631 The candidate was approved by the nominee .	3
+1632 The entomologist disparaged the biologist .	2
+1633 The biologist disparaged the entomologist .	2
+1634 The biologist was disparaged by the entomologist .	3
+1635 The entomologist was disparaged by the biologist .	3
+1636 The hypochondriac hounded the medic .	2
+1637 The medic hounded the hypochondriac .	2
+1638 The medic was hounded by the hypochondriac .	3
+1639 The hypochondriac was hounded by the medic .	3
+1640 The chemist suspected the pharmacist .	2
+1641 The pharmacist suspected the chemist .	2
+1642 The pharmacist was suspected by the chemist .	3
+1643 The chemist was suspected by the pharmacist .	3
+1644 The litigator begged the citizen .	2
+1645 The citizen begged the litigator .	2
+1646 The citizen was begged by the litigator .	3
+1647 The litigator was begged by the citizen .	3
+1648 The plumber devastated the foreman .	2
+1649 The foreman devastated the plumber .	2
+1650 The foreman was devastated by the plumber .	3
+1651 The plumber was devastated by the foreman .	3
+1652 The sergeant identified the sniper .	2
+1653 The sniper identified the sergeant .	2
+1654 The sniper was identified by the sergeant .	3
+1655 The sergeant was identified by the sniper .	3
+1656 The weightlifter faced the wrestler .	2
+1657 The wrestler faced the weightlifter .	2
+1658 The wrestler was faced by the weightlifter .	3
+1659 The weightlifter was faced by the wrestler .	3
+1660 The bassist bugged the soundman .	2
+1661 The soundman bugged the bassist .	2
+1662 The soundman was bugged by the bassist .	3
+1663 The bassist was bugged by the soundman .	3
+1664 The clarinetist recognized the trumpeter .	2
+1665 The trumpeter recognized the clarinetist .	2
+1666 The trumpeter was recognized by the clarinetist .	3
+1667 The clarinetist was recognized by the trumpeter .	3
+1668 The goalie kicked the midfielder .	2
+1669 The midfielder kicked the goalie .	2
+1670 The midfielder was kicked by the goalie .	3
+1671 The goalie was kicked by the midfielder .	3
+1672 The operator acknowledged the astronaut .	2
+1673 The astronaut acknowledged the operator .	2
+1674 The astronaut was acknowledged by the operator .	3
+1675 The operator was acknowledged by the astronaut .	3
+1676 The concierge followed the mover .	2
+1677 The mover followed the concierge .	2
+1678 The mover was followed by the concierge .	3
+1679 The concierge was followed by the mover .	3
+1680 The prosecutor addressed the defense .	2
+1681 The defense addressed the prosecutor .	2
+1682 The defense was addressed by the prosecutor .	3
+1683 The prosecutor was addressed by the defense .	3
+1684 The hippie hurried the waiter .	2
+1685 The waiter hurried the hippie .	2
+1686 The waiter was hurried by the hippie .	3
+1687 The hippie was hurried by the waiter .	3
+1688 The cardinal alienated the deacon .	2
+1689 The deacon alienated the cardinal .	2
+1690 The deacon was alienated by the cardinal .	3
+1691 The cardinal was alienated by the deacon .	3
+1692 The senior pinched the sophomore .	2
+1693 The sophomore pinched the senior .	2
+1694 The sophomore was pinched by the senior .	3
+1695 The senior was pinched by the sophomore .	3
+1696 The spy appeased the strategist .	2
+1697 The strategist appeased the spy .	2
+1698 The strategist was appeased by the spy .	3
+1699 The spy was appeased by the strategist .	3
+1700 The tramp sickened the panhandler .	2
+1701 The panhandler sickened the tramp .	2
+1702 The panhandler was sickened by the tramp .	3
+1703 The tramp was sickened by the panhandler .	3
+1704 The healer astonished the monk .	2
+1705 The monk astonished the healer .	2
+1706 The monk was astonished by the healer .	3
+1707 The healer was astonished by the monk .	3
+1708 The housemaid noted the kleptomaniac .	2
+1709 The kleptomaniac noted the housemaid .	2
+1710 The kleptomaniac was noted by the housemaid .	3
+1711 The housemaid was noted by the kleptomaniac .	3
+1712 The stenographer avoided the typesetter .	2
+1713 The typesetter avoided the stenographer .	2
+1714 The typesetter was avoided by the stenographer .	3
+1715 The stenographer was avoided by the typesetter .	3
+1716 The dairyman overcharged the toymaker .	2
+1717 The toymaker overcharged the dairyman .	2
+1718 The toymaker was overcharged by the dairyman .	3
+1719 The dairyman was overcharged by the toymaker .	3
+1720 The publisher nominated the novelist .	2
+1721 The novelist nominated the publisher .	2
+1722 The novelist was nominated by the publisher .	3
+1723 The publisher was nominated by the novelist .	3
+1724 The commissioner bullied the liberal .	2
+1725 The liberal bullied the commissioner .	2
+1726 The liberal was bullied by the commissioner .	3
+1727 The commissioner was bullied by the liberal .	3
+1728 The veterinarian repaid the watchmaker .	2
+1729 The watchmaker repaid the veterinarian .	2
+1730 The watchmaker was repaid by the veterinarian .	3
+1731 The veterinarian was repaid by the watchmaker .	3
+1732 The philanthropist charmed the bishop .	2
+1733 The bishop charmed the philanthropist .	2
+1734 The bishop was charmed by the philanthropist .	3
+1735 The philanthropist was charmed by the bishop .	3
+1736 The anesthesiologist infuriated the orthopedist .	2
+1737 The orthopedist infuriated the anesthesiologist .	2
+1738 The orthopedist was infuriated by the anesthesiologist .	3
+1739 The anesthesiologist was infuriated by the orthopedist .	3
+1740 The violist distracted the flutist .	2
+1741 The flutist distracted the violist .	2
+1742 The flutist was distracted by the violist .	3
+1743 The violist was distracted by the flutist .	3
+1744 The husband liked the realtor .	2
+1745 The realtor liked the husband .	2
+1746 The realtor was liked by the husband .	3
+1747 The husband was liked by the realtor .	3
+1748 The hotelier distressed the doorman .	2
+1749 The doorman distressed the hotelier .	2
+1750 The doorman was distressed by the hotelier .	3
+1751 The hotelier was distressed by the doorman .	3
+1752 The cowboy nudged the ranger .	2
+1753 The ranger nudged the cowboy .	2
+1754 The ranger was nudged by the cowboy .	3
+1755 The cowboy was nudged by the ranger .	3
+1756 The bartender disturbed the regular .	2
+1757 The regular disturbed the bartender .	2
+1758 The regular was disturbed by the bartender .	3
+1759 The bartender was disturbed by the regular .	3
+1760 The stuntman inspired the boxer .	2
+1761 The boxer inspired the stuntman .	2
+1762 The boxer was inspired by the stuntman .	3
+1763 The stuntman was inspired by the boxer .	3
+1764 The feminist exasperated the polygamist .	2
+1765 The polygamist exasperated the feminist .	2
+1766 The polygamist was exasperated by the feminist .	3
+1767 The feminist was exasperated by the polygamist .	3
+1768 The storyteller saddened the matador .	2
+1769 The matador saddened the storyteller .	2
+1770 The matador was saddened by the storyteller .	3
+1771 The storyteller was saddened by the matador .	3
+1772 The informer exposed the murderer .	2
+1773 The murderer exposed the informer .	2
+1774 The murderer was exposed by the informer .	3
+1775 The informer was exposed by the murderer .	3
+1776 The bookbinder frustrated the lithographer .	2
+1777 The lithographer frustrated the bookbinder .	2
+1778 The lithographer was frustrated by the bookbinder .	3
+1779 The bookbinder was frustrated by the lithographer .	3
+1780 The newscaster eyed the bullfighter .	2
+1781 The bullfighter eyed the newscaster .	2
+1782 The bullfighter was eyed by the newscaster .	3
+1783 The newscaster was eyed by the bullfighter .	3
+1784 The treasurer perplexed the trustee .	2
+1785 The trustee perplexed the treasurer .	2
+1786 The trustee was perplexed by the treasurer .	3
+1787 The treasurer was perplexed by the trustee .	3
+1788 The skier fancied the figure-skater .	2
+1789 The figure-skater fancied the skier .	2
+1790 The figure-skater was fancied by the skier .	3
+1791 The skier was fancied by the figure-skater .	3
+1792 The American hosted the Italian .	2
+1793 The Italian hosted the American .	2
+1794 The Italian was hosted by the American .	3
+1795 The American was hosted by the Italian .	3
+1796 The pilgrim fascinated the rabbi .	2
+1797 The rabbi fascinated the pilgrim .	2
+1798 The rabbi was fascinated by the pilgrim .	3
+1799 The pilgrim was fascinated by the rabbi .	3
+1800 The lineman running back hit the running back .	2
+1801 The running back running back hit the lineman .	2
+1802 The running back was running back hit by the lineman .	4
+1803 The lineman was running back hit by the running back .	3
+1804 The roadworker forgave the barkeeper .	2
+1805 The barkeeper forgave the roadworker .	2
+1806 The barkeeper was forgave by the roadworker .	3
+1807 The roadworker was forgave by the barkeeper .	3
+1808 The coordinator pleased the spokeswoman .	2
+1809 The spokeswoman pleased the coordinator .	2
+1810 The spokeswoman was pleased by the coordinator .	3
+1811 The coordinator was pleased by the spokeswoman .	3
+1812 The roadworker forgiven the barkeeper .	2
+1813 The barkeeper forgiven the roadworker .	2
+1814 The barkeeper was forgiven by the roadworker .	3
+1815 The roadworker was forgiven by the barkeeper .	3
+1816 The venture intimidated the consultant .	2
+1817 The consultant intimidated the venture .	2
+1818 The consultant was intimidated by the venture .	3
+1819 The venture was intimidated by the consultant .	3
+1820 The linguist misquoted the logician .	2
+1821 The logician misquoted the linguist .	2
+1822 The logician was misquoted by the linguist .	3
+1823 The linguist was misquoted by the logician .	3
+1824 The host rushed the caterer .	2
+1825 The caterer rushed the host .	2
+1826 The caterer was rushed by the host .	3
+1827 The host was rushed by the caterer .	3
+1828 The saxophonist neglected the organist .	2
+1829 The organist neglected the saxophonist .	2
+1830 The organist was neglected by the saxophonist .	3
+1831 The saxophonist was neglected by the organist .	3
+1832 The Englishman smacked the Dane .	2
+1833 The Dane smacked the Englishman .	2
+1834 The Dane was smacked by the Englishman .	3
+1835 The Englishman was smacked by the Dane .	3
+1836 The surgeon resented the hospital .	2
+1837 The hospital resented the surgeon .	2
+1838 The hospital was resented by the surgeon .	3
+1839 The surgeon was resented by the hospital .	3
+1840 The conman spooked the counterfeiter .	2
+1841 The counterfeiter spooked the conman .	2
+1842 The counterfeiter was spooked by the conman .	3
+1843 The conman was spooked by the counterfeiter .	3
+1844 The German teased the Canadian .	2
+1845 The Canadian teased the German .	2
+1846 The Canadian was teased by the German .	3
+1847 The German was teased by the Canadian .	3
+1848 The illustrator awaited the censor .	2
+1849 The censor awaited the illustrator .	2
+1850 The censor was awaited by the illustrator .	3
+1851 The illustrator was awaited by the censor .	3
+1852 The user dared the webmaster .	2
+1853 The webmaster dared the user .	2
+1854 The webmaster was dared by the user .	3
+1855 The user was dared by the webmaster .	3
+1856 The bride tickled the groom .	2
+1857 The groom tickled the bride .	2
+1858 The groom was tickled by the bride .	3
+1859 The bride was tickled by the groom .	3
+1860 The spokesman troubled the extremist .	2
+1861 The extremist troubled the spokesman .	2
+1862 The extremist was troubled by the spokesman .	3
+1863 The spokesman was troubled by the extremist .	3
+1864 The herder invited the blacksmith .	2
+1865 The blacksmith invited the herder .	2
+1866 The blacksmith was invited by the herder .	3
+1867 The herder was invited by the blacksmith .	3
+1868 The optometrist valued the pediatrician .	2
+1869 The pediatrician valued the optometrist .	2
+1870 The pediatrician was valued by the optometrist .	3
+1871 The optometrist was valued by the pediatrician .	3
+1872 The toolmaker infected the yardman .	2
+1873 The yardman infected the toolmaker .	2
+1874 The yardman was infected by the toolmaker .	3
+1875 The toolmaker was infected by the yardman .	3
+1876 The juggler astounded the hypnotist .	2
+1877 The hypnotist astounded the juggler .	2
+1878 The hypnotist was astounded by the juggler .	3
+1879 The juggler was astounded by the hypnotist .	3
+1880 The delivery missed the homeowner .	2
+1881 The homeowner missed the delivery .	2
+1882 The homeowner was missed by the delivery .	3
+1883 The delivery was missed by the homeowner .	3
+1884 The crusader backed the revolutionary .	2
+1885 The revolutionary backed the crusader .	2
+1886 The revolutionary was backed by the crusader .	3
+1887 The crusader was backed by the revolutionary .	3
+1888 The locksmith cursed the burglar .	2
+1889 The burglar cursed the locksmith .	2
+1890 The burglar was cursed by the locksmith .	3
+1891 The locksmith was cursed by the burglar .	3
+1892 The auctioneer heard the bidder .	2
+1893 The bidder heard the auctioneer .	2
+1894 The bidder was heard by the auctioneer .	3
+1895 The auctioneer was heard by the bidder .	3
+1896 The Sherpa awakened the climber .	2
+1897 The climber awakened the Sherpa .	2
+1898 The climber was awakened by the Sherpa .	3
+1899 The Sherpa was awakened by the climber .	3
+1900 The dog bit the cat .	2
+1901 The cat bit the dog .	2
+1902 The cat was bitten by the dog .	3
+1903 The dog was bitten by the cat .	3
+1904 The wench seduced the prince .	2
+1905 The prince seduced the wench .	2
+1906 The prince was seduced by the wench .	3
+1907 The wench was seduced by the prince .	3
+1908 The gallery ignored the art .	2
+1909 The art ignored the gallery .	2
+1910 The art was ignored by the gallery .	3
+1911 The gallery was ignored by the art .	3
+1912 The academic divorced the investment .	2
+1913 The investment divorced the academic .	2
+1914 The investment was divorced by the academic .	3
+1915 The academic was divorced by the investment .	3
+1916 The arbitrator evaluated the petitioner .	2
+1917 The petitioner evaluated the arbitrator .	2
+1918 The petitioner was evaluated by the arbitrator .	3
+1919 The arbitrator was evaluated by the petitioner .	3
+1920 The Finn raced the Spaniard .	2
+1921 The Spaniard raced the Finn .	2
+1922 The Spaniard was raced by the Finn .	3
+1923 The Finn was raced by the Spaniard .	3
+1924 The conservator excited the commissioner .	2
+1925 The commissioner excited the conservator .	2
+1926 The commissioner was excited by the conservator .	3
+1927 The conservator was excited by the commissioner .	3
+1928 The grandfather squeezed the grandson .	2
+1929 The grandson squeezed the grandfather .	2
+1930 The grandson was squeezed by the grandfather .	3
+1931 The grandfather was squeezed by the grandson .	3
+1932 The steelworker framed the machinist .	2
+1933 The machinist framed the steelworker .	2
+1934 The machinist was framed by the steelworker .	3
+1935 The steelworker was framed by the machinist .	3
+1936 The administrator asked the proctor .	2
+1937 The proctor asked the administrator .	2
+1938 The proctor was asked by the administrator .	3
+1939 The administrator was asked by the proctor .	3
+1940 The astronomer plagiarized the geophysicist .	2
+1941 The geophysicist plagiarized the astronomer .	2
+1942 The geophysicist was plagiarized by the astronomer .	3
+1943 The astronomer was plagiarized by the geophysicist .	3
+1944 The spiritual healed the acupuncturist .	2
+1945 The acupuncturist healed the spiritual .	2
+1946 The acupuncturist was healed by the spiritual .	3
+1947 The spiritual was healed by the acupuncturist .	3
+1948 The sinner patted the heretic .	2
+1949 The heretic patted the sinner .	2
+1950 The heretic was patted by the sinner .	3
+1951 The sinner was patted by the heretic .	3
+1952 The atheist judged the agnostic .	2
+1953 The agnostic judged the atheist .	2
+1954 The agnostic was judged by the atheist .	3
+1955 The atheist was judged by the agnostic .	3
+1956 The fugitive wounded the agent .	2
+1957 The agent wounded the fugitive .	2
+1958 The agent was wounded by the fugitive .	3
+1959 The fugitive was wounded by the agent .	3
+1960 The passenger lashed at the steward .	2
+1961 The steward lashed at the passenger .	2
+1962 The steward was lashed at by the passenger .	3
+1963 The passenger was lashed at by the steward .	3
+1964 The physiologist advised the zoologist .	2
+1965 The zoologist advised the physiologist .	2
+1966 The zoologist was advised by the physiologist .	3
+1967 The physiologist was advised by the zoologist .	3
+1968 The teller listened to the branch .	2
+1969 The branch listened to the teller .	2
+1970 The branch was listened to by the teller .	3
+1971 The teller was listened to by the branch .	3
+1972 The motorcyclist tailgated the busdriver .	2
+1973 The busdriver tailgated the motorcyclist .	2
+1974 The busdriver was tailgated by the motorcyclist .	3
+1975 The motorcyclist was tailgated by the busdriver .	3
+1976 The miner maddened the smith .	2
+1977 The smith maddened the miner .	2
+1978 The smith was maddened by the miner .	3
+1979 The miner was maddened by the smith .	3
+1980 The reception paged the doctor .	2
+1981 The doctor paged the reception .	2
+1982 The doctor was paged by the reception .	3
+1983 The reception was paged by the doctor .	3
+1984 The commuter poked the train .	2
+1985 The train poked the commuter .	2
+1986 The train was poked by the commuter .	3
+1987 The commuter was poked by the train .	3
+1988 The drug understood the gambler .	2
+1989 The gambler understood the drug .	2
+1990 The gambler was understood by the drug .	3
+1991 The drug was understood by the gambler .	3
+1992 The equestrian filmed the golfer .	2
+1993 The golfer filmed the equestrian .	2
+1994 The golfer was filmed by the equestrian .	3
+1995 The equestrian was filmed by the golfer .	3
+1996 The salesman stopped the shopper .	2
+1997 The shopper stopped the salesman .	2
+1998 The shopper was stopped by the salesman .	3
+1999 The salesman was stopped by the shopper .	3
+2000 The coroner disliked the embalmer .	2
+2001 The embalmer disliked the coroner .	2
+2002 The embalmer was disliked by the coroner .	3
+2003 The coroner was disliked by the embalmer .	3
+2004 The Australian wrestled the Russian .	2
+2005 The Russian wrestled the Australian .	2
+2006 The Russian was wrestled by the Australian .	3
+2007 The Australian was wrestled by the Russian .	3
+2008 The storekeeper telephoned the optician .	2
+2009 The optician telephoned the storekeeper .	2
+2010 The optician was telephoned by the storekeeper .	3
+2011 The storekeeper was telephoned by the optician .	3
+2012 The solicitor dismissed the insider .	2
+2013 The insider dismissed the solicitor .	2
+2014 The insider was dismissed by the solicitor .	3
+2015 The solicitor was dismissed by the insider .	3
+2016 The showman photographed the yodeler .	2
+2017 The yodeler photographed the showman .	2
+2018 The yodeler was photographed by the showman .	3
+2019 The showman was photographed by the yodeler .	3
+2020 The gastroenterologist diagnosed the ophthalmologist .	2
+2021 The ophthalmologist diagnosed the gastroenterologist .	2
+2022 The ophthalmologist was diagnosed by the gastroenterologist .	3
+2023 The gastroenterologist was diagnosed by the ophthalmologist .	3
+2024 The grouch isolated the psychopath .	2
+2025 The psychopath isolated the grouch .	2
+2026 The psychopath was isolated by the grouch .	3
+2027 The grouch was isolated by the psychopath .	3
+2028 The invalid worried the oncologist .	2
+2029 The oncologist worried the invalid .	2
+2030 The oncologist was worried by the invalid .	3
+2031 The invalid was worried by the oncologist .	3
+2032 The shepherd stunned the rustler .	2
+2033 The rustler stunned the shepherd .	2
+2034 The rustler was stunned by the shepherd .	3
+2035 The shepherd was stunned by the rustler .	3
+2036 The emperor ruined the usurper .	2
+2037 The usurper ruined the emperor .	2
+2038 The usurper was ruined by the emperor .	3
+2039 The emperor was ruined by the usurper .	3
+2040 The obstetrician derided the midwife .	2
+2041 The midwife derided the obstetrician .	2
+2042 The midwife was derided by the obstetrician .	3
+2043 The obstetrician was derided by the midwife .	3
+2044 The reformer interviewed the propagandist .	2
+2045 The propagandist interviewed the reformer .	2
+2046 The propagandist was interviewed by the reformer .	3
+2047 The reformer was interviewed by the propagandist .	3
+2048 The waitress rejected the restaurateur .	2
+2049 The restaurateur rejected the waitress .	2
+2050 The restaurateur was rejected by the waitress .	3
+2051 The waitress was rejected by the restaurateur .	3
+2052 The Greek read about the Pole .	2
+2053 The Pole read about the Greek .	2
+2054 The Pole was read about by the Greek .	3
+2055 The Greek was read about by the Pole .	3
+2056 The scavenger targeted the collector .	2
+2057 The collector targeted the scavenger .	2
+2058 The collector was targeted by the scavenger .	3
+2059 The scavenger was targeted by the collector .	3
+2060 The caregiver hurt the leper .	2
+2061 The leper hurt the caregiver .	2
+2062 The leper was hurt by the caregiver .	3
+2063 The caregiver was hurt by the leper .	3
+2064 The captain fought the ringleader .	2
+2065 The ringleader fought the captain .	2
+2066 The ringleader was fought by the captain .	3
+2067 The captain was fought by the ringleader .	3
+2068 The taxpayer pacified the underwriter .	2
+2069 The underwriter pacified the taxpayer .	2
+2070 The underwriter was pacified by the taxpayer .	3
+2071 The taxpayer was pacified by the underwriter .	3
+2072 The optimist exhausted the doomsayer .	2
+2073 The doomsayer exhausted the optimist .	2
+2074 The doomsayer was exhausted by the optimist .	3
+2075 The optimist was exhausted by the doomsayer .	3
+2076 The mutineer victimized the henchman .	2
+2077 The henchman victimized the mutineer .	2
+2078 The henchman was victimized by the mutineer .	3
+2079 The mutineer was victimized by the henchman .	3
+2080 The chiseler delighted the cabinetmaker .	2
+2081 The cabinetmaker delighted the chiseler .	2
+2082 The cabinetmaker was delighted by the chiseler .	3
+2083 The chiseler was delighted by the cabinetmaker .	3
+2084 The renegade undermined the maverick .	2
+2085 The maverick undermined the renegade .	2
+2086 The maverick was undermined by the renegade .	3
+2087 The renegade was undermined by the maverick .	3
+2088 The newswoman bored the beautician .	2
+2089 The beautician bored the newswoman .	2
+2090 The beautician was bored by the newswoman .	3
+2091 The newswoman was bored by the beautician .	3
+2092 The paymaster encountered the sharpshooter .	2
+2093 The sharpshooter encountered the paymaster .	2
+2094 The sharpshooter was encountered by the paymaster .	3
+2095 The paymaster was encountered by the sharpshooter .	3
+2096 The telemarketer excused the typist .	2
+2097 The typist excused the telemarketer .	2
+2098 The typist was excused by the telemarketer .	3
+2099 The telemarketer was excused by the typist .	3
+2100 The wife despised the adulterer .	2
+2101 The adulterer despised the wife .	2
+2102 The adulterer was despised by the wife .	3
+2103 The wife was despised by the adulterer .	3
+2104 The engineer quizzed the patent .	2
+2105 The patent quizzed the engineer .	2
+2106 The patent was quizzed by the engineer .	3
+2107 The engineer was quizzed by the patent .	3
+2108 The impostor escorted the commoner .	2
+2109 The commoner escorted the impostor .	2
+2110 The commoner was escorted by the impostor .	3
+2111 The impostor was escorted by the commoner .	3
+2112 The workaholic pitied the procrastinator .	2
+2113 The procrastinator pitied the workaholic .	2
+2114 The procrastinator was pitied by the workaholic .	3
+2115 The workaholic was pitied by the procrastinator .	3
+2116 The racketeer haunted the victim .	2
+2117 The victim haunted the racketeer .	2
+2118 The victim was haunted by the racketeer .	3
+2119 The racketeer was haunted by the victim .	3
+2120 The traditionalist replaced the trendsetter .	2
+2121 The trendsetter replaced the traditionalist .	2
+2122 The trendsetter was replaced by the traditionalist .	3
+2123 The traditionalist was replaced by the trendsetter .	3
+2124 The respondent observed the juror .	2
+2125 The juror observed the respondent .	2
+2126 The juror was observed by the respondent .	3
+2127 The respondent was observed by the juror .	3
+2128 The heiress poisoned the millionnaire .	2
+2129 The millionnaire poisoned the heiress .	2
+2130 The millionnaire was poisoned by the heiress .	3
+2131 The heiress was poisoned by the millionnaire .	3
+2132 The poser jinxed the opportunist .	2
+2133 The opportunist jinxed the poser .	2
+2134 The opportunist was jinxed by the poser .	3
+2135 The poser was jinxed by the opportunist .	3
+2136 The hostess enticed the butler .	2
+2137 The butler enticed the hostess .	2
+2138 The butler was enticed by the hostess .	3
+2139 The hostess was enticed by the butler .	3
+2140 The choreographer touched the pianist .	2
+2141 The pianist touched the choreographer .	2
+2142 The pianist was touched by the choreographer .	3
+2143 The choreographer was touched by the pianist .	3
+2144 The survivor honored the signatory .	2
+2145 The signatory honored the survivor .	2
+2146 The signatory was honored by the survivor .	3
+2147 The survivor was honored by the signatory .	3
+2148 The reverent remembered the coward .	2
+2149 The coward remembered the reverent .	2
+2150 The coward was remembered by the reverent .	3
+2151 The reverent was remembered by the coward .	3
+2152 The mayor investigated the columnist .	2
+2153 The columnist investigated the mayor .	2
+2154 The columnist was investigated by the mayor .	3
+2155 The mayor was investigated by the columnist .	3
+2156 The client represented the exporter .	2
+2157 The exporter represented the client .	2
+2158 The exporter was represented by the client .	3
+2159 The client was represented by the exporter .	3
+2160 The undergraduate amazed the postdoc .	2
+2161 The postdoc amazed the undergraduate .	2
+2162 The postdoc was amazed by the undergraduate .	3
+2163 The undergraduate was amazed by the postdoc .	3
+2164 The security chastised the porter .	2
+2165 The porter chastised the security .	2
+2166 The porter was chastised by the security .	3
+2167 The security was chastised by the porter .	3
+2168 The bodyguard described the suspect .	2
+2169 The suspect described the bodyguard .	2
+2170 The suspect was described by the bodyguard .	3
+2171 The bodyguard was described by the suspect .	3
+2172 The importer cheated the CEO .	2
+2173 The CEO cheated the importer .	2
+2174 The CEO was cheated by the importer .	3
+2175 The importer was cheated by the CEO .	3	

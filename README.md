@@ -22,11 +22,19 @@ A series of experiments with the aim of study which computational model performs
 
 - **Baselines**
    + [baselines_PPMI_structured_and_unstructured.ipynb](https://github.com/giuliarambelli/Event_Knowledge_Model_Comparison/blob/master/baselines_PPMI_structured_and_unstructured.ipynb) 
+
+   It consist of 2 baselines:
    
    1. **PPMI** (structured input, input annotated with grammatical roles)    
+   
       After extracting triples < verbal head, nominal dependent, relation > from the corpora (with a frequency >= 2), we compute the PPMI as follows 
       (N= total frequency of all triples).
+      ![ppmi baseline 1](https://github.com/giuliarambelli/Event_Knowledge_Model_Comparison/blob/master/img/baseline1.gif)
+
    2. **ngram sentence surprisal**
+   
+      We select lemmas of minimum frequency 50 and extract bigrams of words (mechanism: for each word in the sentence, we take the 10 words to its right and then advance one position (minimum bigram frequency is 5). We then compute the Pointwise PMI of a given bigram (no syntactic information).
+      ![ppmi baseline 2](https://github.com/giuliarambelli/Event_Knowledge_Model_Comparison/blob/master/img/baseline2.gif)
 
 
 

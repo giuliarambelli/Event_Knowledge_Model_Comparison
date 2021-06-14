@@ -7,7 +7,7 @@ A series of experiments with the aim of study which computational model performs
 - pandas
 - math
 - tqdm
-- tensorflow (version >= 2.0
+- tensorflow (version >= 2.0)
 - pytokenizations
 - sentencepiece
 - transformers

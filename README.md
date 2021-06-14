@@ -24,11 +24,9 @@ A series of experiments with the aim of study which computational model performs
    + [baselines_PPMI_structured_and_unstructured.ipynb](https://github.com/giuliarambelli/Event_Knowledge_Model_Comparison/blob/master/baselines_PPMI_structured_and_unstructured.ipynb) 
    
    2 baselines: 
-      1. **PPMI** (structured input, input annotated with grammatical roles)
-      
+      1. **PPMI** (structured input, input annotated with grammatical roles)    
       After extracting triples < verbal head, nominal dependent, relation > from the corpora (with a frequency >= 2), we compute the PPMI as follows 
       (N= total frequency of all triples).
-      
       2. **ngram sentence surprisal**
 
 

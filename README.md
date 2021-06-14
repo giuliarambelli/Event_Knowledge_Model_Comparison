@@ -1,4 +1,4 @@
-# Event_Knowledge_Model_Comparison
+# Computational Models Comparison on Event Knowlege tasks
 
 A series of experiments with the aim of study which computational model performs better among others.
 

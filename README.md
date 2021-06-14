@@ -20,8 +20,8 @@ A series of experiments with the aim of study which computational model performs
 ## Models
 
 - 2 baselines: 
-   a. **PPMI (structured input, input annotated with grammatical roles)**
-   b. **ngram sentence surprisal**
+   + **PPMI (structured input, input annotated with grammatical roles)**
+   + **ngram sentence surprisal**
 
 
 

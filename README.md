@@ -11,6 +11,7 @@ A series of experiments with the aim of study which computational model performs
 - pytokenizations
 - sentencepiece
 - transformers
+- lm-scorer
 
 ## Datasets
 - DTFit

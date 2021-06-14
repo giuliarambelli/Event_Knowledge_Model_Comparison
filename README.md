@@ -1,4 +1,4 @@
-# Event_Knowledge_Model_Comparison
+# Computational Models Comparison on Event Knowlege tasks
 
 A series of experiments with the aim of study which computational model performs better among others.
 
@@ -7,10 +7,11 @@ A series of experiments with the aim of study which computational model performs
 - pandas
 - math
 - tqdm
-- tensorflow (version >= 2.0
+- tensorflow (version >= 2.0)
 - pytokenizations
 - sentencepiece
 - transformers
+- lm-scorer
 
 ## Datasets
 - DTFit
@@ -19,9 +20,13 @@ A series of experiments with the aim of study which computational model performs
 
 ## Models
 
-- 2 baselines: 
-   + **PPMI (structured input, input annotated with grammatical roles)**
-   + **ngram sentence surprisal**
+- **Baselines**
+   + [baselines_PPMI_structured_and_unstructured.ipynb](https://github.com/giuliarambelli/Event_Knowledge_Model_Comparison/blob/master/baselines_PPMI_structured_and_unstructured.ipynb) 
+   
+   1. **PPMI** (structured input, input annotated with grammatical roles)    
+      After extracting triples < verbal head, nominal dependent, relation > from the corpora (with a frequency >= 2), we compute the PPMI as follows 
+      (N= total frequency of all triples).
+   2. **ngram sentence surprisal**
 
 
 
@@ -36,7 +41,9 @@ A series of experiments with the aim of study which computational model performs
       This notebook contains the code to compute the probability of a sentence from the probability of single words using a bidirectional ANNs.
       
       It performs 2 tasks: 1) **Sequential word prediction**, or Pseudo-log likelihood (start from unmasked sentence, mask each word iteratively), and 2) **Left-to-right generation**, or Sequential Sampling (start from completely masked sentence and unmask words left-to-right)
-
-Sequential word prediction (unidirectional ANNs)
+    
+   + [ANNs-unidirectional-predict-sentence.ipynb](https://github.com/giuliarambelli/Event_Knowledge_Model_Comparison/blob/master/ANNs-unidirectional-predict-sentence.ipynb)
+   
+      Use GPT-2 to compute the probability of a given sentence. The score of a sentence is the product of each word probability.
 
 

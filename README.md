@@ -27,7 +27,7 @@ A series of experiments with the aim of study which computational model performs
 
 - **ANNs**
    + [ANNs_predict-token-masked.ipynb](https://github.com/giuliarambelli/Event_Knowledge_Model_Comparison/blob/master/ANNs_predict-token-masked.ipynb)
-   This notebook contains the code to compute the probability of a masked word in a sentence, using a bidirectional ANNs (BERT, RoBERTa, XLNET).
+     This notebook contains the code to compute the probability of a masked word in a sentence, using a bidirectional ANNs (BERT, RoBERTa, XLNET).
    It performs 2 tasks: 1) Verb prediction  and 2) Last word prediction.
    + [ANNs_sequential-word-prediction.ipynb](https://github.com/giuliarambelli/Event_Knowledge_Model_Comparison/blob/master/ANNs_sequential-word-prediction.ipynb)
    This notebook contains the code to compute the probability of a sentence from the probability of single words using a bidirectional ANNs.

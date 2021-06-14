@@ -20,7 +20,8 @@ A series of experiments with the aim of study which computational model performs
 
 ## Models
 
-- 2 baselines: 
+- **Baselines**
+   + [baselines_PPMI_structured_and_unstructured.ipynb](https://github.com/giuliarambelli/Event_Knowledge_Model_Comparison/blob/master/baselines_PPMI_structured_and_unstructured.ipynb) 
    + **PPMI (structured input, input annotated with grammatical roles)**
    + **ngram sentence surprisal**
 

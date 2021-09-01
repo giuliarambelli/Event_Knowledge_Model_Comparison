@@ -1,0 +1,80 @@
+0	cop@N@NSUBJ	arrest@V@ROOT	criminal@N@OBJ
+1	criminal@N@NSUBJ	arrest@V@ROOT	cop@N@OBJ
+2	babysitter@N@NSUBJ	scold@V@ROOT	child@N@OBJ
+3	child@N@NSUBJ	scold@V@ROOT	babysitter@N@OBJ
+4	doctor@N@NSUBJ	use@V@ROOT	stethoscope@N@OBJ	patient@N@OBL:on
+5	patient@N@NSUBJ	use@V@ROOT	stethoscope@N@OBJ	doctor@N@OBL:on
+6	fireman@N@NSUBJ	rescue@V@ROOT	grandmother@N@OBJ
+7	grandmother@N@NSUBJ	rescue@V@ROOT	fireman@N@OBJ
+8	dentist@N@NSUBJ	treat@V@ROOT	patient@N@OBJ
+9	patient@N@NSUBJ	treat@V@ROOT	dentist@N@OBJ
+10	ghost@N@NSUBJ	frighten@V@ROOT	girl@N@OBJ
+11	girl@N@NSUBJ	frighten@V@ROOT	ghost@N@OBJ
+12	mother@N@NSUBJ	feed@V@ROOT	baby@N@OBJ
+13	baby@N@NSUBJ	feed@V@ROOT	mother@N@OBJ
+14	artist@N@NSUBJ	paint@V@ROOT	businessman@N@OBJ
+15	businessman@N@NSUBJ	paint@V@ROOT	artist@N@OBJ
+16	groom@N@NSUBJ	carry@V@ROOT	bride@N@OBJ
+17	bride@N@NSUBJ	carry@V@ROOT	groom@N@OBJ
+18	jester@N@NSUBJ	entertain@V@ROOT	king@N@OBJ
+19	king@N@NSUBJ	entertain@V@ROOT	jester@N@OBJ
+20	lion@N@NSUBJ	pounce@V@ROOT	guide@N@OBL:on
+21	guide@N@NSUBJ	pounce@V@ROOT	lion@N@OBL:on
+22	photographer@N@NSUBJ	take@V@ROOT	picture@N@OBJ
+23	model@N@NSUBJ	take@V@ROOT	picture@N@OBJ
+24	pirate@N@NSUBJ	kidnap@V@ROOT	princess@N@OBJ
+25	princess@N@NSUBJ	kidnap@V@ROOT	pirate@N@OBJ
+26	priest@N@NSUBJ	bless@V@ROOT	bride@N@OBJ
+27	bride@N@NSUBJ	bless@V@ROOT	priest@N@OBJ
+28	shark@N@NSUBJ	bite@V@ROOT	snorkeler@N@OBJ
+29	snorkeler@N@NSUBJ	bite@V@ROOT	shark@N@OBJ
+30	professor@N@NSUBJ	lecture@V@ROOT	student@N@OBL:to
+31	student@N@NSUBJ	lecture@V@ROOT	professor@N@OBL:to
+32	vampire@N@NSUBJ	bite@V@ROOT	woman@N@OBJ
+33	woman@N@NSUBJ	bite@V@ROOT	vampire@N@OBJ
+34	waiter@N@NSUBJ	serve@V@ROOT	customer@N@OBJ
+35	customer@N@NSUBJ	serve@V@ROOT	waiter@N@OBJ
+36	lawyer@N@NSUBJ	give@V@ROOT	money@N@OBJ	beggar@N@OBL:to
+37	beggar@N@NSUBJ	give@V@ROOT	money@N@OBJ	lawyer@N@OBL:to
+38	chef@N@NSUBJ	cook@V@ROOT	lady@N@OBL:for
+39	lady@N@NSUBJ	cook@V@ROOT	chef@N@OBL:for
+40	ballerina@N@NSUBJ	dance@V@ROOT	grandpa@N@OBL:for
+41	grandpa@N@NSUBJ	dance@V@ROOT	ballerina@N@OBL:for
+42	journalist@N@NSUBJ	interview@V@ROOT	sportsstar@N@OBJ
+43	sportsstar@N@NSUBJ	interview@V@ROOT	journalist@N@OBJ
+44	judge@N@NSUBJ	sentence@V@ROOT	criminal@N@OBJ
+45	criminal@N@NSUBJ	sentence@V@ROOT	judge@N@OBJ
+46	father@N@NSUBJ	pull@V@ROOT	child@N@OBJ	sled@N@OBL:on
+47	child@N@NSUBJ	pull@V@ROOT	father@N@OBJ	sled@N@OBL:on
+48	santa@N@NSUBJ	give@V@ROOT	present@N@OBJ
+49	girl@N@NSUBJ	give@V@ROOT	present@N@OBJ
+50	peasant@N@NSUBJ	bow@V@ROOT	queen@N@OBL:to
+51	queen@N@NSUBJ	bow@V@ROOT	peasant@N@OBL:to
+52	lady@N@NSUBJ	applaud@V@ROOT	athlete@N@OBJ
+53	athlete@N@NSUBJ	applaud@V@ROOT	lad@N@OBJ
+54	father@N@NSUBJ	tie@V@ROOT	shoe@N@OBJ
+55	son@N@NSUBJ	tie@V@ROOT	shoe@N@OBJ
+56	thief@N@NSUBJ	steal@V@ROOT	purse@N@OBJ	grandma@N@OBL:from
+57	grandma@N@NSUBJ	steal@V@ROOT	purse@N@OBJ	thief@N@OBL:from
+58	cat@N@NSUBJ	chase@V@ROOT	mouse@N@OBJ
+59	mouse@N@NSUBJ	chase@V@ROOT	cat@N@OBJ
+60	visitor@N@NSUBJ	push@V@ROOT	patient@N@OBJ
+61	patient@N@NSUBJ	push@V@ROOT	visitor@N@OBJ
+62	relative@N@NSUBJ	bring@V@ROOT	flower@N@OBJ	patient@N@OBL:to
+63	patient@N@NSUBJ	bring@V@ROOT	flower@N@OBJ	relative@N@OBL:to
+64	boss@N@NSUBJ	yell@V@ROOT	worker@N@OBL:at
+65	worker@N@NSUBJ	yell@V@ROOT	boss@N@OBL:at
+66	dog@N@NSUBJ	lead@V@ROOT	person@N@OBJ
+67	person@N@NSUBJ	lead@V@ROOT	dog@N@OBJ
+68	bouncer@N@NSUBJ	prevent@V@ROOT	woman@N@OBJ
+69	woman@N@NSUBJ	prevent@V@ROOT	bouncer@N@OBJ
+70	dog@N@NSUBJ	lick@V@ROOT	girl@N@OBJ	face@N@OBL:on
+71	girl@N@NSUBJ	lick@V@ROOT	dog@N@OBJ	face@N@OBL:on
+72	man@N@NSUBJ	propose@V@ROOT	woman@N@OBL:to
+73	woman@N@NSUBJ	propose@V@ROOT	man@N@OBL:to
+74	tailor@N@NSUBJ	measure@V@ROOT	princess@N@OBJ
+75	princess@N@NSUBJ	measure@V@ROOT	tailor@N@OBJ
+76	lifeguard@N@NSUBJ	save@V@ROOT	grandmother@N@OBJ
+77	grandmother@N@NSUBJ	save@V@ROOT	lifeguard@N@OBJ
+78	chauffeur@N@NSUBJ	open@V@ROOT	door@N@OBJ	lady@N@OBL:for
+79	lady@N@NSUBJ	open@V@ROOT	door@N@OBJ	chauffeur@N@OBL:for

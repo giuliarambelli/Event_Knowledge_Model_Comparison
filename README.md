@@ -36,7 +36,7 @@ A series of experiments with the aim of study which computational model performs
       We select lemmas of minimum frequency 50 and extract bigrams of words (mechanism: for each word in the sentence, we take the 10 words to its right and then advance one position (minimum bigram frequency is 5). We then compute the Pointwise PMI of a given bigram (no syntactic information).
       ![ppmi baseline 2](https://github.com/giuliarambelli/Event_Knowledge_Model_Comparison/blob/master/img/baseline2.gif)
 
-
+NOTE: frequency files can be found here: [drive_folder](https://drive.google.com/drive/folders/1MK2Ff3LqXuTwIQe9ukXmhIQDWUcFIoO_?usp=sharing) 
 
 - **ANNs**
    + [ANNs_predict-token-masked.ipynb](https://github.com/giuliarambelli/Event_Knowledge_Model_Comparison/blob/master/ANNs_predict-token-masked.ipynb)

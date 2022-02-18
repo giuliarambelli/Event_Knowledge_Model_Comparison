@@ -51,7 +51,7 @@
 50	peasant@N@NSUBJ	bow@V@ROOT	queen@N@OBL:to
 51	queen@N@NSUBJ	bow@V@ROOT	peasant@N@OBL:to
 52	lady@N@NSUBJ	applaud@V@ROOT	athlete@N@OBJ
-53	athlete@N@NSUBJ	applaud@V@ROOT	lad@N@OBJ
+53	athlete@N@NSUBJ	applaud@V@ROOT	lady@N@OBJ
 54	father@N@NSUBJ	tie@V@ROOT	shoe@N@OBJ
 55	son@N@NSUBJ	tie@V@ROOT	shoe@N@OBJ
 56	thief@N@NSUBJ	steal@V@ROOT	purse@N@OBJ	grandma@N@OBL:from

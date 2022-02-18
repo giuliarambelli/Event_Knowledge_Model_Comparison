@@ -51,7 +51,7 @@
 50	The peasant is bowing to the queen .	Plausible	peasant:nsubj bow:root queen:obl 
 51	The queen is bowing to the peasant .	Implausible	queen:nsubj bow:root peasant:obl 
 52	The lady is applauding the athlete .	Plausible	lady:nsubj applaud:root athlete:obj 
-53	The athlete is applauding the lad .	Implausible	athlete:nsubj applaud:root lad:obj 
+53	The athlete is applauding the lady .	Implausible	athlete:nsubj applaud:root lady:obj 
 54	The father is tying the son's shoes .	Plausible	father:nsubj ty:root shoe:obj 
 55	The son is tying the father's shoes .	Implausible	son:nsubj ty:root shoe:obj 
 56	The thief is stealing the purse from the grandma .	Plausible	thief:nsubj steal:root purse:obj grandma:obl 

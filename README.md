@@ -38,6 +38,16 @@ A series of experiments with the aim of study which computational model performs
 
 NOTE: frequency files can be found here: [drive_folder](https://drive.google.com/drive/folders/1MK2Ff3LqXuTwIQe9ukXmhIQDWUcFIoO_?usp=sharing) 
 
+- **TF- update**
+
+   Create the prototype of the object considering the most associated fillers of the subject AND the verb.
+     
+   Procedure:
+   1. we retrieve the *N* most strongly associated objects for the subject and the verb respectively, and we take the intersection of the two lists;
+   2. we update their association scores using either the sum (*add*) or the product (*prod*) function;
+   3. we select the embeddings corresponding to the first *M* objects in this list and we average them together (centroid) to create the prototype vector of the object given the subject and the verb;
+   4. the thematic fit of the object x with respect to the other items in the sentence is computed as the similarity score of its corresponding lexical vector v(x) with the prototype vector. 
+
 - **ANNs**
    + [ANNs_predict-token-masked.ipynb](https://github.com/giuliarambelli/Event_Knowledge_Model_Comparison/blob/master/ANNs_predict-token-masked.ipynb)
    

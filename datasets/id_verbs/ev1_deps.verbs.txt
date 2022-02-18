@@ -51,7 +51,7 @@
 50	The peasant is bowing to the queen .	3
 51	The queen is bowing to the peasant .	3
 52	The lady is applauding the athlete .	3
-53	The athlete is applauding the lad .	3
+53	The athlete is applauding the lady .	3
 54	The father is tying the son's shoes .	3
 55	The son is tying the father's shoes .	3
 56	The thief is stealing the purse from the grandma .	3

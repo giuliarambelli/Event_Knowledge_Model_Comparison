@@ -48,6 +48,10 @@ NOTE: frequency files can be found here: [drive_folder](https://drive.google.com
    3. we select the embeddings corresponding to the first *M* objects in this list and we average them together (centroid) to create the prototype vector of the object given the subject and the verb;
    4. the thematic fit of the object x with respect to the other items in the sentence is computed as the similarity score of its corresponding lexical vector v(x) with the prototype vector. 
 
+   To avoid zero scores, we apply the following methodology in case the intersection of fillers is empty:
+   + in the two lists are not empty, we use verb's fillers to create the prototype;
+   + if one list is empty, we take the other one.
+
 - **ANNs**
    + [ANNs_predict-token-masked.ipynb](https://github.com/giuliarambelli/Event_Knowledge_Model_Comparison/blob/master/ANNs_predict-token-masked.ipynb)
    

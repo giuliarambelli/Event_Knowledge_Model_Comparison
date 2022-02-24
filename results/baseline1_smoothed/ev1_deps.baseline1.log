@@ -1,0 +1,80 @@
+0 arrest@V-cop@N-NSUBJ freq:24.0 ppmi:8.258094965711912	arrest@V-criminal@N-OBJ freq:144.0 ppmi:7.741462307689452 score
+1 arrest@V-criminal@N-NSUBJ freq:6.0 ppmi:6.377363530570248	arrest@V-cop@N-OBJ freq:3.0 ppmi:4.449144641069472 score
+2 scold@V-babysitter@N-NSUBJ freq:0 ppmi:12.38518973407498	scold@V-child@N-OBJ freq:31.0 ppmi:5.214608626504745 score
+3 scold@V-child@N-NSUBJ freq:0 ppmi:3.61432453764379	scold@V-babysitter@N-OBJ freq:0 ppmi:10.993785482040764 zero_score
+4 use@V-doctor@N-NSUBJ freq:222.0 ppmi:2.8423188883852775	use@V-stethoscope@N-OBJ freq:132.0 ppmi:4.988988237109066	use@V-patient@N-OBL:on freq:338.0 ppmi:7.400355922875036 score
+5 use@V-patient@N-NSUBJ freq:451.0 ppmi:3.654270586527037	use@V-stethoscope@N-OBJ freq:132.0 ppmi:4.988988237109066	use@V-doctor@N-OBL:on freq:8.0 ppmi:4.327055115534369 score
+6 rescue@V-fireman@N-NSUBJ freq:8.0 ppmi:7.8283359123372325	rescue@V-grandmother@N-OBJ freq:4.0 ppmi:4.3603056323563525 score
+7 rescue@V-grandmother@N-NSUBJ freq:3.0 ppmi:5.321265070719305	rescue@V-fireman@N-OBJ freq:0 ppmi:4.550302347846205 score
+8 treat@V-dentist@N-NSUBJ freq:28.0 ppmi:6.763381497706288	treat@V-patient@N-OBJ freq:6819.0 ppmi:7.625880961704249 score
+9 treat@V-patient@N-NSUBJ freq:39.0 ppmi:3.88400121552113	treat@V-dentist@N-OBJ freq:0 ppmi:0.014022636274209603 score
+10 frighten@V-ghost@N-NSUBJ freq:3.0 ppmi:7.604575889477927	frighten@V-girl@N-OBJ freq:16.0 ppmi:4.835232993451233 score
+11 frighten@V-girl@N-NSUBJ freq:0 ppmi:4.111349368288412	frighten@V-ghost@N-OBJ freq:5.0 ppmi:6.279024244458899 score
+12 feed@V-mother@N-NSUBJ freq:75.0 ppmi:4.731237827115864	feed@V-baby@N-OBJ freq:784.0 ppmi:6.166692067024005 score
+13 feed@V-baby@N-NSUBJ freq:50.0 ppmi:5.781714152116146	feed@V-mother@N-OBJ freq:39.0 ppmi:1.821713789603408 score
+14 paint@V-artist@N-NSUBJ freq:302.0 ppmi:7.9121523299481895	paint@V-businessman@N-OBJ freq:3.0 ppmi:2.99560638006761 score
+15 paint@V-businessman@N-NSUBJ freq:0 ppmi:2.878953396217188	paint@V-artist@N-OBJ freq:42.0 ppmi:1.6032723534985076 score
+16 carry@V-groom@N-NSUBJ freq:3.0 ppmi:2.656502182777557	carry@V-bride@N-OBJ freq:65.0 ppmi:2.5659549652883147 score
+17 carry@V-bride@N-NSUBJ freq:8.0 ppmi:2.936834791659139	carry@V-groom@N-OBJ freq:4.0 ppmi:0.7806513656224205 score
+18 entertain@V-jester@N-NSUBJ freq:8.0 ppmi:10.460623994765557	entertain@V-king@N-OBJ freq:82.0 ppmi:4.55336259737255 score
+19 entertain@V-king@N-NSUBJ freq:8.0 ppmi:4.178613124177755	entertain@V-jester@N-OBJ freq:0 ppmi:7.157869928763633 score
+20 pounce@V-lion@N-NSUBJ freq:10.0 ppmi:10.819935558173364	pounce@V-guide@N-OBL:on freq:0 ppmi:9.270729758302096 score
+21 pounce@V-guide@N-NSUBJ freq:0 ppmi:6.618776094565655	pounce@V-lion@N-OBL:on freq:0 ppmi:11.738483497491165 zero_score
+22 take@V-photographer@N-NSUBJ freq:263.0 ppmi:4.344042739957828	take@V-picture@N-OBJ freq:13904.0 ppmi:2.7551720763792975 score
+23 take@V-model@N-NSUBJ freq:161.0 ppmi:1.708919903512585	take@V-picture@N-OBJ freq:13904.0 ppmi:2.7551720763792975 score
+24 kidnap@V-pirate@N-NSUBJ freq:4.0 ppmi:7.076125411361993	kidnap@V-princess@N-OBJ freq:83.0 ppmi:8.800133530492118 score
+25 kidnap@V-princess@N-NSUBJ freq:0 ppmi:5.3213293550224625	kidnap@V-pirate@N-OBJ freq:0 ppmi:4.270950080356903 zero_score
+26 bless@V-priest@N-NSUBJ freq:19.0 ppmi:7.133952184620801	bless@V-bride@N-OBJ freq:60.0 ppmi:8.315644695519532 score
+27 bless@V-bride@N-NSUBJ freq:0 ppmi:5.365953543416389	bless@V-priest@N-OBJ freq:9.0 ppmi:3.7868532632688283 score
+28 bite@V-shark@N-NSUBJ freq:10.0 ppmi:7.6712048847770475	bite@V-snorkeler@N-OBJ freq:0 ppmi:12.614549400341636 score
+29 bite@V-snorkeler@N-NSUBJ freq:0 ppmi:11.535000501178736	bite@V-shark@N-OBJ freq:5.0 ppmi:4.993245052556759 score
+30 lecture@V-professor@N-NSUBJ freq:23.0 ppmi:5.6082405397730035	lecture@V-student@N-OBL:to freq:320.0 ppmi:9.12370524266399 score
+31 lecture@V-student@N-NSUBJ freq:29.0 ppmi:1.595430162365317	lecture@V-professor@N-OBL:to freq:0 ppmi:5.990472405437647 score
+32 bite@V-vampire@N-NSUBJ freq:7.0 ppmi:7.755769180035521	bite@V-woman@N-OBJ freq:15.0 ppmi:1.3763152831018943 score
+33 bite@V-woman@N-NSUBJ freq:5.0 ppmi:2.5891612650557323	bite@V-vampire@N-OBJ freq:3.0 ppmi:5.27979726509669 score
+34 serve@V-waiter@N-NSUBJ freq:24.0 ppmi:4.369472899111993	serve@V-customer@N-OBJ freq:3704.0 ppmi:4.9134157580194415 score
+35 serve@V-customer@N-NSUBJ freq:12.0 ppmi:0	serve@V-waiter@N-OBJ freq:3.0 ppmi:1.7646895035338046 score
+36 give@V-lawyer@N-NSUBJ freq:41.0 ppmi:1.6804323935691776	give@V-money@N-OBJ freq:12934.0 ppmi:1.860623339530734	give@V-beggar@N-OBL:to freq:223.0 ppmi:8.74030332779333 score
+37 give@V-beggar@N-NSUBJ freq:3.0 ppmi:2.30208482478923	give@V-money@N-OBJ freq:12934.0 ppmi:1.860623339530734	give@V-lawyer@N-OBL:to freq:126.0 ppmi:4.79990598449067 score
+38 cook@V-chef@N-NSUBJ freq:49.0 ppmi:9.066766146235295	cook@V-lady@N-OBL:for freq:0 ppmi:6.616881217627823 score
+39 cook@V-lady@N-NSUBJ freq:8.0 ppmi:5.133308195672067	cook@V-chef@N-OBL:for freq:0 ppmi:8.721108586503458 score
+40 dance@V-ballerina@N-NSUBJ freq:41.0 ppmi:12.083072973198684	dance@V-grandpa@N-OBL:for freq:0 ppmi:15.976434926906435 score
+41 dance@V-grandpa@N-NSUBJ freq:0 ppmi:7.264490795717826	dance@V-ballerina@N-OBL:for freq:0 ppmi:18.298363021793797 zero_score
+42 interview@V-journalist@N-NSUBJ freq:57.0 ppmi:7.648352074794201	interview@V-sportsstar@N-OBJ freq:0 ppmi:14.149785945254184 score
+43 interview@V-sportsstar@N-NSUBJ freq:0 ppmi:16.115819468780288	interview@V-journalist@N-OBJ freq:59.0 ppmi:5.33979384365026 score
+44 sentence@V-judge@N-NSUBJ freq:534.0 ppmi:11.151561195695377	sentence@V-criminal@N-OBJ freq:22.0 ppmi:7.957225784588686 score
+45 sentence@V-criminal@N-NSUBJ freq:0 ppmi:5.242544880094043	sentence@V-judge@N-OBJ freq:20.0 ppmi:6.5984824704478955 score
+46 pull@V-father@N-NSUBJ freq:15.0 ppmi:2.1782902591895144	pull@V-child@N-OBJ freq:116.0 ppmi:0	pull@V-sled@N-OBL:on freq:15.0 ppmi:11.428672412787526 score
+47 pull@V-child@N-NSUBJ freq:18.0 ppmi:0.8853248488145511	pull@V-father@N-OBJ freq:22.0 ppmi:0.09553123762410475	pull@V-sled@N-OBL:on freq:15.0 ppmi:11.428672412787526 score
+48 give@V-santa@N-NSUBJ freq:9.0 ppmi:2.390179123585272	give@V-present@N-OBJ   girl freq:0 ppmi:28.924984674152167 score
+49 give@V-girl@N-NSUBJ freq:117.0 ppmi:1.9588833415526083	give@V-present@N-OBJ   santa freq:0 ppmi:28.924984674152167 score
+50 bow@V-peasant@N-NSUBJ freq:7.0 ppmi:7.799581294174157	bow@V-queen@N-OBL:to freq:14.0 ppmi:8.738212098847814 score
+51 bow@V-queen@N-NSUBJ freq:7.0 ppmi:6.323255590701361	bow@V-peasant@N-OBL:to freq:0 ppmi:7.779041336903849 score
+52 applaud@V-lady@N-NSUBJ freq:0 ppmi:4.559334837334991	applaud@V-athlete@N-OBJ freq:0 ppmi:2.325411383403144 zero_score
+53 applaud@V-athlete@N-NSUBJ freq:0 ppmi:4.609889369797643	applaud@V-lady@N-OBJ freq:0 ppmi:2.359075504377278 zero_score
+54 tie@V-father@N-NSUBJ freq:23.0 ppmi:3.996965323827349	tie@V-shoe@N-OBJ freq:175.0 ppmi:5.837165747819312 score
+55 tie@V-son@N-NSUBJ freq:8.0 ppmi:3.047125825132045	tie@V-shoe@N-OBJ freq:175.0 ppmi:5.837165747819312 score
+56 steal@V-thief@N-NSUBJ freq:175.0 ppmi:9.505827344823906	steal@V-purse@N-OBJ freq:213.0 ppmi:7.475141397005766	steal@V-grandma@N-OBL:from freq:0 ppmi:10.98545137117902 score
+57 steal@V-grandma@N-NSUBJ freq:0 ppmi:5.0658161828915205	steal@V-purse@N-OBJ freq:213.0 ppmi:7.475141397005766	steal@V-thief@N-OBL:from freq:26.0 ppmi:10.534072024836455 score
+58 chase@V-cat@N-NSUBJ freq:13.0 ppmi:5.80662194593915	chase@V-mouse@N-OBJ freq:94.0 ppmi:5.981123437956759 score
+59 chase@V-mouse@N-NSUBJ freq:6.0 ppmi:5.702489410856116	chase@V-cat@N-OBJ freq:256.0 ppmi:6.853010438832036 score
+60 push@V-visitor@N-NSUBJ freq:9.0 ppmi:2.1202152200459667	push@V-patient@N-OBJ freq:28.0 ppmi:0.5097901148924977 score
+61 push@V-patient@N-NSUBJ freq:7.0 ppmi:1.620635650489075	push@V-visitor@N-OBJ freq:19.0 ppmi:0.2402394408862077 score
+62 bring@V-relative@N-NSUBJ freq:16.0 ppmi:2.6412962082877183	bring@V-flower@N-OBJ freq:490.0 ppmi:2.1429824356021383	bring@V-patient@N-OBL:to freq:363.0 ppmi:3.905502914950426 score
+63 bring@V-patient@N-NSUBJ freq:73.0 ppmi:2.224740881366621	bring@V-flower@N-OBJ freq:490.0 ppmi:2.1429824356021383	bring@V-relative@N-OBL:to freq:23.0 ppmi:2.8065614933040677 score
+64 yell@V-boss@N-NSUBJ freq:8.0 ppmi:7.226099966564363	yell@V-worker@N-OBL:at freq:0 ppmi:28.924984674152167 score
+65 yell@V-worker@N-NSUBJ freq:4.0 ppmi:4.370328923994163	yell@V-boss@N-OBL:at freq:0 ppmi:28.924984674152167 score
+66 lead@V-dog@N-NSUBJ freq:11.0 ppmi:0	lead@V-person@N-OBJ freq:313.0 ppmi:0.7940649902343796 score
+67 lead@V-person@N-NSUBJ freq:69.0 ppmi:0.32200403963971835	lead@V-dog@N-OBJ freq:77.0 ppmi:0 score
+68 prevent@V-bouncer@N-NSUBJ freq:0 ppmi:3.9093592832082535	prevent@V-woman@N-OBJ freq:650.0 ppmi:1.8885637993305817 score
+69 prevent@V-woman@N-NSUBJ freq:71.0 ppmi:2.30395446411045	prevent@V-bouncer@N-OBJ freq:0 ppmi:1.5722251866419905 score
+70 lick@V-dog@N-NSUBJ freq:19.0 ppmi:9.562862685522372	lick@V-girl@N-OBJ freq:3.0 ppmi:2.480828374734082	lick@V-face@N-OBL:on freq:6.0 ppmi:12.785733115001111 score
+71 lick@V-girl@N-NSUBJ freq:7.0 ppmi:7.531317937044758	lick@V-dog@N-OBJ freq:4.0 ppmi:3.039317637303204	lick@V-face@N-OBL:on freq:6.0 ppmi:12.785733115001111 score
+72 propose@V-man@N-NSUBJ freq:22.0 ppmi:0.48502675295996056	propose@V-woman@N-OBL:to freq:69.0 ppmi:6.4352222719671675 score
+73 propose@V-woman@N-NSUBJ freq:9.0 ppmi:0	propose@V-man@N-OBL:to freq:42.0 ppmi:5.34917643997285 score
+74 measure@V-tailor@N-NSUBJ freq:3.0 ppmi:5.774316494548913	measure@V-princess@N-OBJ freq:0 ppmi:0 score
+75 measure@V-princess@N-NSUBJ freq:0 ppmi:2.5041240442212604	measure@V-tailor@N-OBJ freq:0 ppmi:2.219183568288312 zero_score
+76 save@V-lifeguard@N-NSUBJ freq:8.0 ppmi:6.951095359585266	save@V-grandmother@N-OBJ freq:12.0 ppmi:2.299046300962382 score
+77 save@V-grandmother@N-NSUBJ freq:10.0 ppmi:4.029386049265202	save@V-lifeguard@N-OBJ freq:3.0 ppmi:3.67232547774993 score
+78 open@V-chauffeur@N-NSUBJ freq:7.0 ppmi:5.440203346709946	open@V-door@N-OBJ freq:31907.0 ppmi:7.7288780130477965	open@V-lady@N-OBL:for freq:19.0 ppmi:6.631590006684903 score
+79 open@V-lady@N-NSUBJ freq:98.0 ppmi:4.34471288521698	open@V-door@N-OBJ freq:31907.0 ppmi:7.7288780130477965	open@V-chauffeur@N-OBL:for freq:0 ppmi:8.905155080010866 score

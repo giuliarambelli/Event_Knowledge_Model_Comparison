@@ -46,8 +46,8 @@
 45	criminal@N@NSUBJ	sentence@V@ROOT	judge@N@OBJ
 46	father@N@NSUBJ	pull@V@ROOT	child@N@OBJ	sled@N@OBL:on
 47	child@N@NSUBJ	pull@V@ROOT	father@N@OBJ	sled@N@OBL:on
-48	santa@N@NSUBJ	give@V@ROOT	present@N@OBJ
-49	girl@N@NSUBJ	give@V@ROOT	present@N@OBJ
+48	santa@N@NSUBJ	give@V@ROOT	present@N@OBJ   girl@N@IOBJ
+49	girl@N@NSUBJ	give@V@ROOT	present@N@OBJ   santa@N@IOBJ
 50	peasant@N@NSUBJ	bow@V@ROOT	queen@N@OBL:to
 51	queen@N@NSUBJ	bow@V@ROOT	peasant@N@OBL:to
 52	lady@N@NSUBJ	applaud@V@ROOT	athlete@N@OBJ

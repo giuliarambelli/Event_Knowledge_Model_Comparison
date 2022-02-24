@@ -1,0 +1,5 @@
+NSUBJ nsubj,nsubj:xsubj
+NSUBJPASS nsubjpass,nsubjpass:xsubj
+OBJ dobj
+ROOT HEAD
+AGENT nmod:by,nmod:agent,obl,dep

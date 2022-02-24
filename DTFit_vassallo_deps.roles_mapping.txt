@@ -1,0 +1,3 @@
+NSUBJ nsubj,nsubj:xsubj
+OBJ dobj
+ROOT HEAD

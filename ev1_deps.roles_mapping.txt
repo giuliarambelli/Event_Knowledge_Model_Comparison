@@ -1,0 +1,8 @@
+NSUBJ nsubj,nsubj:xsubj
+OBJ dobj
+ROOT HEAD
+OBL:for nmod:for
+OBL:to nmod:to
+OBL:on nmod:on
+OBL:from nmod:from
+IOBJ iobj

@@ -1226,8 +1226,8 @@
 1225	The painting inherited the count .	0.37717249048372425
 1226	The painting was inherited by the count .	0.39540881449083143
 1227	The count was inherited by the painting .	0.4236219517916835
-1228	The groundskeeper changed the light bulb .	0.5436712651192033
-1229	The light bulb changed the groundskeeper .	0.2790259627525473
+1228	The groundskeeper changed the light bulb .	0.45028529651538474
+1229	The light bulb changed the groundskeeper .	0.2572213347981144
 1230	The light bulb was changed by the groundskeeper .	0.3406898224959768
 1231	The groundskeeper was changed by the light bulb .	0.3690326478605893
 1232	The marcher sang the anthem .	0.6618166708825043

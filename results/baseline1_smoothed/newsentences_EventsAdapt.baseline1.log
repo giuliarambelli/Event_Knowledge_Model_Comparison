@@ -1226,8 +1226,8 @@
 1225 inherit@V-painting@N-NSUBJ freq:4.0 ppmi:3.6433572060000694	inherit@V-count@N-OBJ freq:11.0 ppmi:1.7283560799616675 score
 1226 inherit@V-painting@N-NSUBJPASS freq:18.0 ppmi:6.375060703156622	inherit@V-count@N-AGENT freq:41.0 ppmi:11.74273159290656 score
 1227 inherit@V-count@N-NSUBJPASS freq:0 ppmi:4.6380951089904165	inherit@V-painting@N-AGENT freq:0 ppmi:7.488830885098191 zero_score
-1228 change@V-groundskeeper@N-NSUBJ freq:0 ppmi:7.6967572385319425	change@V-light@N-NSUBJ freq:39.0 ppmi:2.9724022038164972 score
-1229 change@V-light@N-NSUBJ freq:39.0 ppmi:2.9724022038164972	change@V-groundskeeper@N-OBJ freq:0 ppmi:7.554530751944647 score
+1228 change@V-groundskeeper@N-NSUBJ freq:0 ppmi:7.6967572385319425	change@V-bulb@N-OBJ freq:708.0 ppmi:5.599731532825869 score
+1229 change@V-bulb@N-NSUBJ freq:10.0 ppmi:3.5402527528519516	change@V-groundskeeper@N-OBJ freq:0 ppmi:7.554530751944647 score
 1230 change@V-bulb@N-NSUBJPASS freq:11.0 ppmi:6.192764133620658	change@V-groundskeeper@N-AGENT freq:0 ppmi:16.030235083380497 score
 1231 change@V-groundskeeper@N-NSUBJPASS freq:0 ppmi:13.742622833385898	change@V-bulb@N-AGENT freq:0 ppmi:8.744832864518246 zero_score
 1232 sing@V-marcher@N-NSUBJ freq:5.0 ppmi:5.974824124266193	sing@V-anthem@N-OBJ freq:1536.0 ppmi:9.404064222955652 score

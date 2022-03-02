@@ -136,7 +136,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--log_level', type=str, default='INFO')
     parser.add_argument('--which_score', nargs='+', default=['w2w', 'l2r', 'verb', 'last_word'])
-    parser.add_argument('--dataset_names', nargs='+', default=['ev1', 'dtfit', 'events_adapt'])
+    parser.add_argument('--dataset_names', nargs='+', default=['ev1', 'dtfit', 'new-EventsAdapt'])
     parser.add_argument('--average', action='store_true')
     parser.add_argument('--models', nargs='+', default=['bert-large-cased', 'roberta-large'])
     args = parser.parse_args()

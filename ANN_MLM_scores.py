@@ -107,11 +107,20 @@ def get_word_score(model, model_name, sentences, verb_indices=None, average=Fals
 
         sent_tokens = model.tokenizer.tokenize(sent)
         if debug: print(word_tokens, sent_tokens)
-        word_start = sent_tokens.index(word_tokens[0])
-        word_span = len(word_tokens)
-        if debug: print(word_start, word_span)
-        for i in range(word_span):
-            assert sent_tokens[word_start + i] == word_tokens[i]
+
+        word_starts = [i for i, x in enumerate(sent_tokens) if x == word_tokens[0]]
+        if len(word_starts) == 1:
+            word_start = word_starts[0]
+            word_span = len(word_tokens)
+            if debug: print(word_start, word_span)
+            assert all(sent_tokens[word_start + i] == word_tokens[i] for i in range(word_span))
+        else:
+            for ind, word_start in enumerate(word_starts):
+                word_start = word_starts[ind]
+                word_span = len(word_tokens)
+                if debug: print(word_start, word_span)
+                if all(sent_tokens[word_start + i] == word_tokens[i] for i in range(word_span)):
+                    break
 
         tokens, nr_tokens, list_of_sents = model.prepare_input(sent)
         probabilities_fillers = model.compute_filler_probabilities(tokens, nr_tokens, list_of_sents, l2r=l2r)

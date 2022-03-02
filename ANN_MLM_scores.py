@@ -133,7 +133,6 @@ def prepare_data(df):
     return verb_ids, sents
 
 def main():
-
     parser = argparse.ArgumentParser()
     parser.add_argument('--log_level', type=str, default='INFO')
     parser.add_argument('--which_score', nargs='+', default=['w2w', 'l2r', 'verb', 'last_word'])
@@ -149,10 +148,10 @@ def main():
     out_dir = f'results/ANNs/'
     os.makedirs(out_dir, exist_ok=True)
 
-    dict_tokenizers = {"bert-base-cased": BertTokenizer.from_pretrained('bert-base-cased'),
+    dict_tokenizers = {"bert-large-cased": BertTokenizer.from_pretrained('bert-large-cased'),
                         "roberta-large": RobertaTokenizer.from_pretrained('roberta-large')}
 
-    dict_mlm_models = {"bert-base-cased": BertForMaskedLM.from_pretrained('bert-base-cased'),
+    dict_mlm_models = {"bert-large-cased": BertForMaskedLM.from_pretrained('bert-large-cased'),
                         "roberta-large": RobertaForMaskedLM.from_pretrained('roberta-large')}
 
     # path to files in dataset/id_verbs subdirectory (position of the verb has to be given)

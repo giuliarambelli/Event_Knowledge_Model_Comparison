@@ -100,7 +100,11 @@ def get_word_score(model, sentences, verb_indices=None, average=False, l2r=False
             word = word.rstrip(".")
         print(f"Getting probability for word: {word}")
 
-        word_tokens = model.tokenizer.tokenize(word)
+        if model_name.startswith("roberta"):
+            word_tokens = model.tokenizer.tokenize(f" {word}")  # account for Byte-level BPE tokenizer special behavior
+        else:
+            word_tokens = model.tokenizer.tokenize(word)
+
         sent_tokens = model.tokenizer.tokenize(sent)
         if debug: print(word_tokens, sent_tokens)
         word_start = sent_tokens.index(word_tokens[0])

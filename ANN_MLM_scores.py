@@ -165,7 +165,6 @@ def main():
 
     for model_name in args.models:
         model = TransformerModel(model_name, dict_tokenizers, dict_mlm_models)
-        model.eval()
         _logger.info(f"*********** Getting scores for model {model_name} ***********")
         for dataset_name in args.dataset_names:
             _logger.info(f"*********** Processing: {dataset_name} ***********")

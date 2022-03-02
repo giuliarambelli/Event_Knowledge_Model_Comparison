@@ -83,7 +83,7 @@ def get_sentence_score(model, sentences, average=False, l2r=False):
     return sentence_scores
 
 
-def get_word_score(model, sentences, verb_indices=None, average=False, l2r=False):
+def get_word_score(model, model_name, sentences, verb_indices=None, average=False, l2r=False):
     word_scores = []
 
     if verb_indices is None:  # if last word probability
@@ -185,11 +185,11 @@ def main():
                     savename = 'sentence-l2r-PLL'
                 elif task == 'verb':
                     _logger.info(f">> Getting verb scores")
-                    scores = get_word_score(model, sentences, verb_indices=verb_ids, average=args.average, l2r=False)
+                    scores = get_word_score(model, model_name, sentences, verb_indices=verb_ids, average=args.average, l2r=False)
                     savename = 'verb-PLL'
                 elif task == 'last_word':
                     _logger.info(f">> Getting last word scores")
-                    scores = get_word_score(model, sentences, verb_indices=None, average=args.average, l2r=False)
+                    scores = get_word_score(model, model_name, sentences, verb_indices=None, average=args.average, l2r=False)
                     savename = 'last-word-PLL'
                 else:
                     raise NotImplementedError(f"Task {task} not defined!")

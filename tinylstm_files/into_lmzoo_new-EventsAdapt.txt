@@ -1,0 +1,1648 @@
+The raider caught the illness.
+The illness caught the raider.
+The illness was caught by the raider.
+The raider was caught by the illness.
+The marauder contracted the disease.
+The disease contracted the marauder.
+The disease was contracted by the marauder.
+The marauder was contracted by the disease.
+The convict dreaded the prison.
+The prison dreaded the convict.
+The prison was dreaded by the convict.
+The convict was dreaded by the prison.
+The criminal feared the jail.
+The jail feared the criminal.
+The jail was feared by the criminal.
+The criminal was feared by the jail.
+The prostitute squandered the cash.
+The cash squandered the prostitute.
+The cash was squandered by the prostitute.
+The prostitute was squandered by the cash.
+The call girl wasted the money.
+The money wasted the call girl.
+The money was wasted by the call girl.
+The call girl was wasted by the money.
+The adventurer requested the beverage.
+The beverage requested the adventurer.
+The beverage was requested by the adventurer.
+The adventurer was requested by the beverage.
+The undertaker prepared the funeral.
+The funeral prepared the undertaker.
+The funeral was prepared by the undertaker.
+The undertaker was prepared by the funeral.
+The mortician arranged the burial.
+The burial arranged the mortician.
+The burial was arranged by the mortician.
+The mortician was arranged by the burial.
+The supervisor supplied the liquor.
+The liquor supplied the supervisor.
+The liquor was supplied by the supervisor.
+The supervisor was supplied by the liquor.
+The overseer provided the alcohol.
+The alcohol provided the overseer.
+The alcohol was provided by the overseer.
+The overseer was provided by the alcohol.
+The troublemaker crashed the car.
+The car crashed the troublemaker.
+The car was crashed by the troublemaker.
+The troublemaker was crashed by the car.
+The hooligan wrecked the vehicle.
+The vehicle wrecked the hooligan.
+The vehicle was wrecked by the hooligan.
+The hooligan was wrecked by the vehicle.
+The repairman fixed the tap.
+The tap fixed the repairman.
+The tap was fixed by the repairman.
+The repairman was fixed by the tap.
+The handyman repaired the faucet.
+The faucet repaired the handyman.
+The faucet was repaired by the handyman.
+The handyman was repaired by the faucet.
+The secretary organized the desk.
+The desk organized the secretary.
+The desk was organized by the secretary.
+The secretary was organized by the desk.
+The receptionist tidied the table.
+The table tidied the receptionist.
+The table was tidied by the receptionist.
+The receptionist was tidied by the table.
+The pilot steered the airplane.
+The airplane steered the pilot.
+The airplane was steered by the pilot.
+The pilot was steered by the airplane.
+The aviator maneuvered the jet.
+The jet maneuvered the aviator.
+The jet was maneuvered by the aviator.
+The aviator was maneuvered by the jet.
+The chef sauteed the squid.
+The squid sauteed the chef.
+The squid was sauteed by the chef.
+The chef was sauteed by the squid.
+The cook grilled the octopus.
+The octopus grilled the cook.
+The octopus was grilled by the cook.
+The cook was grilled by the octopus.
+The ship captain promised the triumph.
+The triumph promised the ship captain.
+The triumph was promised by the ship captain.
+The ship captain was promised by the triumph.
+The skipper guaranteed the victory.
+The victory guaranteed the skipper.
+The victory was guaranteed by the skipper.
+The skipper was guaranteed by the victory.
+The milliner adorned the fedora.
+The fedora adorned the milliner.
+The fedora was adorned by the milliner.
+The milliner was adorned by the fedora.
+The hatter decorated the bowler.
+The bowler decorated the hatter.
+The bowler was decorated by the hatter.
+The hatter was decorated by the bowler.
+The serviceman hoisted the flag.
+The flag hoisted the serviceman.
+The flag was hoisted by the serviceman.
+The serviceman was hoisted by the flag.
+The soldier raised the banner.
+The banner raised the soldier.
+The banner was raised by the soldier.
+The soldier was raised by the banner.
+The agent failed the mission.
+The mission failed the agent.
+The mission was failed by the agent.
+The agent was failed by the mission.
+The operative blew the assignment.
+The assignment blew the operative.
+The assignment was blown by the operative.
+The operative was blown by the assignment.
+The anchorman garbled the expression.
+The expression garbled the anchorman.
+The expression was garbled by the anchorman.
+The anchorman was garbled by the expression.
+The announcer mispronounced the word.
+The word mispronounced the announcer.
+The word was mispronounced by the announcer.
+The announcer was mispronounced by the word.
+The author finished the novel.
+The novel finished the author.
+The novel was finished by the author.
+The author was finished by the novel.
+The writer completed the book.
+The book completed the writer.
+The book was completed by the writer.
+The writer was completed by the book.
+The financier sponsored the project.
+The project sponsored the financier.
+The project was sponsored by the financier.
+The financier was sponsored by the project.
+The banker funded the program.
+The program funded the banker.
+The program was funded by the banker.
+The banker was funded by the program.
+The tourist exited the bus.
+The bus exited the tourist.
+The bus was exited by the tourist.
+The tourist was exited by the bus.
+The vacationer left the shuttle.
+The shuttle left the vacationer.
+The shuttle was left by the vacationer.
+The vacationer was left by the shuttle.
+The dietitian loathed the jam.
+The jam loathed the dietitian.
+The jam was loathed by the dietitian.
+The dietitian was loathed by the jam.
+The nutritionist detested the marmalade.
+The marmalade detested the nutritionist.
+The marmalade was detested by the nutritionist.
+The nutritionist was detested by the marmalade.
+The scientist discovered the cure.
+The cure discovered the scientist.
+The cure was discovered by the scientist.
+The scientist was discovered by the cure.
+The researcher found the remedy.
+The remedy found the researcher.
+The remedy was found by the researcher.
+The researcher was found by the remedy.
+The doctor closed the school.
+The school closed the doctor.
+The school was closed by the doctor.
+The doctor was closed by the school.
+The maid lifted the cushion.
+The cushion lifted the maid.
+The cushion was lifted by the maid.
+The maid was lifted by the cushion.
+The designer suggested the drapes.
+The drapes suggested the designer.
+The drapes were suggested by the designer.
+The designer was suggested by the drapes.
+The decorator recommended the curtains.
+The curtains recommended the decorator.
+The curtains were recommended by the decorator.
+The decorator was recommended by the curtains.
+The builder washed the pants.
+The pants washed the builder.
+The pants were washed by the builder.
+The builder was washed by the pants.
+The contractor laundered the trousers.
+The trousers laundered the contractor.
+The trousers were laundered by the contractor.
+The contractor was laundered by the trousers.
+The servant wiped the sink.
+The sink wiped the servant.
+The sink was wiped by the servant.
+The servant was wiped by the sink.
+The domestic cleaned the wash basin.
+The wash basin cleaned the domestic.
+The wash basin was cleaned by the domestic.
+The domestic was cleaned by the wash basin.
+The friend donned the pullover.
+The pullover donned the friend.
+The pullover was donned by the friend.
+The friend was donned by the pullover.
+The convalescent took the pill.
+The pill took the convalescent.
+The pill was taken by the convalescent.
+The convalescent was taken by the pill.
+The patient swallowed the medicine.
+The medicine swallowed the patient.
+The medicine was swallowed by the patient.
+The patient was swallowed by the medicine.
+The hoarder hid the stash.
+The stash hid the hoarder.
+The stash was hidden by the hoarder.
+The hoarder was hidden by the stash.
+The packrat concealed the stockpile.
+The stockpile concealed the packrat.
+The stockpile was concealed by the packrat.
+The packrat was concealed by the stockpile.
+The reporter abandoned the story.
+The story abandoned the reporter.
+The story was abandoned by the reporter.
+The reporter was abandoned by the story.
+The journalist ditched the article.
+The article ditched the journalist.
+The article was ditched by the journalist.
+The journalist was ditched by the article.
+The carnivore ate the steak.
+The steak ate the carnivore.
+The steak was eaten by the carnivore.
+The carnivore was eaten by the steak.
+The meat-eater devoured the filet.
+The filet devoured the meat-eater.
+The filet was devoured by the meat-eater.
+The meat-eater was devoured by the filet.
+The man drank the soda.
+The soda drank the man.
+The soda was drunk by the man.
+The man was drunk by the soda.
+The teacher bought the laptop.
+The laptop bought the teacher.
+The laptop was bought by the teacher.
+The teacher was bought by the laptop.
+The instructor purchased the computer.
+The computer purchased the instructor.
+The computer was purchased by the instructor.
+The instructor was purchased by the computer.
+The lady cooked the supper.
+The supper cooked the lady.
+The supper was cooked by the lady.
+The lady was cooked by the supper.
+The woman prepared the dinner.
+The dinner prepared the woman.
+The dinner was prepared by the woman.
+The woman was prepared by the dinner.
+The traveler lost the souvenir.
+The souvenir lost the traveler.
+The souvenir was lost by the traveler.
+The traveler was lost by the souvenir.
+The sightseer misplaced the memento.
+The memento misplaced the sightseer.
+The memento was misplaced by the sightseer.
+The sightseer was misplaced by the memento.
+The comedian confirmed the itinerary.
+The itinerary confirmed the comedian.
+The itinerary was confirmed by the comedian.
+The comedian was confirmed by the itinerary.
+The humorist verified the schedule.
+The schedule verified the humorist.
+The schedule was verified by the humorist.
+The humorist was verified by the schedule.
+The woodworker skimmed the brochure.
+The brochure skimmed the woodworker.
+The brochure was skimmed by the woodworker.
+The woodworker was skimmed by the brochure.
+The guide reached the target.
+The target reached the guide.
+The target was reached by the guide.
+The guide was reached by the target.
+The townsperson farmed the grain.
+The grain farmed the townsperson.
+The grain was farmed by the townsperson.
+The townsperson was farmed by the grain.
+The villager cultivated the crop.
+The crop cultivated the villager.
+The crop was cultivated by the villager.
+The villager was cultivated by the crop.
+The mentor revised the manuscript.
+The manuscript revised the mentor.
+The manuscript was revised by the mentor.
+The mentor was revised by the manuscript.
+The advisor edited the paper.
+The paper edited the advisor.
+The paper was edited by the advisor.
+The advisor was edited by the paper.
+The accountant made the chart.
+The chart made the accountant.
+The chart was made by the accountant.
+The accountant was made by the chart.
+The bookkeeper created the graph.
+The graph created the bookkeeper.
+The graph was created by the bookkeeper.
+The bookkeeper was created by the graph.
+The logger felled the pine tree.
+The pine tree felled the logger.
+The pine tree was felled by the logger.
+The logger was felled by the pine tree.
+The tycoon ran the company.
+The company ran the tycoon.
+The company was run by the tycoon.
+The tycoon was run by the company.
+The mogul governed the corporation.
+The corporation governed the mogul.
+The corporation was governed by the mogul.
+The mogul was governed by the corporation.
+The campaigner biased the ballot.
+The ballot biased the campaigner.
+The ballot was biased by the campaigner.
+The campaigner was biased by the ballot.
+The activist prejudiced the vote.
+The vote prejudiced the activist.
+The vote was prejudiced by the activist.
+The activist was prejudiced by the vote.
+The stewardess pulled the suitcase.
+The suitcase pulled the stewardess.
+The suitcase was pulled by the stewardess.
+The stewardess was pulled by the suitcase.
+The flight-attendant dragged the luggage.
+The luggage dragged the flight-attendant.
+The luggage was dragged by the flight-attendant.
+The flight-attendant was dragged by the luggage.
+The congressman delivered the speech.
+The speech delivered the congressman.
+The speech was delivered by the congressman.
+The congressman was delivered by the speech.
+The representative gave the address.
+The address gave the representative.
+The address was given by the representative.
+The representative was given by the address.
+The sheriff inspected the estate.
+The estate inspected the sheriff.
+The estate was inspected by the sheriff.
+The sheriff was inspected by the estate.
+The constable examined the property.
+The property examined the constable.
+The property was examined by the constable.
+The constable was examined by the property.
+The celebrity signed the photograph.
+The photograph signed the celebrity.
+The photograph was signed by the celebrity.
+The celebrity was signed by the photograph.
+The star autographed the picture.
+The picture autographed the star.
+The picture was autographed by the star.
+The star was autographed by the picture.
+The nanny tutored the boy.
+The boy tutored the nanny.
+The boy was tutored by the nanny.
+The nanny was tutored by the boy.
+The governess instructed the lad.
+The lad instructed the governess.
+The lad was instructed by the governess.
+The governess was instructed by the lad.
+The blackmailer threatened the senator.
+The senator threatened the blackmailer.
+The senator was threatened by the blackmailer.
+The blackmailer was threatened by the senator.
+The extortionist menaced the legislator.
+The legislator menaced the extortionist.
+The legislator was menaced by the extortionist.
+The extortionist was menaced by the legislator.
+The artist portrayed the philosopher.
+The philosopher portrayed the artist.
+The philosopher was portrayed by the artist.
+The artist was portrayed by the philosopher.
+The painter depicted the thinker.
+The thinker depicted the painter.
+The thinker was depicted by the painter.
+The painter was depicted by the thinker.
+The mechanic berated the intern.
+The intern berated the mechanic.
+The intern was berated by the mechanic.
+The mechanic was berated by the intern.
+The technician rebuked the aide.
+The aide rebuked the technician.
+The aide was rebuked by the technician.
+The technician was rebuked by the aide.
+The fairy enchanted the troll.
+The troll enchanted the fairy.
+The troll was enchanted by the fairy.
+The fairy was enchanted by the troll.
+The pixie mesmerized the ogre.
+The ogre mesmerized the pixie.
+The ogre was mesmerized by the pixie.
+The pixie was mesmerized by the ogre.
+The orderly assisted the dentist.
+The dentist assisted the orderly.
+The dentist was assisted by the orderly.
+The orderly was assisted by the dentist.
+The nurse helped the orthodontist.
+The orthodontist helped the nurse.
+The orthodontist was helped by the nurse.
+The nurse was helped by the orthodontist.
+The owner evicted the tenant.
+The tenant evicted the owner.
+The tenant was evicted by the owner.
+The owner was evicted by the tenant.
+The critic attacked the conservative.
+The conservative attacked the critic.
+The conservative was attacked by the critic.
+The critic was attacked by the conservative.
+The reviewer criticized the right-winger.
+The right-winger criticized the reviewer.
+The right-winger was criticized by the reviewer.
+The reviewer was criticized by the right-winger.
+The admirer badgered the director.
+The director badgered the admirer.
+The director was badgered by the admirer.
+The admirer was badgered by the director.
+The fan pestered the filmmaker.
+The filmmaker pestered the fan.
+The filmmaker was pestered by the fan.
+The fan was pestered by the filmmaker.
+The paramedic revived the youth.
+The youth revived the paramedic.
+The youth was revived by the paramedic.
+The paramedic was revived by the youth.
+The EMT resuscitated the youngster.
+The youngster resuscitated the EMT.
+The youngster was resuscitated by the EMT.
+The EMT was resuscitated by the youngster.
+The prankster duped the marketer.
+The marketer duped the prankster.
+The marketer was duped by the prankster.
+The prankster was duped by the marketer.
+The joker tricked the distributor.
+The distributor tricked the joker.
+The distributor was tricked by the joker.
+The joker was tricked by the distributor.
+The playboy courted the damsel.
+The damsel courted the playboy.
+The damsel was courted by the playboy.
+The playboy was courted by the damsel.
+The womanizer wooed the maiden.
+The maiden wooed the womanizer.
+The maiden was wooed by the womanizer.
+The womanizer was wooed by the maiden.
+The nomad cherished the clergyman.
+The clergyman cherished the nomad.
+The clergyman was cherished by the nomad.
+The nomad was cherished by the clergyman.
+The vagabond revered the priest.
+The priest revered the vagabond.
+The priest was revered by the vagabond.
+The vagabond was revered by the priest.
+The assassin shot the statesman.
+The statesman shot the assassin.
+The statesman was shot by the assassin.
+The assassin was shot by the statesman.
+The hit man killed the politician.
+The politician killed the hit man.
+The politician was killed by the hit man.
+The hit man was killed by the politician.
+The clerk charged the elderly person.
+The elderly person charged the clerk.
+The elderly person was charged by the clerk.
+The clerk was charged by the elderly person.
+The cashier billed the senior citizen.
+The senior citizen billed the cashier.
+The senior citizen was billed by the cashier.
+The cashier was billed by the senior citizen.
+The mediator rescued the hostage.
+The hostage rescued the mediator.
+The hostage was rescued by the mediator.
+The mediator was rescued by the hostage.
+The negotiator saved the captive.
+The captive saved the negotiator.
+The captive was saved by the negotiator.
+The negotiator was saved by the captive.
+The detective found the assailant.
+The assailant found the detective.
+The assailant was found by the detective.
+The detective was found by the assailant.
+The sleuth located the attacker.
+The attacker located the sleuth.
+The attacker was located by the sleuth.
+The sleuth was located by the attacker.
+The artisan trained the apprentice.
+The apprentice trained the artisan.
+The apprentice was trained by the artisan.
+The artisan was trained by the apprentice.
+The craftsman taught the trainee.
+The trainee taught the craftsman.
+The trainee was taught by the craftsman.
+The craftsman was taught by the trainee.
+The biker defied the trainer.
+The trainer defied the biker.
+The trainer was defied by the biker.
+The biker was defied by the trainer.
+The cyclist disobeyed the coach.
+The coach disobeyed the cyclist.
+The coach was disobeyed by the cyclist.
+The cyclist was disobeyed by the coach.
+The speaker engrossed the audience.
+The audience engrossed the speaker.
+The audience was engrossed by the speaker.
+The speaker was engrossed by the audience.
+The orator captivated the spectators.
+The spectators captivated the orator.
+The spectators were captivated by the orator.
+The orator was captivated by the spectators.
+The genius shocked the cousin.
+The cousin shocked the genius.
+The cousin was shocked by the genius.
+The genius was shocked by the cousin.
+The prodigy surprised the relative.
+The relative surprised the prodigy.
+The relative was surprised by the prodigy.
+The prodigy was surprised by the relative.
+The smuggler bribed the bureaucrat.
+The bureaucrat bribed the smuggler.
+The bureaucrat was bribed by the smuggler.
+The smuggler was bribed by the bureaucrat.
+The amateur irked the maestro.
+The maestro irked the amateur.
+The maestro was irked by the amateur.
+The amateur was irked by the maestro.
+The novice irritated the virtuoso.
+The virtuoso irritated the novice.
+The virtuoso was irritated by the novice.
+The novice was irritated by the virtuoso.
+The lawyer questioned the witness.
+The witness questioned the lawyer.
+The witness was questioned by the lawyer.
+The lawyer was questioned by the witness.
+The attorney interrogated the bystander.
+The bystander interrogated the attorney.
+The bystander was interrogated by the attorney.
+The attorney was interrogated by the bystander.
+The singer disappointed the enthusiast.
+The enthusiast disappointed the singer.
+The enthusiast was disappointed by the singer.
+The singer was disappointed by the enthusiast.
+The vocalist disillusioned the connoisseur.
+The connoisseur disillusioned the vocalist.
+The connoisseur was disillusioned by the vocalist.
+The vocalist was disillusioned by the connoisseur.
+The chauffeur drove the diplomat.
+The diplomat drove the chauffeur.
+The diplomat was driven by the chauffeur.
+The chauffeur was driven by the diplomat.
+The driver transported the ambassador.
+The ambassador transported the driver.
+The ambassador was transported by the driver.
+The driver was transported by the ambassador.
+The guard apprehended the prisoner.
+The prisoner apprehended the guard.
+The prisoner was apprehended by the guard.
+The guard was apprehended by the prisoner.
+The warden caught the inmate.
+The inmate caught the warden.
+The inmate was caught by the warden.
+The warden was caught by the inmate.
+The tailor costumed the dancer.
+The dancer costumed the tailor.
+The dancer was costumed by the tailor.
+The tailor was costumed by the dancer.
+The dressmaker attired the ballerina.
+The ballerina attired the dressmaker.
+The ballerina was attired by the dressmaker.
+The dressmaker was attired by the ballerina.
+The principal scolded the child.
+The child scolded the principal.
+The child was scolded by the principal.
+The principal was scolded by the child.
+The headmaster reprimanded the kid.
+The kid reprimanded the headmaster.
+The kid was reprimanded by the headmaster.
+The headmaster was reprimanded by the kid.
+The lord named the heir.
+The heir named the lord.
+The heir was named by the lord.
+The lord was named by the heir.
+The baron chose the successor.
+The successor chose the baron.
+The successor was chosen by the baron.
+The baron was chosen by the successor.
+The cop restrained the rioter.
+The rioter restrained the cop.
+The rioter was restrained by the cop.
+The cop was restrained by the rioter.
+The policeman subdued the rabble-rouser.
+The rabble-rouser subdued the policeman.
+The rabble-rouser was subdued by the policeman.
+The policeman was subdued by the rabble-rouser.
+The dad coddled the baby.
+The baby coddled the dad.
+The baby was coddled by the dad.
+The dad was coddled by the baby.
+The father pampered the infant.
+The infant pampered the father.
+The infant was pampered by the father.
+The father was pampered by the infant.
+The king exiled the rebel.
+The rebel exiled the king.
+The rebel was exiled by the king.
+The king was exiled by the rebel.
+The monarch banished the insurgent.
+The insurgent banished the monarch.
+The insurgent was banished by the monarch.
+The monarch was banished by the insurgent.
+The thief robbed the manufacturer.
+The manufacturer robbed the thief.
+The manufacturer was robbed by the thief.
+The thief was robbed by the manufacturer.
+The robber burgled the industrialist.
+The industrialist burgled the robber.
+The industrialist was burgled by the robber.
+The robber was burgled by the industrialist.
+The pessimist discouraged the contestant.
+The contestant discouraged the pessimist.
+The contestant was discouraged by the pessimist.
+The pessimist was discouraged by the contestant.
+The cynic dissuaded the participant.
+The participant dissuaded the cynic.
+The participant was dissuaded by the cynic.
+The cynic was dissuaded by the participant.
+The loudmouth tormented the loner.
+The loner tormented the loudmouth.
+The loner was tormented by the loudmouth.
+The loudmouth was tormented by the loner.
+The windbag taunted the recluse.
+The recluse taunted the windbag.
+The recluse was taunted by the windbag.
+The windbag was taunted by the recluse.
+The imitator fooled the investigator.
+The investigator fooled the imitator.
+The investigator was fooled by the imitator.
+The imitator was fooled by the investigator.
+The impersonator conned the inspector.
+The inspector conned the impersonator.
+The inspector was conned by the impersonator.
+The impersonator was conned by the inspector.
+The boss fired the worker.
+The worker fired the boss.
+The worker was fired by the boss.
+The boss was fired by the worker.
+The pyromaniac unnerved the shopkeeper.
+The shopkeeper unnerved the pyromaniac.
+The shopkeeper was unnerved by the pyromaniac.
+The pyromaniac was unnerved by the shopkeeper.
+The arsonist alarmed the vendor.
+The vendor alarmed the arsonist.
+The vendor was alarmed by the arsonist.
+The arsonist was alarmed by the vendor.
+The professional supported the beginner.
+The beginner supported the professional.
+The beginner was supported by the professional.
+The professional was supported by the beginner.
+The master encouraged the rookie.
+The rookie encouraged the master.
+The rookie was encouraged by the master.
+The master was encouraged by the rookie.
+The magician hypnotized the crowd.
+The crowd hypnotized the magician.
+The crowd was hypnotized by the magician.
+The magician was hypnotized by the crowd.
+The illusionist entranced the viewers.
+The viewers entranced the illusionist.
+The viewers were entranced by the illusionist.
+The illusionist was entranced by the viewers.
+The businessman employed the expert.
+The expert employed the businessman.
+The expert was employed by the businessman.
+The businessman was employed by the expert.
+The entrepreneur hired the specialist.
+The specialist hired the entrepreneur.
+The specialist was hired by the entrepreneur.
+The entrepreneur was hired by the specialist.
+The terrorist petrified the first lady.
+The first lady petrified the terrorist.
+The first lady was petrified by the terrorist.
+The terrorist was petrified by the first lady.
+The hijacker terrified the president's wife.
+The president's wife terrified the hijacker.
+The president's wife was terrified by the hijacker.
+The hijacker was terrified by the president's wife.
+The judge praised the gold medalist.
+The gold medalist praised the judge.
+The gold medalist was praised by the judge.
+The judge was praised by the gold medalist.
+The panelist congratulated the winner.
+The winner congratulated the panelist.
+The winner was congratulated by the panelist.
+The panelist was congratulated by the winner.
+The liar emulated the victor.
+The victor emulated the liar.
+The victor was emulated by the liar.
+The liar was emulated by the victor.
+The deceiver imitated the conqueror.
+The conqueror imitated the deceiver.
+The conqueror was imitated by the deceiver.
+The deceiver was imitated by the conqueror.
+The environmentalist cautioned the tobacconist.
+The tobacconist cautioned the environmentalist.
+The tobacconist was cautioned by the environmentalist.
+The environmentalist was cautioned by the tobacconist.
+The ecologist warned the cigar-maker.
+The cigar-maker warned the ecologist.
+The cigar-maker was warned by the ecologist.
+The ecologist was warned by the cigar-maker.
+The peasant idolized the ancestors.
+The ancestors idolized the peasant.
+The ancestors were idolized by the peasant.
+The peasant was idolized by the ancestors.
+The serf worshipped the forefathers.
+The forefathers worshipped the serf.
+The forefathers were worshipped by the serf.
+The serf was worshipped by the forefathers.
+The alcoholic hassled the guest.
+The guest hassled the alcoholic.
+The guest was hassled by the alcoholic.
+The alcoholic was hassled by the guest.
+The drunk bothered the visitor.
+The visitor bothered the drunk.
+The visitor was bothered by the drunk.
+The drunk was bothered by the visitor.
+The commentator vexed the athlete.
+The athlete vexed the commentator.
+The athlete was vexed by the commentator.
+The commentator was vexed by the athlete.
+The sportscaster peeved the jock.
+The jock peeved the sportscaster.
+The jock was peeved by the sportscaster.
+The sportscaster was peeved by the jock.
+The preacher hugged the churchgoer.
+The churchgoer hugged the preacher.
+The churchgoer was hugged by the preacher.
+The preacher was hugged by the churchgoer.
+The pastor embraced the parishioner.
+The parishioner embraced the pastor.
+The parishioner was embraced by the pastor.
+The pastor was embraced by the parishioner.
+The maniac mocked the clown.
+The clown mocked the maniac.
+The clown was mocked by the maniac.
+The maniac was mocked by the clown.
+The lunatic ridiculed the jester.
+The jester ridiculed the lunatic.
+The jester was ridiculed by the lunatic.
+The lunatic was ridiculed by the jester.
+The archivist contacted the inventor.
+The inventor contacted the archivist.
+The inventor was contacted by the archivist.
+The archivist was contacted by the inventor.
+The historian approached the innovator.
+The innovator approached the historian.
+The innovator was approached by the historian.
+The historian was approached by the innovator.
+The janitor called the landscaper.
+The landscaper called the janitor.
+The landscaper was called by the janitor.
+The janitor was called by the landscaper.
+The custodian phoned the gardener.
+The gardener phoned the custodian.
+The gardener was phoned by the custodian.
+The custodian was phoned by the gardener.
+The drummer annoyed the weatherman.
+The weatherman annoyed the drummer.
+The weatherman was annoyed by the drummer.
+The drummer was annoyed by the weatherman.
+The percussionist displeased the meteorologist.
+The meteorologist displeased the percussionist.
+The meteorologist was displeased by the percussionist.
+The percussionist was displeased by the meteorologist.
+The go-between belittled the defendant.
+The defendant belittled the go-between.
+The defendant was belittled by the go-between.
+The go-between was belittled by the defendant.
+The intermediary deprecated the felon.
+The felon deprecated the intermediary.
+The felon was deprecated by the intermediary.
+The intermediary was deprecated by the felon.
+The valet entertained the envoy.
+The envoy entertained the valet.
+The envoy was entertained by the valet.
+The valet was entertained by the envoy.
+The manservant amused the emissary.
+The emissary amused the manservant.
+The emissary was amused by the manservant.
+The manservant was amused by the emissary.
+The acrobat pushed the stranger.
+The stranger pushed the acrobat.
+The stranger was pushed by the acrobat.
+The acrobat was pushed by the stranger.
+The gymnast shoved the outsider.
+The outsider shoved the gymnast.
+The outsider was shoved by the gymnast.
+The gymnast was shoved by the outsider.
+The benefactor calmed the architect.
+The architect calmed the benefactor.
+The architect was calmed by the benefactor.
+The benefactor was calmed by the architect.
+The patron soothed the draftsman.
+The draftsman soothed the patron.
+The draftsman was soothed by the patron.
+The patron was soothed by the draftsman.
+The therapist lauded the hairdresser.
+The hairdresser lauded the therapist.
+The hairdresser was lauded by the therapist.
+The therapist was lauded by the hairdresser.
+The psychologist extolled the hairstylist.
+The hairstylist extolled the psychologist.
+The hairstylist was extolled by the psychologist.
+The psychologist was extolled by the hairstylist.
+The nobleman married the baroness.
+The baroness married the nobleman.
+The baroness was married by the nobleman.
+The nobleman was married by the baroness.
+The aristocrat wed the countess.
+The countess wed the aristocrat.
+The countess was wed by the aristocrat.
+The aristocrat was wed by the countess.
+The actuary assuaged the creditor.
+The creditor assuaged the actuary.
+The creditor was assuaged by the actuary.
+The actuary was assuaged by the creditor.
+The analyst relieved the investor.
+The investor relieved the analyst.
+The investor was relieved by the analyst.
+The analyst was relieved by the investor.
+The sailor frightened the psychic.
+The psychic frightened the sailor.
+The psychic was frightened by the sailor.
+The sailor was frightened by the psychic.
+The mariner scared the fortune-teller.
+The fortune-teller scared the mariner.
+The fortune-teller was scared by the mariner.
+The mariner was scared by the fortune-teller.
+The assistant flattered the auditor.
+The auditor flattered the assistant.
+The auditor was flattered by the assistant.
+The assistant was flattered by the auditor.
+The helper complimented the appraiser.
+The appraiser complimented the helper.
+The appraiser was complimented by the helper.
+The helper was complimented by the appraiser.
+The immigrant believed the trooper.
+The trooper believed the immigrant.
+The trooper was believed by the immigrant.
+The immigrant was believed by the trooper.
+The foreigner trusted the patrolman.
+The patrolman trusted the foreigner.
+The patrolman was trusted by the foreigner.
+The foreigner was trusted by the patrolman.
+The mapmaker affronted the farmer.
+The farmer affronted the mapmaker.
+The farmer was affronted by the mapmaker.
+The mapmaker was affronted by the farmer.
+The cartographer insulted the rancher.
+The rancher insulted the cartographer.
+The rancher was insulted by the cartographer.
+The cartographer was insulted by the rancher.
+The poet awed the entertainer.
+The entertainer awed the poet.
+The entertainer was awed by the poet.
+The poet was awed by the entertainer.
+The lyricist dazzled the performer.
+The performer dazzled the lyricist.
+The performer was dazzled by the lyricist.
+The lyricist was dazzled by the performer.
+The peddler tested the manager.
+The manager tested the peddler.
+The manager was tested by the peddler.
+The peddler was tested by the manager.
+The traveling salesman challenged the executive.
+The executive challenged the traveling salesman.
+The executive was challenged by the traveling salesman.
+The traveling salesman was challenged by the executive.
+The musician admired the diva.
+The diva admired the musician.
+The diva was admired by the musician.
+The musician was admired by the diva.
+The instrumentalist adored the prima donna.
+The prima donna adored the instrumentalist.
+The prima donna was adored by the instrumentalist.
+The instrumentalist was adored by the prima donna.
+The general welcomed the hero.
+The hero welcomed the general.
+The hero was welcomed by the general.
+The general was welcomed by the hero.
+The commander greeted the champion.
+The champion greeted the commander.
+The champion was greeted by the commander.
+The commander was greeted by the champion.
+The cobbler disdained the stonecutter.
+The stonecutter disdained the cobbler.
+The stonecutter was disdained by the cobbler.
+The cobbler was disdained by the stonecutter.
+The shoemaker scorned the mason.
+The mason scorned the shoemaker.
+The mason was scorned by the shoemaker.
+The shoemaker was scorned by the mason.
+The postman noticed the chaplain.
+The chaplain noticed the postman.
+The chaplain was noticed by the postman.
+The postman was noticed by the chaplain.
+The mailman saw the minister.
+The minister saw the mailman.
+The minister was seen by the mailman.
+The mailman was seen by the minister.
+The composer begrudged the playwright.
+The playwright begrudged the composer.
+The playwright was begrudged by the composer.
+The composer was begrudged by the playwright.
+The songwriter envied the dramatist.
+The dramatist envied the songwriter.
+The dramatist was envied by the songwriter.
+The songwriter was envied by the dramatist.
+The dictator angered the residents.
+The residents angered the dictator.
+The residents were angered by the dictator.
+The dictator was angered by the residents.
+The despot enraged the townspeople.
+The townspeople enraged the despot.
+The townspeople were enraged by the despot.
+The despot was enraged by the townspeople.
+The missionary baffled the oracle.
+The oracle baffled the missionary.
+The oracle was baffled by the missionary.
+The missionary was baffled by the oracle.
+The evangelist mystified the soothsayer.
+The soothsayer mystified the evangelist.
+The soothsayer was mystified by the evangelist.
+The evangelist was mystified by the soothsayer.
+The trespasser choked the fighter.
+The fighter choked the trespasser.
+The fighter was choked by the trespasser.
+The trespasser was choked by the fighter.
+The encroacher strangled the warrior.
+The warrior strangled the encroacher.
+The warrior was strangled by the encroacher.
+The encroacher was strangled by the warrior.
+The broker introduced the donor.
+The donor introduced the broker.
+The donor was introduced by the broker.
+The broker was introduced by the donor.
+The dealer presented the sponsor.
+The sponsor presented the dealer.
+The sponsor was presented by the dealer.
+The dealer was presented by the sponsor.
+The shrink commended the dean.
+The dean commended the shrink.
+The dean was commended by the shrink.
+The shrink was commended by the dean.
+The psychiatrist applauded the provost.
+The provost applauded the psychiatrist.
+The provost was applauded by the psychiatrist.
+The psychiatrist was applauded by the provost.
+The refugee provoked the homeless person.
+The homeless person provoked the refugee.
+The homeless person was provoked by the refugee.
+The refugee was provoked by the homeless person.
+The asylum seeker goaded the vagrant.
+The vagrant goaded the asylum seeker.
+The vagrant was goaded by the asylum seeker.
+The asylum seeker was goaded by the vagrant.
+The interpreter swindled the messenger.
+The messenger swindled the interpreter.
+The messenger was swindled by the interpreter.
+The interpreter was swindled by the messenger.
+The translator deceived the courier.
+The courier deceived the translator.
+The courier was deceived by the translator.
+The translator was deceived by the courier.
+The gangster hated the governor.
+The governor hated the gangster.
+The governor was hated by the gangster.
+The gangster was hated by the governor.
+The hoodlum abhorred the chancellor.
+The chancellor abhorred the hoodlum.
+The chancellor was abhorred by the hoodlum.
+The hoodlum was abhorred by the chancellor.
+The planner convinced the customer.
+The customer convinced the planner.
+The customer was convinced by the planner.
+The planner was convinced by the customer.
+The organizer persuaded the buyer.
+The buyer persuaded the organizer.
+The buyer was persuaded by the organizer.
+The organizer was persuaded by the buyer.
+The wizard protected the gnome.
+The gnome protected the wizard.
+The gnome was protected by the wizard.
+The wizard was protected by the gnome.
+The sorcerer defended the dwarf.
+The dwarf defended the sorcerer.
+The dwarf was defended by the sorcerer.
+The sorcerer was defended by the dwarf.
+The student befuddled the professor.
+The professor befuddled the student.
+The professor was befuddled by the student.
+The student was befuddled by the professor.
+The scholar confused the lecturer.
+The lecturer confused the scholar.
+The lecturer was confused by the scholar.
+The scholar was confused by the lecturer.
+The invader spotted the sentry.
+The sentry spotted the invader.
+The sentry was spotted by the invader.
+The invader was spotted by the sentry.
+The intruder sighted the watchman.
+The watchman sighted the intruder.
+The watchman was sighted by the intruder.
+The intruder was sighted by the watchman.
+The supplier reimbursed the merchant.
+The merchant reimbursed the supplier.
+The merchant was reimbursed by the supplier.
+The supplier was reimbursed by the merchant.
+The wholesaler compensated the trader.
+The trader compensated the wholesaler.
+The trader was compensated by the wholesaler.
+The wholesaler was compensated by the trader.
+The accuser confronted the vandal.
+The vandal confronted the accuser.
+The vandal was confronted by the accuser.
+The accuser was confronted by the vandal.
+The plaintiff accosted the thug.
+The thug accosted the plaintiff.
+The thug was accosted by the plaintiff.
+The plaintiff was accosted by the thug.
+The trickster bemused the idiot.
+The idiot bemused the trickster.
+The idiot was bemused by the trickster.
+The trickster was bemused by the idiot.
+The swindler puzzled the fool.
+The fool puzzled the swindler.
+The fool was puzzled by the swindler.
+The swindler was puzzled by the fool.
+The protestor quoted the leader.
+The leader quoted the protestor.
+The leader was quoted by the protestor.
+The protestor was quoted by the leader.
+The striker cited the chief.
+The chief cited the striker.
+The chief was cited by the striker.
+The striker was cited by the chief.
+The postal worker repulsed the taxi-driver.
+The taxi-driver repulsed the postal worker.
+The taxi-driver was repulsed by the postal worker.
+The postal worker was repulsed by the taxi-driver.
+The letter carrier disgusted the cabbie.
+The cabbie disgusted the letter carrier.
+The cabbie was disgusted by the letter carrier.
+The letter carrier was disgusted by the cabbie.
+The competitor agitated the rival.
+The rival agitated the competitor.
+The rival was agitated by the competitor.
+The competitor was agitated by the rival.
+The contender flustered the opponent.
+The opponent flustered the contender.
+The opponent was flustered by the contender.
+The contender was flustered by the opponent.
+The officer alerted the authorities.
+The authorities alerted the officer.
+The authorities were alerted by the officer.
+The officer was alerted by the authorities.
+The deputy notified the higher-ups.
+The higher-ups notified the deputy.
+The higher-ups were notified by the deputy.
+The deputy was notified by the higher-ups.
+The culprit betrayed the hunter.
+The hunter betrayed the culprit.
+The hunter was betrayed by the culprit.
+The culprit was betrayed by the hunter.
+The botanist respected the partner.
+The partner respected the botanist.
+The partner was respected by the botanist.
+The botanist was respected by the partner.
+The flora specialist esteemed the collaborator.
+The collaborator esteemed the flora specialist.
+The collaborator was esteemed by the flora specialist.
+The flora specialist was esteemed by the collaborator.
+The pacifist placated the zealot.
+The zealot placated the pacifist.
+The zealot was placated by the pacifist.
+The pacifist was placated by the zealot.
+The peace-lover mollified the fanatic.
+The fanatic mollified the peace-lover.
+The fanatic was mollified by the peace-lover.
+The peace-lover was mollified by the fanatic.
+The scoundrel beat the protagonist.
+The protagonist beat the scoundrel.
+The protagonist was beaten by the scoundrel.
+The scoundrel was beaten by the protagonist.
+The rogue defeated the main character.
+The main character defeated the rogue.
+The main character was defeated by the rogue.
+The rogue was defeated by the main character.
+The sociologist accepted the offer.
+The offer accepted the sociologist.
+The offer was accepted by the sociologist.
+The sociologist was accepted by the offer.
+The boyfriend basted the turkey.
+The turkey basted the boyfriend.
+The turkey was basted by the boyfriend.
+The boyfriend was basted by the turkey.
+The caseworker posed the question.
+The question posed the caseworker.
+The question was posed by the caseworker.
+The caseworker was posed by the question.
+The ditch digger bent the wire.
+The wire bent the ditch digger.
+The wire was bent by the ditch digger.
+The ditch digger was bent by the wire.
+The box-office sold the tickets.
+The tickets sold the box-office.
+The tickets were sold by the box-office.
+The box-office was sold by the tickets.
+The uncle hung the ornament.
+The ornament hung the uncle.
+The ornament was hung by the uncle.
+The uncle was hung by the ornament.
+The attendant pressed the button.
+The button pressed the attendant.
+The button was pressed by the attendant.
+The attendant was pressed by the button.
+The bum stole the necklace.
+The necklace stole the bum.
+The necklace was stolen by the bum.
+The bum was stolen by the necklace.
+The potter molded the clay.
+The clay molded the potter.
+The clay was molded by the potter.
+The potter was molded by the clay.
+The guarantor initialed the form.
+The form initialed the guarantor.
+The form was initialed by the guarantor.
+The guarantor was initialed by the form.
+The couch-potato forgot the umbrella.
+The umbrella forgot the couch-potato.
+The umbrella was forgotten by the couch-potato.
+The couch-potato was forgotten by the umbrella.
+The groupie attended the concert.
+The concert attended the groupie.
+The concert was attended by the groupie.
+The groupie was attended by the concert.
+The hacker memorized the password.
+The password memorized the hacker.
+The password was memorized by the hacker.
+The hacker was memorized by the password.
+The marine packed the bag.
+The bag packed the marine.
+The bag was packed by the marine.
+The marine was packed by the bag.
+The counselor emphasized the rules.
+The rules emphasized the counselor.
+The rules were emphasized by the counselor.
+The counselor was emphasized by the rules.
+The seamstress ironed the shirt.
+The shirt ironed the seamstress.
+The shirt was ironed by the seamstress.
+The seamstress was ironed by the shirt.
+The confectioner sprinkled the sugar.
+The sugar sprinkled the confectioner.
+The sugar was sprinkled by the confectioner.
+The confectioner was sprinkled by the sugar.
+The voter sealed the envelope.
+The envelope sealed the voter.
+The envelope was sealed by the voter.
+The voter was sealed by the envelope.
+The fisherman emptied the trashcan.
+The trashcan emptied the fisherman.
+The trashcan was emptied by the fisherman.
+The fisherman was emptied by the trashcan.
+The cellist received the prize.
+The prize received the cellist.
+The prize was received by the cellist.
+The cellist was received by the prize.
+The cheapskate rated the service.
+The service rated the cheapskate.
+The service was rated by the cheapskate.
+The cheapskate was rated by the service.
+The schoolgirl borrowed the key.
+The key borrowed the schoolgirl.
+The key was borrowed by the schoolgirl.
+The schoolgirl was borrowed by the key.
+The bookworm recited the poem.
+The poem recited the bookworm.
+The poem was recited by the bookworm.
+The bookworm was recited by the poem.
+The diver recharged the battery.
+The battery recharged the diver.
+The battery was recharged by the diver.
+The diver was recharged by the battery.
+The poker player won the game.
+The game won the poker player.
+The game was won by the poker player.
+The poker player was won by the game.
+The copycat redecorated the apartment.
+The apartment redecorated the copycat.
+The apartment was redecorated by the copycat.
+The copycat was redecorated by the apartment.
+The winemaker uncorked the bottle.
+The bottle uncorked the winemaker.
+The bottle was uncorked by the winemaker.
+The winemaker was uncorked by the bottle.
+The laundress folded the clothes.
+The clothes folded the laundress.
+The clothes were folded by the laundress.
+The laundress was folded by the clothes.
+The travel-agent photocopied the passport.
+The passport photocopied the travel-agent.
+The passport was photocopied by the travel-agent.
+The travel-agent was photocopied by the passport.
+The exterminator filed the complaint.
+The complaint filed the exterminator.
+The complaint was filed by the exterminator.
+The exterminator was filed by the complaint.
+The minuteman loaded the gun.
+The gun loaded the minuteman.
+The gun was loaded by the minuteman.
+The minuteman was loaded by the gun.
+The bookseller calculated the profit.
+The profit calculated the bookseller.
+The profit was calculated by the bookseller.
+The bookseller was calculated by the profit.
+The count inherited the painting.
+The painting inherited the count.
+The painting was inherited by the count.
+The count was inherited by the painting.
+The groundskeeper changed the light bulb.
+The light bulb changed the groundskeeper.
+The light bulb was changed by the groundskeeper.
+The groundskeeper was changed by the light bulb.
+The marcher sang the anthem.
+The anthem sang the marcher.
+The anthem was sung by the marcher.
+The marcher was sung by the anthem.
+The deckhand unlocked the door.
+The door unlocked the deckhand.
+The door was unlocked by the deckhand.
+The deckhand was unlocked by the door.
+The supremacist established the fund.
+The fund established the supremacist.
+The fund was established by the supremacist.
+The supremacist was established by the fund.
+The house sitter watered the plant.
+The plant watered the house sitter.
+The plant was watered by the house sitter.
+The house sitter was watered by the plant.
+The interviewee wrinkled the suit.
+The suit wrinkled the interviewee.
+The suit was wrinkled by the interviewee.
+The interviewee was wrinkled by the suit.
+The cryptographer sent the letter.
+The letter sent the cryptographer.
+The letter was sent by the cryptographer.
+The cryptographer was sent by the letter.
+The bellboy erased the message.
+The message erased the bellboy.
+The message was erased by the bellboy.
+The bellboy was erased by the message.
+The forger shipped the package.
+The package shipped the forger.
+The package was shipped by the forger.
+The forger was shipped by the package.
+The crackhead smoked the pipe.
+The pipe smoked the crackhead.
+The pipe was smoked by the crackhead.
+The crackhead was smoked by the pipe.
+The manicurist rescheduled the appointment.
+The appointment rescheduled the manicurist.
+The appointment was rescheduled by the manicurist.
+The manicurist was rescheduled by the appointment.
+The charlatan burned the contract.
+The contract burned the charlatan.
+The contract was burnt by the charlatan.
+The charlatan was burnt by the contract.
+The tanner placed the order.
+The order placed the tanner.
+The order was placed by the tanner.
+The tanner was placed by the order.
+The archaeologist canceled the trip.
+The trip canceled the archaeologist.
+The trip was canceled by the archaeologist.
+The archaeologist was canceled by the trip.
+The Frenchman sliced the baguette.
+The baguette sliced the Frenchman.
+The baguette was sliced by the Frenchman.
+The Frenchman was sliced by the baguette.
+The producer cast the actress.
+The actress cast the producer.
+The actress was cast by the producer.
+The producer was cast by the actress.
+The babysitter punished the twins.
+The twins punished the babysitter.
+The twins were punished by the babysitter.
+The babysitter was punished by the twins.
+The exorcist vanquished the spirit.
+The spirit vanquished the exorcist.
+The spirit was vanquished by the exorcist.
+The exorcist was vanquished by the spirit.
+The barber shaved the old man.
+The old man shaved the barber.
+The old man was shaved by the barber.
+The barber was shaved by the old man.
+The paparazzi stalked the pop star.
+The pop star stalked the paparazzi.
+The pop star was stalked by the paparazzi.
+The paparazzi was stalked by the pop star.
+The brunette tipped the busboy.
+The busboy tipped the brunette.
+The busboy was tipped by the brunette.
+The brunette was tipped by the busboy.
+The roommate adopted the newborn.
+The newborn adopted the roommate.
+The newborn was adopted by the roommate.
+The roommate was adopted by the newborn.
+The cartoonist sketched the unicyclist.
+The unicyclist sketched the cartoonist.
+The unicyclist was sketched by the cartoonist.
+The cartoonist was sketched by the unicyclist.
+The streetwalker undercharged the seaman.
+The seaman undercharged the streetwalker.
+The seaman was undercharged by the streetwalker.
+The streetwalker was undercharged by the seaman.
+The urologist treated the widower.
+The widower treated the urologist.
+The widower was treated by the urologist.
+The urologist was treated by the widower.
+The jury acquitted the economist.
+The economist acquitted the jury.
+The economist was acquitted by the jury.
+The jury was acquitted by the economist.
+The freshman dodged the bully.
+The bully dodged the freshman.
+The bully was dodged by the freshman.
+The freshman was dodged by the bully.
+The nun reproached the hedonist.
+The hedonist reproached the nun.
+The hedonist was reproached by the nun.
+The nun was reproached by the hedonist.
+The librarian admonished the plagiarist.
+The plagiarist admonished the librarian.
+The plagiarist was admonished by the librarian.
+The librarian was admonished by the plagiarist.
+The colonel supervised the cadet.
+The cadet supervised the colonel.
+The cadet was supervised by the colonel.
+The colonel was supervised by the cadet.
+The abolitionist hid the slave.
+The slave hid the abolitionist.
+The slave was hidden by the abolitionist.
+The abolitionist was hidden by the slave.
+The personal trainer weighed the Olympian.
+The Olympian weighed the personal trainer.
+The Olympian was weighed by the personal trainer.
+The personal trainer was weighed by the Olympian.
+The zookeeper fed the giraffe.
+The giraffe fed the zookeeper.
+The giraffe was fed by the zookeeper.
+The zookeeper was fed by the giraffe.
+The masseuse relaxed the linebacker.
+The linebacker relaxed the masseuse.
+The linebacker was relaxed by the masseuse.
+The masseuse was relaxed by the linebacker.
+The page obeyed the noble.
+The noble obeyed the page.
+The noble was obeyed by the page.
+The page was obeyed by the noble.
+The lion chased the tour-guide.
+The tour-guide chased the lion.
+The tour-guide was chased by the lion.
+The lion was chased by the tour-guide.
+The caretaker quieted the orphan.
+The orphan quieted the caretaker.
+The orphan was quieted by the caretaker.
+The caretaker was quieted by the orphan.
+The tennis player thanked the chiropractor.
+The chiropractor thanked the tennis player.
+The chiropractor was thanked by the tennis player.
+The tennis player was thanked by the chiropractor.
+The experimenter recruited the subject.
+The subject recruited the experimenter.
+The subject was recruited by the experimenter.
+The experimenter was recruited by the subject.
+The mother disciplined the toddler.
+The toddler disciplined the mother.
+The toddler was disciplined by the mother.
+The mother was disciplined by the toddler.
+The assistant principal expelled the sociopath.
+The sociopath expelled the assistant principal.
+The sociopath was expelled by the assistant principal.
+The assistant principal was expelled by the sociopath.
+The channeler sensed the ghost.
+The ghost sensed the channeler.
+The ghost was sensed by the channeler.
+The channeler was sensed by the ghost.
+The union ousted the whistle-blower.
+The whistle-blower ousted the union.
+The whistle-blower was ousted by the union.
+The union was ousted by the whistle-blower.
+The huntsman trapped the deer.
+The deer trapped the huntsman.
+The deer was trapped by the huntsman.
+The huntsman was trapped by the deer.
+The cardiologist discredited the quack.
+The quack discredited the cardiologist.
+The quack was discredited by the cardiologist.
+The cardiologist was discredited by the quack.
+The bailiff released the ruffian.
+The ruffian released the bailiff.
+The ruffian was released by the bailiff.
+The bailiff was released by the ruffian.
+The shark mauled the snorkeler.
+The snorkeler mauled the shark.
+The snorkeler was mauled by the shark.
+The shark was mauled by the snorkeler.
+The president pardoned the traitor.
+The traitor pardoned the president.
+The traitor was pardoned by the president.
+The president was pardoned by the traitor.
+The au pair spanked the girl.
+The girl spanked the au pair.
+The girl was spanked by the au pair.
+The au pair was spanked by the girl.
+The TV station head promoted the newsagent.
+The newsagent promoted the TV station head.
+The newsagent was promoted by the TV station head.
+The TV station head was promoted by the newsagent.
+The policewoman handcuffed the offender.
+The offender handcuffed the policewoman.
+The offender was handcuffed by the policewoman.
+The policewoman was handcuffed by the offender.
+The anthropologist studied the tribesman.
+The tribesman studied the anthropologist.
+The tribesman was studied by the anthropologist.
+The anthropologist was studied by the tribesman.
+The police chief rewarded the firefighter.
+The firefighter rewarded the police chief.
+The firefighter was rewarded by the police chief.
+The police chief was rewarded by the firefighter.
+The miscreant kidnapped the beneficiary.
+The beneficiary kidnapped the miscreant.
+The beneficiary was kidnapped by the miscreant.
+The miscreant was kidnapped by the beneficiary.
+The social worker comforted the abused woman.
+The abused woman comforted the social worker.
+The abused woman was comforted by the social worker.
+The social worker was comforted by the abused woman.
+The neuroscientist overwhelmed the lab assistant.
+The lab assistant overwhelmed the neuroscientist.
+The lab assistant was overwhelmed by the neuroscientist.
+The neuroscientist was overwhelmed by the lab assistant.
+The warmonger terrorized the gunsmith.
+The gunsmith terrorized the warmonger.
+The gunsmith was terrorized by the warmonger.
+The warmonger was terrorized by the gunsmith.
+The conductor tolerated the violinist.
+The violinist tolerated the conductor.
+The violinist was tolerated by the conductor.
+The conductor was tolerated by the violinist.
+The pitcher signaled the hitter.
+The hitter signaled the pitcher.
+The hitter was signaled by the pitcher.
+The pitcher was signaled by the hitter.
+The quarterback kissed the cheerleader.
+The cheerleader kissed the quarterback.
+The cheerleader was kissed by the quarterback.
+The quarterback was kissed by the cheerleader.
+The camper startled the bear.
+The bear startled the camper.
+The bear was startled by the camper.
+The camper was startled by the bear.
+The admiral accompanied the lieutenant.
+The lieutenant accompanied the admiral.
+The lieutenant was accompanied by the admiral.
+The admiral was accompanied by the lieutenant.
+The tenor loved the soprano.
+The soprano loved the tenor.
+The soprano was loved by the tenor.
+The tenor was loved by the soprano.
+The photographer paid the barrister.
+The barrister paid the photographer.
+The barrister was paid by the photographer.
+The photographer was paid by the barrister.
+The bachelor intrigued the blonde.
+The blonde intrigued the bachelor.
+The blonde was intrigued by the bachelor.
+The bachelor was intrigued by the blonde.
+The football player pursued the socialite.
+The socialite pursued the football player.
+The socialite was pursued by the football player.
+The football player was pursued by the socialite.
+The neurologist consulted the geneticist.
+The geneticist consulted the neurologist.
+The geneticist was consulted by the neurologist.
+The neurologist was consulted by the geneticist.
+The fashionista humiliated the mode.
+The mode humiliated the fashionista.
+The mode was humiliated by the fashionista.
+The fashionista was humiliated by the mode.
+The butcher accused the meatpacker.
+The meatpacker accused the butcher.
+The meatpacker was accused by the butcher.
+The butcher was accused by the meatpacker.
+The niece embarrassed the aunt.
+The aunt embarrassed the niece.
+The aunt was embarrassed by the niece.
+The niece was embarrassed by the aunt.
+The warlord hailed the mercenary.
+The mercenary hailed the warlord.
+The mercenary was hailed by the warlord.
+The warlord was hailed by the mercenary.
+The neighbor snubbed the newcomer.
+The newcomer snubbed the neighbor.
+The newcomer was snubbed by the neighbor.
+The neighbor was snubbed by the newcomer.
+The editor overheard the proofreader.
+The proofreader overheard the editor.
+The proofreader was overheard by the editor.
+The editor was overheard by the proofreader.
+The communist offended the capitalist.
+The capitalist offended the communist.
+The capitalist was offended by the communist.
+The communist was offended by the capitalist.
+The curator misinformed the sculptor.
+The sculptor misinformed the curator.
+The sculptor was misinformed by the curator.
+The curator was misinformed by the sculptor.
+The baker mentioned the miller.
+The miller mentioned the baker.
+The miller was mentioned by the baker.
+The baker was mentioned by the miller.
+The pollster shamed the statistician.
+The statistician shamed the pollster.
+The statistician was shamed by the pollster.
+The pollster was shamed by the statistician.
+The screenwriter emailed the actor.
+The actor emailed the screenwriter.
+The actor was emailed by the screenwriter.
+The screenwriter was emailed by the actor.
+The dermatologist contradicted the pathologist.
+The pathologist contradicted the dermatologist.
+The pathologist was contradicted by the dermatologist.
+The dermatologist was contradicted by the pathologist.
+The sharecropper misled the fieldworker.
+The fieldworker misled the sharecropper.
+The fieldworker was misled by the sharecropper.
+The sharecropper was misled by the fieldworker.
+The patriot saluted the veteran.
+The veteran saluted the patriot.
+The veteran was saluted by the patriot.
+The patriot was saluted by the veteran.
+The welder visited the milkman.
+The milkman visited the welder.
+The milkman was visited by the welder.
+The welder was visited by the milkman.
+The teenager mortified the parent.
+The parent mortified the teenager.
+The parent was mortified by the teenager.
+The teenager was mortified by the parent.
+The surfer impressed the swimmer.
+The swimmer impressed the surfer.
+The swimmer was impressed by the surfer.
+The surfer was impressed by the swimmer.
+The miser antagonized the landlady.
+The landlady antagonized the miser.
+The landlady was antagonized by the miser.
+The miser was antagonized by the landlady.
+The infantryman upset the loyalist.
+The loyalist upset the infantryman.
+The loyalist was upset by the infantryman.
+The infantryman was upset by the loyalist.
+The florist invoiced the grocer.
+The grocer invoiced the florist.
+The grocer was invoiced by the florist.
+The florist was invoiced by the grocer.
+The claims adjuster harassed the retailer.
+The retailer harassed the claims adjuster.
+The retailer was harassed by the claims adjuster.
+The claims adjuster was harassed by the retailer.
+The ex-wife punched the girlfriend.
+The girlfriend punched the ex-wife.
+The girlfriend was punched by the ex-wife.
+The ex-wife was punched by the girlfriend.
+The defender blamed the goalkeeper.
+The goalkeeper blamed the defender.
+The goalkeeper was blamed by the defender.
+The defender was blamed by the goalkeeper.
+The geologist reassured the excavator.
+The excavator reassured the geologist.
+The excavator was reassured by the geologist.
+The geologist was reassured by the excavator.
+The physicist nagged the mathematician.
+The mathematician nagged the physicist.
+The mathematician was nagged by the physicist.
+The physicist was nagged by the mathematician.
+The employee watched the embezzler.
+The embezzler watched the employee.
+The embezzler was watched by the employee.
+The employee was watched by the embezzler.
+The programmer distrusted the volunteer.
+The volunteer distrusted the programmer.
+The volunteer was distrusted by the programmer.
+The programmer was distrusted by the volunteer.
+The interviewer befriended the chairman.
+The chairman befriended the interviewer.
+The chairman was befriended by the interviewer.
+The interviewer was befriended by the chairman.
+The cinematographer favored the movie star.
+The movie star favored the cinematographer.
+The movie star was favored by the cinematographer.
+The cinematographer was favored by the movie star.
+The hockey player aggravated the skater.
+The skater aggravated the hockey player.
+The skater was aggravated by the hockey player.
+The hockey player was aggravated by the skater.
+The bricklayer outraged the crane operator.
+The crane operator outraged the bricklayer.
+The crane operator was outraged by the bricklayer.
+The bricklayer was outraged by the crane operator.
+The candidate approved the nominee.
+The nominee approved the candidate.
+The nominee was approved by the candidate.
+The candidate was approved by the nominee.
+The entomologist disparaged the biologist.
+The biologist disparaged the entomologist.
+The biologist was disparaged by the entomologist.
+The entomologist was disparaged by the biologist.
+The hypochondriac hounded the medic.
+The medic hounded the hypochondriac.
+The medic was hounded by the hypochondriac.
+The hypochondriac was hounded by the medic.
+The chemist suspected the pharmacist.
+The pharmacist suspected the chemist.
+The pharmacist was suspected by the chemist.
+The chemist was suspected by the pharmacist.
+The litigator begged the citizen.
+The citizen begged the litigator.
+The citizen was begged by the litigator.
+The litigator was begged by the citizen.
+The plumber devastated the foreman.
+The foreman devastated the plumber.
+The foreman was devastated by the plumber.
+The plumber was devastated by the foreman.
+The sergeant identified the sniper.
+The sniper identified the sergeant.
+The sniper was identified by the sergeant.
+The sergeant was identified by the sniper.

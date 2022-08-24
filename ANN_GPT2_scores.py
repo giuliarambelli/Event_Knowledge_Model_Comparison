@@ -1,4 +1,5 @@
-from transformers import GPT2Tokenizer, GPT2LMHeadModel
+from transformers import GPT2Tokenizer, GPT2LMHeadModel, GPTNeoForCausalLM
+
 import torch
 import pandas as pd
 
@@ -31,8 +32,16 @@ def main():
     parser.add_argument('--log_level', type=str, default='INFO')
     parser.add_argument('--dataset_names', nargs='+', default=['ev1', 'dtfit', 'new-EventsAdapt'])
     parser.add_argument('--average', action='store_true')
-    parser.add_argument('--versions', nargs='+', default=['gpt2-medium', 'gpt2-xl'])
+    parser.add_argument('--versions', nargs='+', default=['gpt2-medium', 'gpt2-xl', 'gpt-neo'])
     args = parser.parse_args()
+
+    dict_tokenizers = {"gpt2-medium": GPT2Tokenizer.from_pretrained('gpt2-medium'),
+                       "gpt2-xl": GPT2Tokenizer.from_pretrained('gpt2-xl'),
+                       "gpt2-neo": GPT2Tokenizer.from_pretrained('EleutherAI/gpt-neo-1.3B')}
+
+    dict_models = {"gpt2-medium": GPT2LMHeadModel.from_pretrained('gpt2-medium'),
+                   "gpt2-xl": GPT2LMHeadModel.from_pretrained('gpt2-xl'),
+                   "gpt2-neo": GPTNeoForCausalLM.from_pretrained('EleutherAI/gpt-neo-1.3B')}
 
     out_dir = f'results/ANNs/'
     os.makedirs(out_dir, exist_ok=True)
@@ -48,10 +57,10 @@ def main():
 
     # Load pre-trained model (weights)
     for version in args.versions:
-        model = GPT2LMHeadModel.from_pretrained(version)
+        model = dict_models[version]
         model.eval()
         # Load pre-trained model tokenizer (vocabulary)
-        tokenizer = GPT2Tokenizer.from_pretrained(version)
+        tokenizer = dict_tokenizers[version]
         _logger.info(f"*********** Getting scores for model {version} ***********")
         for dataset_name in args.dataset_names:
             _logger.info(f"*********** Processing: {dataset_name} ***********")

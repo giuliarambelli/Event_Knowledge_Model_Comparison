@@ -37,11 +37,11 @@ def main():
 
     dict_tokenizers = {"gpt2-medium": GPT2Tokenizer.from_pretrained('gpt2-medium'),
                        "gpt2-xl": GPT2Tokenizer.from_pretrained('gpt2-xl'),
-                       "gpt2-neo": GPT2Tokenizer.from_pretrained('EleutherAI/gpt-neo-1.3B')}
+                       "gpt-neo": GPT2Tokenizer.from_pretrained('EleutherAI/gpt-neo-1.3B')}
 
     dict_models = {"gpt2-medium": GPT2LMHeadModel.from_pretrained('gpt2-medium'),
                    "gpt2-xl": GPT2LMHeadModel.from_pretrained('gpt2-xl'),
-                   "gpt2-neo": GPTNeoForCausalLM.from_pretrained('EleutherAI/gpt-neo-1.3B')}
+                   "gpt-neo": GPTNeoForCausalLM.from_pretrained('EleutherAI/gpt-neo-1.3B')}
 
     out_dir = f'results/ANNs/'
     os.makedirs(out_dir, exist_ok=True)

@@ -1,4 +1,4 @@
-from transformers import GPT2Tokenizer, GPT2LMHeadModel, GPTNeoForCausalLM
+from transformers import GPT2Tokenizer, GPT2LMHeadModel, GPTNeoForCausalLM, AutoModelForCausalLM, AutoTokenizer
 
 import torch
 import pandas as pd
@@ -32,16 +32,18 @@ def main():
     parser.add_argument('--log_level', type=str, default='INFO')
     parser.add_argument('--dataset_names', nargs='+', default=['ev1', 'dtfit', 'new-EventsAdapt'])
     parser.add_argument('--average', action='store_true')
-    parser.add_argument('--versions', nargs='+', default=['gpt2-medium', 'gpt2-xl', 'gpt-neo'])
+    parser.add_argument('--versions', nargs='+', default=['gpt2-medium', 'gpt2-xl', 'gpt-neo', 'gpt-j'])
     args = parser.parse_args()
 
     dict_tokenizers = {"gpt2-medium": GPT2Tokenizer.from_pretrained('gpt2-medium'),
                        "gpt2-xl": GPT2Tokenizer.from_pretrained('gpt2-xl'),
-                       "gpt-neo": GPT2Tokenizer.from_pretrained('EleutherAI/gpt-neo-1.3B')}
+                       "gpt-neo": GPT2Tokenizer.from_pretrained('EleutherAI/gpt-neo-1.3B'),
+                       "gpt-j": AutoTokenizer.from_pretrained("EleutherAI/gpt-j-6B")}
 
     dict_models = {"gpt2-medium": GPT2LMHeadModel.from_pretrained('gpt2-medium'),
                    "gpt2-xl": GPT2LMHeadModel.from_pretrained('gpt2-xl'),
-                   "gpt-neo": GPTNeoForCausalLM.from_pretrained('EleutherAI/gpt-neo-1.3B')}
+                   "gpt-neo": GPTNeoForCausalLM.from_pretrained('EleutherAI/gpt-neo-1.3B'),
+                   "gpt-j": AutoModelForCausalLM.from_pretrained("EleutherAI/gpt-j-6B")}
 
     out_dir = f'results/ANNs/'
     os.makedirs(out_dir, exist_ok=True)

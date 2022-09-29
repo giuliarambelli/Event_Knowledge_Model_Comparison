@@ -67,7 +67,7 @@ class TransformerModel:
         return log_probs_fillers
 
 
-def get_sentence_score(model, sentences, average=False, l2r=False):
+def get_sentence_score(model, sentences, l2r=False):
     """
     Run function to get sequence scores
     :param model: Transformer model
@@ -76,18 +76,27 @@ def get_sentence_score(model, sentences, average=False, l2r=False):
     :param l2r: whether to only use leftward context or not
     :return: list of PLL/Unidirectional-PLL scores for sequences
     """
-    sentence_scores = []
+    sent_scores = []
+    sent_scores_avg_by_nrtoken = []
+    sent_scores_avg_by_nrwords = []
+    
     for sent in tqdm.tqdm(sentences):
         tokens, nr_tokens, list_of_sents = model.prepare_input(sent)
         probabilities_fillers = model.compute_filler_probabilities(tokens, nr_tokens, list_of_sents, l2r=l2r)
         sentence_score = sum(probabilities_fillers)  # returns pseudo log likelihood score
-        if average:
-            nr_words = len(sent.split())
-            sentence_score = sentence_score / nr_words
-        sentence_scores.append(sentence_score)
+        #
+        sentence_score_avg_by_nrtoken = sentence_score / nr_tokens
+        #
+        nr_words = len(sent.split())
+        sentence_score_avg_by_nrwords = sentence_score / nr_words
+        #
+        sent_scores.append(sentence_score)
+        sent_scores_avg_by_nrtoken.append(sentence_score_avg_by_nrtoken)
+        sent_scores_avg_by_nrwords.append(sentence_score_avg_by_nrwords)
+        #
         _logger.info(f" {tokens} | {sentence_score}")
 
-    return sentence_scores
+    return sent_scores, sent_scores_avg_by_nrtoken, sent_scores_avg_by_nrwords
 
 
 def get_word_score(model, model_name, sentences, verb_indices=None, average=False, l2r=False):
@@ -167,7 +176,7 @@ def main():
     """
     Main run function for one of 4 input score types:
     * w2w: This implements pseudo-log-likelihood scores of a sequence as proposed by Salazar et al. (2019)
-            Results obtained are equivalent as from https://github.com/awslabs/mlm-scoring
+            Results obtained are equivalent as from 
     * l2r: This implements pseudo-log-likelihood scores with access only to the unidirectional context
             (Implemented via attention masks, "most like" GPT2 scoring, but unlike MLM's training objective)
     * verb: Getting the log probability of a verb, relies on verb_ids from df
@@ -181,7 +190,6 @@ def main():
     parser.add_argument('--log_level', type=str, default='INFO')
     parser.add_argument('--which_score', nargs='+', default=['w2w', 'l2r', 'verb', 'last_word'])
     parser.add_argument('--dataset_names', nargs='+', default=['ev1', 'dtfit', 'new-EventsAdapt'])
-    parser.add_argument('--average', action='store_true')
     parser.add_argument('--models', nargs='+', default=['bert-large-cased', 'roberta-large'])
     args = parser.parse_args()
 
@@ -213,34 +221,55 @@ def main():
         for dataset_name in args.dataset_names:
             _logger.info(f"*********** Processing: {dataset_name} ***********")
             for task in args.which_score:
+                print(f"{model_name} | {dataset_name} | {task}")
+
                 verb_ids, sentences = datasets[dataset_name]
 
                 if task == 'w2w':
                     _logger.info(f">> Getting w2w sentence scores")
-                    scores = get_sentence_score(model, sentences, average=args.average, l2r=False)
+                    sent_scores, sent_scores_avg_by_nrtoken, sent_scores_avg_by_nrwords = get_sentence_score(model, sentences, l2r=False)
                     savename = 'sentence-PLL'
                 elif task == 'l2r':
                     _logger.info(f">> Getting l2r sentence scores")
-                    scores = get_sentence_score(model, sentences, average=args.average, l2r=True)
+                    sent_scores, sent_scores_avg_by_nrtoken, sent_scores_avg_by_nrwords = get_sentence_score(model, sentences, l2r=True)
                     savename = 'sentence-l2r-PLL'
                 elif task == 'verb':
                     _logger.info(f">> Getting verb scores")
-                    scores = get_word_score(model, model_name, sentences, verb_indices=verb_ids, average=args.average, l2r=False)
+                    scores = get_word_score(model, model_name, sentences, verb_indices=verb_ids, average=True, l2r=False)
                     savename = 'verb-PLL'
                 elif task == 'last_word':
                     _logger.info(f">> Getting last word scores")
-                    scores = get_word_score(model, model_name, sentences, verb_indices=None, average=args.average, l2r=False)
+                    scores = get_word_score(model, model_name, sentences, verb_indices=None, average=True, l2r=False)
                     savename = 'last-word-PLL'
                 else:
                     raise NotImplementedError(f"Task {task} not defined!")
 
-                print(scores)
                 out_name = os.path.join(out_dir, f'{dataset_name}.{model_name}.{savename}.txt')
-                if args.average:
-                    out_name = out_name.rstrip(".txt") + ".average.txt"
-                with open(out_name, "w") as fout:
-                    for i, sent, score in zip(range(len(sentences)), sentences, scores):
-                        fout.write(f'{i}\t{sent}\t{score}\n')
+
+                if task in ["w2w","l2r"]:
+                    print(out_name)
+
+                    with open(out_name, "w") as fout:
+                        for i, sent, sent_score in zip(range(len(sentences)), sentences, sent_scores):
+                            fout.write(f'{i}\t{sent}\t{sent_score}\n')
+
+                    out_name = os.path.join(out_dir, f'{dataset_name}.{model_name}.{savename}.sentence_surp.average_byNrTokens.txt')
+                    print(out_name)
+                    with open(out_name, "w") as fout:
+                        for i, sent, sent_score in zip(range(len(sentences)), sentences, sent_scores_avg_by_nrtoken):
+                            fout.write(f'{i}\t{sent}\t{sent_score}\n')
+
+                    out_name = os.path.join(out_dir, f'{dataset_name}.{model_name}.{savename}.sentence_surp.average_byNrWords.txt')
+                    print(out_name)
+                    with open(out_name, "w") as fout:
+                        for i, sent, sent_score in zip(range(len(sentences)), sentences, sent_scores_avg_by_nrwords):
+                            fout.write(f'{i}\t{sent}\t{sent_score}\n')
+
+                else:
+                    with open(out_name, "w") as fout:
+                        for i, sent, score in zip(range(len(sentences)), sentences, scores):
+                            fout.write(f'{i}\t{sent}\t{score}\n')
+
 
 if __name__ == "__main__":
     main()

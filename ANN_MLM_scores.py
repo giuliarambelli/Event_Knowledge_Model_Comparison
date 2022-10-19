@@ -79,6 +79,8 @@ def get_sentence_score(model, sentences, l2r=False):
     sent_scores = []
     sent_scores_avg_by_nrtoken = []
     sent_scores_avg_by_nrwords = []
+    nr_tokens_all = []
+    nr_words_all = []
     
     for sent in tqdm.tqdm(sentences):
         tokens, nr_tokens, list_of_sents = model.prepare_input(sent)
@@ -93,10 +95,12 @@ def get_sentence_score(model, sentences, l2r=False):
         sent_scores.append(sentence_score)
         sent_scores_avg_by_nrtoken.append(sentence_score_avg_by_nrtoken)
         sent_scores_avg_by_nrwords.append(sentence_score_avg_by_nrwords)
+        nr_tokens_all.append(nr_tokens)
+        nr_words_all.append(nr_words)
         #
         _logger.info(f" {tokens} | {sentence_score}")
 
-    return sent_scores, sent_scores_avg_by_nrtoken, sent_scores_avg_by_nrwords
+    return sent_scores, sent_scores_avg_by_nrtoken, sent_scores_avg_by_nrwords, nr_tokens_all, nr_words_all
 
 
 def get_word_score(model, model_name, sentences, verb_indices=None, average=False, l2r=False):
@@ -227,11 +231,11 @@ def main():
 
                 if task == 'w2w':
                     _logger.info(f">> Getting w2w sentence scores")
-                    sent_scores, sent_scores_avg_by_nrtoken, sent_scores_avg_by_nrwords = get_sentence_score(model, sentences, l2r=False)
+                    sent_scores, sent_scores_avg_by_nrtoken, sent_scores_avg_by_nrwords, nr_tokens_all, nr_words_all = get_sentence_score(model, sentences, l2r=False)
                     savename = 'sentence-PLL'
                 elif task == 'l2r':
                     _logger.info(f">> Getting l2r sentence scores")
-                    sent_scores, sent_scores_avg_by_nrtoken, sent_scores_avg_by_nrwords = get_sentence_score(model, sentences, l2r=True)
+                    sent_scores, sent_scores_avg_by_nrtoken, sent_scores_avg_by_nrwords, nr_tokens_all, nr_words_all = get_sentence_score(model, sentences, l2r=True)
                     savename = 'sentence-l2r-PLL'
                 elif task == 'verb':
                     _logger.info(f">> Getting verb scores")
@@ -247,23 +251,24 @@ def main():
                 out_name = os.path.join(out_dir, f'{dataset_name}.{model_name}.{savename}.txt')
 
                 if task in ["w2w","l2r"]:
-                    print(out_name)
-
-                    with open(out_name, "w") as fout:
-                        for i, sent, sent_score in zip(range(len(sentences)), sentences, sent_scores):
-                            fout.write(f'{i}\t{sent}\t{sent_score}\n')
-
-                    out_name = os.path.join(out_dir, f'{dataset_name}.{model_name}.{savename}.sentence_surp.average_byNrTokens.txt')
+                    
                     print(out_name)
                     with open(out_name, "w") as fout:
-                        for i, sent, sent_score in zip(range(len(sentences)), sentences, sent_scores_avg_by_nrtoken):
-                            fout.write(f'{i}\t{sent}\t{sent_score}\n')
+                        for i, sent, sent_score, nr_tokens, nr_words in zip(range(len(sentences)), sentences, sent_scores, nr_tokens_all, nr_words_all):
+                            fout.write(f'{i}\t{sent}\t{sent_score}\t{nr_tokens}\t{nr_words}\n')
 
-                    out_name = os.path.join(out_dir, f'{dataset_name}.{model_name}.{savename}.sentence_surp.average_byNrWords.txt')
+                    out_name = os.path.join(out_dir, f'{dataset_name}.{model_name}.{savename}.average_byNrTokens.txt')
+                    print(out_name)
+                    
+                    with open(out_name, "w") as fout:
+                        for i, sent, sent_score, nr_tokens, nr_words in zip(range(len(sentences)), sentences, sent_scores_avg_by_nrtoken, nr_tokens_all, nr_words_all):
+                            fout.write(f'{i}\t{sent}\t{sent_score}\t{nr_tokens}\t{nr_words}\n')
+
+                    out_name = os.path.join(out_dir, f'{dataset_name}.{model_name}.{savename}.average_byNrWords.txt')
                     print(out_name)
                     with open(out_name, "w") as fout:
-                        for i, sent, sent_score in zip(range(len(sentences)), sentences, sent_scores_avg_by_nrwords):
-                            fout.write(f'{i}\t{sent}\t{sent_score}\n')
+                        for i, sent, sent_score, nr_tokens, nr_words in zip(range(len(sentences)), sentences, sent_scores_avg_by_nrwords, nr_tokens_all, nr_words_all):
+                            fout.write(f'{i}\t{sent}\t{sent_score}\t{nr_tokens}\t{nr_words}\n')
 
                 else:
                     with open(out_name, "w") as fout:
@@ -273,5 +278,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-

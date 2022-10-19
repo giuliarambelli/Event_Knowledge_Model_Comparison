@@ -20,10 +20,12 @@ def score(model, tokenizer, sentence):
     tokenize_input = tokenizer.tokenize(tokenizer.eos_token + sentence + tokenizer.eos_token)
     tensor_input = torch.tensor([tokenizer.convert_tokens_to_ids(tokenize_input)])
     loss = model(tensor_input, labels=tensor_input)[0]
-    sent_score = loss.item() * len(tokenize_input) #sentence negative log-likelihood
-    sent_score_avg_by_nrtoken = loss.item() #average negative log-likelihood per token
-    sent_score_avg_by_nrwords = loss.item() * len(tokenize_input) / len(sentence.split())
-    return sent_score, sent_score_avg_by_nrtoken, sent_score_avg_by_nrwords
+    nr_tok = len(tokenize_input)
+    nr_word = len(sentence.split())
+    sent_score = -loss.item() * nr_tok #sentence log-likelihood
+    sent_score_avg_by_nrtoken = -loss.item() #average per-token LL
+    sent_score_avg_by_nrwords = -loss.item() * nr_tok / nr_word
+    return sent_score, sent_score_avg_by_nrtoken, sent_score_avg_by_nrwords, nr_tok, nr_word
 
 
 def main():
@@ -67,32 +69,36 @@ def main():
             _, sentences = datasets[dataset_name]
             
             sent_scores = []
-            sent_scores_avg_by_nrtoken = []
+            sent_scores_avg_by_nrtokens = []
             sent_scores_avg_by_nrwords = []
+            nr_tokens = []
+            nr_words = []
             
             for sent in tqdm.tqdm(sentences):
-                sent_score, sent_score_avg_by_nrtoken, sent_score_avg_by_nrwords = score(model, tokenizer, sent)
+                sent_score, sent_score_avg_by_nrtoken, sent_score_avg_by_nrwords, nr_tok, nr_word = score(model, tokenizer, sent)
                 sent_scores.append(sent_score)
-                sent_scores_avg_by_nrtoken.append(sent_score_avg_by_nrtoken)
+                sent_scores_avg_by_nrtokens.append(sent_score_avg_by_nrtoken)
                 sent_scores_avg_by_nrwords.append(sent_score_avg_by_nrwords)
+                nr_tokens.append(nr_tok)
+                nr_words.append(nr_word)
 
-            out_name = os.path.join(out_dir, f'{dataset_name}.{version}.sentence_surp.txt')
+            out_name = os.path.join(out_dir, f'{dataset_name}.{version}.sentence-LL.txt')
             print(out_name)
             with open(out_name, "w") as fout:
-                for i, sent, sent_score in zip(range(len(sentences)), sentences, sent_scores):
-                    fout.write(f'{i}\t{sent}\t{sent_score}\n')
+                for i, sent, sent_score, nr_tok, nr_word in zip(range(len(sentences)), sentences, sent_scores, nr_tokens, nr_words):
+                    fout.write(f'{i}\t{sent}\t{sent_score}\t{nr_tok}\t{nr_word}\n')
                     
-            out_name = os.path.join(out_dir, f'{dataset_name}.{version}.sentence_surp.average_byNrTokens.txt'
+            out_name = os.path.join(out_dir, f'{dataset_name}.{version}.sentence-LL.average_byNrTokens.txt')
             print(out_name)
             with open(out_name, "w") as fout:
-                for i, sent, sent_score in zip(range(len(sentences)), sentences, sent_scores_avg_by_nrtoken):
-                    fout.write(f'{i}\t{sent}\t{sent_score}\n')
+                for i, sent, sent_score, nr_tok, nr_word in zip(range(len(sentences)), sentences, sent_scores_avg_by_nrtokens, nr_tokens, nr_words):
+                    fout.write(f'{i}\t{sent}\t{sent_score}\t{nr_tok}\t{nr_word}\n')
                     
-            out_name = os.path.join(out_dir, f'{dataset_name}.{version}.sentence_surp.average_byNrWords.txt'
+            out_name = os.path.join(out_dir, f'{dataset_name}.{version}.sentence-LL.average_byNrWords.txt')
             print(out_name)
             with open(out_name, "w") as fout:
-                for i, sent, sent_score in zip(range(len(sentences)), sentences, sent_scores_avg_by_nrwords):
-                    fout.write(f'{i}\t{sent}\t{sent_score}\n')
+                for i, sent, sent_score, nr_tok, nr_word in zip(range(len(sentences)), sentences, sent_scores_avg_by_nrwords, nr_tokens, nr_words):
+                    fout.write(f'{i}\t{sent}\t{sent_score}\t{nr_tok}\t{nr_word}\n')
 
 if __name__ == "__main__":
     main()

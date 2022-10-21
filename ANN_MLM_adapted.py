@@ -50,7 +50,7 @@ def get_tokenized_words(tokens, tokenizer, model_name):
     elif model_name == 'roberta-large':
         for ind, tok in enumerate(tokens):
             #special cases
-            if tok in [tokenizer.cls_token, tokenizer.sep_token, "."] or ind == 1: #CLS, SEP, . & first word
+            if tok in [tokenizer.cls_token, tokenizer.sep_token, "."] or ind == 1: #CLS, SEP & first word
                 curr_word = [tok]
             elif re.match("Ġ", tok): # accounting for special tokens
                 curr_word = [tok]
@@ -58,10 +58,11 @@ def get_tokenized_words(tokens, tokenizer, model_name):
                 curr_word.append(tok)
 
             #end a word
-            if tok in [tokenizer.cls_token, tokenizer.sep_token, "."]:  #if CLS, SEP, .
+            if tok in [tokenizer.cls_token, tokenizer.sep_token, "."]:
                 tokenized_words.append(curr_word)
-            elif re.match(r"Ġ|\.", tokens[ind]): #end word in case final period is next or new word is next
-                tokenized_words.append(curr_word)
+            elif ind < len(tokens):
+                if re.match(r"Ġ|\.", tokens[ind+1]): #end word in case final period is next or new word is next
+                    tokenized_words.append(curr_word)
     else:
         raise NotImplementedError
     return tokenized_words

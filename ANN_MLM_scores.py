@@ -249,6 +249,9 @@ def main():
                     raise NotImplementedError(f"Task {task} not defined!")
 
                 out_name = os.path.join(out_dir, f'{dataset_name}.{model_name}.{savename}.txt')
+                
+                if "sentence-PLL" in outname:
+                    out_name = f"{out_name.split(".txt")[0]}_oldMLMMetric.txt"
 
                 if task in ["w2w","l2r"]:
                     

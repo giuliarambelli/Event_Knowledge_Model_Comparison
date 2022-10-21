@@ -209,7 +209,7 @@ def main():
             logger.info(f"\n***********\nGETTING SCORES FOR {model_name} | {dataset_name}\n***********\n")
             _, sentences = datasets[dataset_name]
             
-            out_name = os.path.join(out_dir, f'{dataset_name}.{model_name}.new-sentence-PLL.txt')
+            out_name = os.path.join(out_dir, f'{dataset_name}.{model_name}.sentence-PLL.txt')
             logger.info(f"\n*************\nSTARTING writing to file: {out_name}\n*************\n")
             fout = open(out_name, 'w')
             

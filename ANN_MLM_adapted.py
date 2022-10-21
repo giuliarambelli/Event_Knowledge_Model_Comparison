@@ -28,24 +28,42 @@ def prepare_data(df):
     return verb_ids, sents
 
 
-def get_tokenized_words(tokens):
+def get_tokenized_words(tokens, tokenizer, model_name):
     """
     list of lists of tokens of length words of the sentence
     each sublist carries the subtokens belonging to the given word at the same index
     """
     tokenized_words = []
-    for ind, tok in enumerate(tokens):
-        if not re.match("#", tok):
-            curr_word = [tok]
-        else:
-            curr_word.append(tok)
+    if model_name == 'bert-large-cased':
+        for ind, tok in enumerate(tokens):
+            if not re.match("#", tok):
+                curr_word = [tok]
+            else:
+                curr_word.append(tok)
 
-        #end a word
-        if ind == len(tokens) - 1:
-            tokenized_words.append(curr_word)
-        else:
-            if not re.match("#", tokens[ind+1]):
+            #end a word
+            if ind == len(tokens) - 1:
                 tokenized_words.append(curr_word)
+            else:
+                if not re.match("#", tokens[ind+1]):
+                    tokenized_words.append(curr_word)
+    elif model_name == 'roberta-large':
+        for ind, tok in enumerate(tokens):
+            #special cases
+            if tok in [tokenizer.cls_token, tokenizer.sep_token, "."] or ind == 1: #CLS, SEP, . & first word
+                curr_word = [tok]
+            elif re.match("Ġ", tok): # accounting for special tokens
+                curr_word = [tok]
+            else:
+                curr_word.append(tok)
+
+            #end a word
+            if tok in [tokenizer.cls_token, tokenizer.sep_token, "."]:  #if CLS, SEP, .
+                tokenized_words.append(curr_word)
+            elif re.match(r"Ġ|\.", tokens[ind]): #end word in case final period is next or new word is next
+                tokenized_words.append(curr_word)
+    else:
+        raise NotImplementedError
     return tokenized_words
 
 
@@ -81,14 +99,14 @@ def get_masked_seq(tokens, tokenized_words, tokenizer):
             
     return masked_seq
 
-def get_masks_for_sentence(sentence, tokenizer):
+def get_masks_for_sentence(sentence, tokenizer, model_name):
     """
     tokenize sentence and getting masking templates
     """
     logger.debug(sentence)
     words = sentence.split()
     tokens = tokenizer.tokenize(sentence, add_special_tokens=True)
-    tokenized_words = get_tokenized_words(tokens)
+    tokenized_words = get_tokenized_words(tokens, tokenizer, model_name)
     logger.debug(tokenized_words)
     logger.debug("\n")
 #     assert len(tokenized_words) == len(words) + 3 #+1 because of final period, which is split off in tokenization + CLS + SEP
@@ -133,11 +151,11 @@ def get_probabilities(inputs, tokens, model, tokenizer):
     return log_probs_fillers
 
 
-def get_sentence_score(sentence, model, tokenizer):
+def get_sentence_score(sentence, model, tokenizer, model_name):
     """
     full pipeline for one sentence from sentence to sentence score
     """
-    tokens, masked_seq = get_masks_for_sentence(sentence, tokenizer)
+    tokens, masked_seq = get_masks_for_sentence(sentence, tokenizer, model_name)
     
     nr_tokens = len(tokens)
     list_of_sents = [sentence] * nr_tokens
@@ -195,7 +213,7 @@ def main():
             fout = open(out_name, 'w')
             
             for ind, sent in tqdm.tqdm(enumerate(sentences)):
-                sent_score, tokens = get_sentence_score(sent, model, tokenizer)
+                sent_score, tokens = get_sentence_score(sent, model, tokenizer, model_name)
                 nr_tokens = len([elm for elm in tokens if elm not in [tokenizer.cls_token , tokenizer.sep_token]])
                 nr_words = len(sent.split())
                 fout.write(f'{ind}\t{sent}\t{sent_score}\t{nr_tokens}\t{nr_words}\n')

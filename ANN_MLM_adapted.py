@@ -158,8 +158,8 @@ def get_sentence_score(sentence, model, tokenizer, model_name):
     """
     tokens, masked_seq = get_masks_for_sentence(sentence, tokenizer, model_name)
     
-    nr_tokens = len(tokens)
-    list_of_sents = [sentence] * nr_tokens
+    nr_tokens_to_predict = len(tokens) - 2 #because of CLS & SEP
+    list_of_sents = [sentence] * nr_tokens_to_predict
     
     inputs = prep_input(tokens, list_of_sents, masked_seq, tokenizer)
     log_probs_fillers = get_probabilities(inputs, tokens, model, tokenizer)

@@ -37,7 +37,7 @@ We define the sentence score as the sum of the log-probabilities of each token w
 
 ## II. Baseline models
 1. **tinyLSTM** (Gauthier et al., 2020): computes the surprisal of a sentence as the sum of the surprisals of each token in the sentence
-*  associated script at: [lmzoo_tinylstm.py](https://github.com/giuliarambelli/Event_Knowledge_Model_Comparison/blob/master/lmzoo_tinylstm.py)
+*  associated script at: [baseline_lmzoo_tinylstm.py](https://github.com/giuliarambelli/Event_Knowledge_Model_Comparison/blob/master/baseline_lmzoo_tinylstm.py)
 
 2. **thematic Fit**: computes the fit of a patient with the prototype representation of that role, considering the patient-role fillers most associated with the agent AND the predicate of the sentence (following Lenci, 2011).
      
@@ -50,7 +50,7 @@ We define the sentence score as the sum of the log-probabilities of each token w
    To avoid zero scores, we apply the following methodology in case the intersection of fillers is empty:
    + in the two lists are not empty, we use verb's fillers to create the prototype;
    + if one list is empty, we take the other one.
-* associated script available upon request
+* associated script at: [baseline_TF-update.ipynb](https://github.com/giuliarambelli/Event_Knowledge_Model_Comparison/blob/master/baseline_TF-update.ipynb) 
    
 3. **Structured Distributional Model (SDM; Chersoni et al., 2019)**: computes a thematic fit that computes both a context-independent and a context-dependent representation of the prototype role filler based on the current linguistic context.
 * associated script available upon request
@@ -61,7 +61,7 @@ We define the sentence score as the sum of the log-probabilities of each token w
    (N= total frequency of all triples).
    ![ppmi baseline 1](https://github.com/giuliarambelli/Event_Knowledge_Model_Comparison/blob/master/img/baseline1.gif)
       
-* associated script at: [baselines_PPMI_structured_and_unstructured.ipynb](https://github.com/giuliarambelli/Event_Knowledge_Model_Comparison/blob/master/baselines_PPMI_structured_and_unstructured.ipynb) 
+* associated script at: [baseline_PPMI_structured_and_unstructured.ipynb](https://github.com/giuliarambelli/Event_Knowledge_Model_Comparison/blob/master/baseline_PPMI_structured_and_unstructured.ipynb) 
 * NOTE: frequency files can be found here: [drive_folder](https://drive.google.com/drive/folders/1MK2Ff3LqXuTwIQe9ukXmhIQDWUcFIoO_?usp=sharing)
 
 ## DATASETS (name aliases)

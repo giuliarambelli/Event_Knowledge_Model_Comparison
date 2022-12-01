@@ -37,21 +37,21 @@ We define the sentence score as the sum of the log-probabilities of each token w
 1. **tinyLSTM** (Gauthier et al., 2020): computes the surprisal of a sentence as the sum of the surprisals of each token in the sentence
 *  associated script at: [lmzoo_tinylstm.py](https://github.com/giuliarambelli/Event_Knowledge_Model_Comparison/blob/master/lmzoo_tinylstm.py)
 
-2. **thematic Fit**
-   Create the prototype of the object considering the most associated fillers of the subject AND the verb.
+2. **thematic Fit**: computes the fit of a patient with the prototype representation of that role, considering the patient-role fillers most associated with the agent AND the predicate of the sentence (following Lenci, 2011).
      
    Procedure:
    1. we retrieve the *N* most strongly associated objects for the subject and the verb respectively, and we take the intersection of the two lists;
    2. we update their association scores using either the product (*prod*) function;
-   3. we select the embeddings corresponding to the first *M* objects in this list and we average them together (centroid) to create the prototype vector of the object given the subject and the verb;
+   3. we select the FastText embeddings corresponding to the first *M* objects in this list and we average them together (centroid) to create the prototype vector of the object given the subject and the verb;
    4. the thematic fit of the object x with respect to the other items in the sentence is computed as the similarity score of its corresponding lexical vector v(x) with the prototype vector. 
 
    To avoid zero scores, we apply the following methodology in case the intersection of fillers is empty:
    + in the two lists are not empty, we use verb's fillers to create the prototype;
    + if one list is empty, we take the other one.
+* associated script available upon request
    
-3. **Structured Distributional Model (SDM; Chersoni et al., 2019)**
-   
+3. **Structured Distributional Model (SDM; Chersoni et al., 2019)**: computes a thematic fit that computes both a context-independent and a context-dependent representation of the prototype role filler based on the current linguistic context.
+* associated script available upon request
 
 4. **PPMI-syntax** (structured input, input annotated with grammatical roles)    
    

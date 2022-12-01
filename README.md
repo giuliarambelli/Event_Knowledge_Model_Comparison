@@ -62,7 +62,7 @@ We define the sentence score as the sum of the log-probabilities of each token w
 * associated script at: [baselines_PPMI_structured_and_unstructured.ipynb](https://github.com/giuliarambelli/Event_Knowledge_Model_Comparison/blob/master/baselines_PPMI_structured_and_unstructured.ipynb) 
 * NOTE: frequency files can be found here: [drive_folder](https://drive.google.com/drive/folders/1MK2Ff3LqXuTwIQe9ukXmhIQDWUcFIoO_?usp=sharing)
 
-## 2. DATASETS (name aliases)
+## DATASETS (name aliases)
 
 **Dataset 1 - EventsAdapt (based on Fedorenko et al, 2020)** : newsentences_EventsAdapt
 

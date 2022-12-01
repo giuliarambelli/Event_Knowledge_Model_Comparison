@@ -1,10 +1,8 @@
-# Code to compute model scores for "Event knowledge in large language models: the gap between the impossible and the unlikely"
+# Event_Knowledge_Model_Comparison
 
-By Carina Kauf*, Anna A. Ivanova*, Giulia Rambelli, Emmanuele Chersoni, Jingyuan S. She, Zawad Chowdhury, Evelina Fedorenko, Alessandro Lenci
+Model scores for the paper "Event knowledge in large language models: the gap between the impossible and the unlikely". 
 
-(the two lead authors contributed equally to this work)
-
-Paper repository at: [https://github.com/carina-kauf/lm-event-knowledge](https://github.com/carina-kauf/lm-event-knowledge)
+The main analysis repo: https://github.com/carina-kauf/lm-event-knowledge 
 
 ## MODELS
 

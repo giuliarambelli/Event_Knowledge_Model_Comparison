@@ -15,6 +15,8 @@ We tested four attention-based Transformer (Vaswani et al., 2017) language model
 3. GPT-J (B. Wang & Komatsuzaki, 2021)
 4. GPT-2 (Radford et al., 2019)
 
+In the script names and result files, we use the name `ANN` instead of `LLM`.
+
 ### I.I Score calculation for RoBERTa & BERT
 
 **Main metric: Adapted Pseudo-log-likelihood (PLL)**<p>
